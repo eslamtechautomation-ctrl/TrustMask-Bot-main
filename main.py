@@ -52,7 +52,7 @@ def update_rss(data, run_number):
     
     # روابط الملفات
     audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_number}/episode.mp3"
-    main_cover_url = "https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/badef7fadaab0e8ee0befdf1b2d6b47bef65546c/podcast_cover.jpg"
+    main_cover_url = "https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"
     
     # استخراج البيانات من metadata
     meta = data.get('metadata', {})
