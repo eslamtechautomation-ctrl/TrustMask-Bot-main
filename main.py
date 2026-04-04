@@ -50,29 +50,28 @@ async def generate_content():
     Target Topics List:
     {trending_topics}
 
-    Rules:
-    1. Pick the MOST relevant trending topic from the list above to write today's episode.
+    rules = """
+    1. Pick the MOST relevant trending topic from the list above.
     2. Output ONLY the JSON object. 
-    3. Language: English.
-    4. SEO Rule: The "title" and "metadata -> description" MUST start with the selected trending topic name.
-    5. Stories: 4 unique, long-form stories (total 1000+ words) exploring the deep web or mysterious side of the chosen topic.
+    3. Stories: Provide exactly 4 unique stories. 
+       - Each story MUST be between 250 to 300 words. (Total episode 1000-1200 words).
+    4. Metadata: The 'description' should include a 1-sentence summary of each of the 4 stories for SEO.
+    """
 
-    JSON Structure:
-    {{
-      "title": "Selected Topic - Mysterious Title #hashtags",
+    json_structure = {
+      "title": "Selected Topic - Mysterious Title",
       "stories": [
-        {{"id": 1, "content": "..."}},
-        {{"id": 2, "content": "..."}},
-        {{"id": 3, "content": "..."}},
-        {{"id": 4, "content": "..."}}
+        {"id": 1, "summary": "Short 1-sentence teaser", "content": "Full 300-word story..."},
+        {"id": 2, "summary": "Short 1-sentence teaser", "content": "Full 300-word story..."},
+        {"id": 3, "summary": "Short 1-sentence teaser", "content": "Full 300-word story..."},
+        {"id": 4, "summary": "Short 1-sentence teaser", "content": "Full 300-word story..."}
       ],
-      "metadata": {{
-        "description": "...",
+      "metadata": {
+        "description": "Topic intro + Story 1 summary + Story 2 summary...",
         "tags": "...",
         "hashtags": "..."
-      }}
-    }}
-    """
+      }
+    }
     
     completion = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
