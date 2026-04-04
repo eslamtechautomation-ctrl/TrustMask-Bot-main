@@ -134,7 +134,7 @@ def update_rss(data, run_number):
     # قراءة وتحديث ملف RSS
     if not os.path.exists("podcast.xml"):
         # إنشاء ملف بسيط إذا لم يكن موجوداً
-        rss_content = '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Mystery Podcast</title></channel></rss>'
+        rss_content = '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Deep Web Tech Stories: AI & Future Trends</title> <description>Explore the mysterious side of technology, from AI uncertainty to deep web secrets and future innovations. Updated daily based on 2026 trending tech.</description> <itunes:category text="Technology"/> <itunes:category text="Science"/> <language>en-us</language></channel></rss>'
     else:
         with open("podcast.xml", "r", encoding="utf-8") as f:
             rss_content = f.read()
