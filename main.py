@@ -110,10 +110,17 @@ def update_rss(data, run_number):
 async def main():
     print("🤖 Generating mystery episode...")
     data = await generate_content()
+    
+    # صمام أمان للتأكد من وجود القصص
+    if 'stories' not in data:
+        print("❌ Error: AI failed to generate stories. Retrying...")
+        # يمكنك هنا إضافة محاولة إعادة طلب (Retry) أو إيقاف السكريبت بسلام
+        return
+
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
     
-    # تجميع القصص للصوت
-    full_script = "\n\n".join([s['content'] for s in data['stories']])
+    # تجميع القصص للصوت بأمان
+    full_script = "\n\n".join([s.get('content', '') for s in data['stories']])
     
     print(f"🎙️ Creating Audio v{run_num}...")
     await text_to_speech(full_script, "episode.mp3")
