@@ -38,5 +38,21 @@ Subscribe and turn on notifications to catch every new episode delivered directl
   
     
  
+  
+    <item>
+        <title>Deception and Heartbreak: 4 Tales of Romance Scams #RomanceScams #BetrayalOfTrust #TrueCrime (Ep. v3)</title>
+        <description>This podcast episode explores the world of romance scams, where deception and betrayal of trust can have devastating consequences. From sweet-talking con artists to vulnerable victims, we delve into the complex and often surprising stories of those who have been affected by these scams.
+
+🔍 Keywords: True Crime, Romance Scams, Betrayal of Trust, Deception, Online Dating, Scammers
+
+#RomanceScams #TrueCrime #BetrayalOfTrust #OnlineDating #Scammers
+
+Note: This content is for adults only.</description>
+        <pubDate>Sat, 04 Apr 2026 09:26:32 +0000</pubDate>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/badef7fadaab0e8ee0befdf1b2d6b47bef65546c/podcast_cover.jpg"/>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v3/episode.mp3" length="0" type="audio/mpeg"/>
+        <guid isPermaLink="false">v3</guid>
+    </item>
   </channel>
 </rss>
