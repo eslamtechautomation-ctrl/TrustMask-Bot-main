@@ -3,7 +3,7 @@ name: Secure Podcast Automator
 on:
   schedule:
     # سيقوم بالنشر كل ساعتين بالظبط (12 حلقة في اليوم)
-    - cron: '0 */2 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
