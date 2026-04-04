@@ -11,29 +11,67 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
 async def generate_content():
-    # طلب محتوى احترافي مع تشديد على صيغة الـ JSON
-    prompt = """
-    Role: You are a professional copywriter for real global news. Your task is to produce a complete podcast episode in JSON format only.
+    # --- [القائمة الكاملة والشاملة من كل الصور] ---
+    trending_topics = """
+    1. Uncertainty in artificial intelligence
+    2. Higher dimensions of intelligence
+    3. Future innovation ideas
+    4. Best ways to make money online 2025
+    5. Ecosystemic futures podcast
+    6. Why technology is important in our life
+    7. Most advanced technology country in the world
+    8. Urban Mycelium Networks: Planning Sustainable Smart Cities
+    9. The Bio-Digital Divide: How Synthetic Biology Will Redefine Global Trade
+    10. Regenerative Finance: Building Economic Systems
+    11. Things that are trending in 2026
+    12. What is trending in 2026
+    13. Uncertain knowledge and learning uncertainty in ai
+    14. Quantifying uncertainty in artificial intelligence
+    15. Handling uncertainty in artificial intelligence
+    16. Experience and shape ai tools for creativity
+    17. Emotional intelligence 2.0
+    18. I tested the most futuristic gadgets
+    19. New launches smartwatch
+    20. Deep Sea Ethics: Protecting Marine Ecosystems
+    21. Industrial automation podcast
+    22. Semiconductor industry podcast
+    23. Wantrepreneur to entrepreneur podcast
+    24. Indigenous Data Sovereignty: Protecting Traditional Knowledge
+    25. The Algorithmic Forest: Using AI to Restore Biodiversity
+    26. Trends that need to stop in 2026
+    27. Dances that are trending 2026
+    """
+    # ------------------------------------------------------------
+
+    prompt = f"""
+    Role: You are a professional SEO copywriter for tech and deep web news. 
+    Your task is to produce a complete podcast episode in JSON format only.
+
+    Target Topics List:
+    {trending_topics}
+
     Rules:
-    1. Output ONLY the JSON object. 
-    2. Language: English.
-    3. Stories: 4 unique, long-form stories about 'Romance Scams' and 'Betrayal of Trust'.
-    
+    1. Pick the MOST relevant trending topic from the list above to write today's episode.
+    2. Output ONLY the JSON object. 
+    3. Language: English.
+    4. SEO Rule: The "title" and "metadata -> description" MUST start with the selected trending topic name.
+    5. Stories: 4 unique, long-form stories (total 1000+ words) exploring the deep web or mysterious side of the chosen topic.
+
     JSON Structure:
-    {
-      "title": "Title #hashtags",
+    {{
+      "title": "Selected Topic - Mysterious Title #hashtags",
       "stories": [
-        {"id": 1, "content": "..."},
-        {"id": 2, "content": "..."},
-        {"id": 3, "content": "..."},
-        {"id": 4, "content": "..."}
+        {{"id": 1, "content": "..."}},
+        {{"id": 2, "content": "..."}},
+        {{"id": 3, "content": "..."}},
+        {{"id": 4, "content": "..."}}
       ],
-      "metadata": {
+      "metadata": {{
         "description": "...",
         "tags": "...",
         "hashtags": "..."
-      }
-    }
+      }}
+    }}
     """
     
     completion = client.chat.completions.create(
