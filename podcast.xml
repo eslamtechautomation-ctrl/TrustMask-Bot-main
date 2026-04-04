@@ -1,103 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title> Global Dispatch | Breaking News & Deep Analysis </title>
-    <link>https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main</link>
+    <title>Global Dispatch: Shadow of Trust</title>
+    <link>https://github.com/eslamtechautomation-ctrl</link>
     <language>en-us</language>
-    <description> 
-
-Welcome to the official [تحدى] podcast playlist. Here, we go beyond the 30-second soundbites to bring you the full story. From shifting geopolitical landscapes and economic "ticking time bombs" to undercover investigations that the mainstream media missed.
-
-Each episode is a deep dive into the events shaping our future. We connect the dots between global crises, power shifts, and the hidden truths of the "Shadow of Trust."
-
-What to expect:
-🌍 Global Briefings: Daily updates on international breaking news.
-🔍 Investigative Reports: Uncovering the "how" and "why" behind major scandals.
-📊 Expert Analysis: Decoding complex global trends for the everyday viewer.
-
-New episodes uploaded [ Every Monday & Thursday].
-
-✅ Subscribe to join our global community of truth-seekers and never miss a critical update.
-
-#GlobalNews #BreakingNews #Podcast #InvestigativeJournalism #WorldEvents #GlobalDispatch "</description>
-    
+    <itunes:author>Eslam</itunes:author>
+    <description>Investigative reports into the world's most dangerous secrets and global crises.</description>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Eslam</itunes:name>
+      <itunes:name>Global Dispatch</itunes:name>
       <itunes:email>eslammosde@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:author>Eslam</itunes:author>
-    <itunes:category text="Fiction"/>
-    <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href='https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/badef7fadaab0e8ee0befdf1b2d6b47bef65546c/podcast_cover.jpg'/>
+    <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/logo.jpg" />
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category>
 
-       
-  
-    
- 
-  
-    
-    
-    
     <item>
-        <title>Love in the Time of Deceit #RomanceScams #BetrayalOfTrust #OnlineSafety (Ep. v6)</title>
-        <description>This podcast episode explores the complex world of romance scams and the betrayal of trust that often comes with them. Through four unique stories, we delve into the experiences of individuals who have fallen victim to these scams, and examine the ways in which law enforcement and social media platforms are working to combat this growing problem.
-
-🔍 Keywords: romance scams, online safety, betrayal of trust, law enforcement, social media
-
-#RomanceScams #BetrayalOfTrust #OnlineSafety #LawEnforcement #SocialMedia</description>
-        <pubDate>Sat, 04 Apr 2026 10:00:35 +0000</pubDate>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v6/episode.mp3" length="0" type="audio/mpeg"/>
-        <guid isPermaLink="false">v6</guid>
-    </item>
-    <item>
-        <title>Deception and Heartbreak: The Dark Truth of Romance Scams #RomanceScams #BetrayalOfTrust #OnlineDating (Ep. v5)</title>
-        <description>This podcast episode explores the complex and often devastating world of romance scams, where the betrayal of trust can lead to financial, emotional, and psychological trauma. Through four unique stories, we delve into the different aspects of these scams, from the red flags missed by victims to the international efforts to combat them, and discuss the resources available for recovery and protection.
-
-🔍 Keywords: Romance Scams, Betrayal of Trust, Online Dating, Financial Fraud, Psychological Manipulation
-
-#RomanceScams #BetrayalOfTrust #OnlineDating #FinancialFraud #PsychologicalManipulation
-
-Note: This content is for adults only.</description>
-        <pubDate>Sat, 04 Apr 2026 09:45:57 +0000</pubDate>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v5/episode.mp3" length="0" type="audio/mpeg"/>
-        <guid isPermaLink="false">v5</guid>
-    </item>
-    <item>
-        <title>Exposing Deception: Romance Scams and Betrayal of Trust #RomanceScams #BetrayalOfTrust #OnlineSafety (Ep. v4)</title>
-        <description>This podcast episode explores the world of romance scams and betrayal of trust. From the psychology behind these scams to the long-term effects on their victims, we'll delve into the darkest corners of the internet to expose the truth.
-
-🔍 Keywords: romance scams, online safety, betrayal of trust, cybercrime
-
-#RomanceScams #BetrayalOfTrust #OnlineSafety #Cybercrime
-
-Note: This content is for adults only.</description>
-        <pubDate>Sat, 04 Apr 2026 09:42:10 +0000</pubDate>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v4/episode.mp3" length="0" type="audio/mpeg"/>
-        <guid isPermaLink="false">v4</guid>
-    </item>
-    <item>
-        <title>Deception and Heartbreak: 4 Tales of Romance Scams #RomanceScams #BetrayalOfTrust #TrueCrime (Ep. v3)</title>
-        <description>This podcast episode explores the world of romance scams, where deception and betrayal of trust can have devastating consequences. From sweet-talking con artists to vulnerable victims, we delve into the complex and often surprising stories of those who have been affected by these scams.
-
-🔍 Keywords: True Crime, Romance Scams, Betrayal of Trust, Deception, Online Dating, Scammers
-
-#RomanceScams #TrueCrime #BetrayalOfTrust #OnlineDating #Scammers
-
-Note: This content is for adults only.</description>
-        <pubDate>Sat, 04 Apr 2026 09:26:32 +0000</pubDate>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/badef7fadaab0e8ee0befdf1b2d6b47bef65546c/podcast_cover.jpg"/>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v3/episode.mp3" length="0" type="audio/mpeg"/>
-        <guid isPermaLink="false">v3</guid>
+      <title>Shadow of Trust: The Antarctica Betrayal</title>
+      <itunes:author>Eslam</itunes:author>
+      <description>Deep dive into the hidden truth behind the polar disaster.</description>
+      <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://example.com/audio/episode1.mp3" length="10485760" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_001</guid>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
