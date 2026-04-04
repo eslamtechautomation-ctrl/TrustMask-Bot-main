@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
-    <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/><title>Mystery Podcast</title>
-           <itunes:owner>
+   <itunes:owner>
+    <title>Deep Web Tech Stories: AI & 2026 Trends</title>
+    <description>Your daily guide into the mysteries of artificial intelligence, synthetic biology, and the future of tech. Professional deep web investigations.</description>
+    <language>en-us</language>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href=""https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
     <itunes:name>Eslam</itunes:name>
     <itunes:email>eslammosde@gmail.com</itunes:email>
+
+               
 </itunes:owner>
            
            
