@@ -163,6 +163,10 @@ async def main():
     # تجميع الـ 4 قصص معاً
     full_script = "\n\n".join([s['content'] for s in data['stories']])
 
+    chapters_summary = "\n".join([f"Story {s['id']}: {s['summary']}" for s in data['stories']])
+
+    full_description = f"{data['metadata']['description']}\n\nWhat's in this episode:\n{chapters_summary}"
+
     await text_to_speech(full_script, "episode.mp3")
     
     print("📝 Updating RSS Feed...")
