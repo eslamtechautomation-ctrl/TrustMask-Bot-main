@@ -17,7 +17,21 @@
     </itunes:category>
 
     
-<item>
+
+    <item>
+        <title>Beyond Deception: The Dark Side of Romance Scams #RomanceScams #BetrayalOfTrust #OnlineSafety (Ep. v8)</title>
+        <description>This podcast episode explores the dark side of romance scams and the betrayal of trust that comes with them. We delve into four unique stories of romance scams, highlighting the devastating consequences of these crimes and the importance of being cautious when meeting people online.
+
+🔍 Keywords: romance scams, online safety, betrayal of trust, dating sites, social media
+
+#RomanceScams #BetrayalOfTrust #OnlineSafety #DatingSites #SocialMedia</description>
+        <pubDate>Sat, 04 Apr 2026 10:13:03 +0000</pubDate>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v8/episode.mp3" length="0" type="audio/mpeg"/>
+        <guid isPermaLink="false">v8</guid>
+    </item>
+    <item>
   <title>Shadow of Trust: Global Dispatch Episode</title>
   <description>New investigative report on global trends and hidden truths.</description>
   <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
