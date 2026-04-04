@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Deep Web Tech Stories: AI &amp; 2026 Trends</title>
+    <link>https://familytvr.blogspot.com/</link>
+    <description>Investigating the dark side of technology and 2026 innovations.</description>
+    <language>en-us</language>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/main/podcast_cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Eslam</itunes:name>
+      <itunes:email>eslammosde.tech5@blogger.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>New Mystery Episode (Ep. v33)</title>
+      <description>
+
+What's in this episode:
+Story 1: Mystery investigation continues...
+Story 2: Mystery investigation continues...
+Story 3: Mystery investigation continues...
+Story 4: Mystery investigation continues...
+
+#2026 #AI #DeepWeb</description>
+      <pubDate>Sat, 04 Apr 2026 17:35:08 +0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/main/podcast_cover.jpg"/>
+      <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v33/episode.mp3" length="659952" type="audio/mpeg"/>
+      <guid isPermaLink="false">v33_1775324108</guid>
+    </item>
+  </channel>
+</rss>
