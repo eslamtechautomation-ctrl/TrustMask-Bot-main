@@ -59,7 +59,7 @@ def update_rss(data, run_number):
     # استخراج البيانات من metadata
     meta = data.get('metadata', {})
     full_description = f"{meta.get('description', '')}\n\n🔍 Keywords: {meta.get('tags', '')}\n\n{meta.get('hashtags', '')}"
-unique_version = f"{run_number}_{int(time.time())}"
+
     # تجهيز عنصر الـ XML الجديد بمسافات صحيحة
     new_item = f"""
     <item>
