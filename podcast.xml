@@ -15,6 +15,20 @@
     <itunes:category text="News" />
 
     
+    
+    <item>
+        <title>Love in the Time of Deceit #RomanceScams #BetrayalOfTrust (Ep. v11)</title>
+        <description>This podcast episode delves into the world of romance scams and the betrayal of trust, exploring four unique stories of deception and heartbreak. From fake soldiers to manipulative friends, these stories highlight the importance of staying vigilant and protecting oneself from the dangers of online scams.
+
+🔍 Keywords: romance scams, betrayal of trust, online safety, deception, heartbreak
+
+#RomanceScams #BetrayalOfTrust #OnlineSafety #Deception #Heartbreak</description>
+        <pubDate>Sat, 04 Apr 2026 10:26:35 +0000</pubDate>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/f0ee9f1a6dd13bed19bb2f553ff7c200391a0988/podcast_cover.jpg"/>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v11/episode.mp3" length="0" type="audio/mpeg"/>
+        <guid isPermaLink="false">v11</guid>
+    </item>
     <item>
         <title>Love in the Dark: Romance Scams and Betrayal of Trust #RomanceScams #BetrayalOfTrust #OnlineDating (Ep. v10)</title>
         <description>Join us as we explore the world of romance scams and the betrayal of trust, where love and deception collide in unexpected ways.
