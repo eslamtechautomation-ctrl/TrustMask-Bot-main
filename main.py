@@ -96,6 +96,7 @@ def update_rss(data, run_number):
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:media="http://search.yahoo.com/mrss/"
   <channel>
     <itunes:type>episodic</itunes:type>
     <title>Deep Web Tech Stories: AI &amp; 2026 Trends</title>
