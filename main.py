@@ -48,13 +48,14 @@ async def generate_content():
     Rules:
     1. Selection:  the trending topic that is most searched for and relevant to current events..
     2. Format: Output ONLY the JSON object. No extra text.
-    3. Stories: 4 unique stories (250-300 words each) with 1-sentence summaries.
+    3. Stories: 4 unique stories (400-600 words each) with 1-sentence summaries.
     4. Theme: Dark, investigative.
     5. NEVER use the same title twice. 
     6. Create a title and a distinctive, attractive description for each episode based on the story and appropriate tags.
     7. A reminder in the middle of the episode to subscribe to the channel and activate the bell button to follow the episodes and news
     8. A warning in an episode featuring participation on social media sites
     9. Put a question in a circle and a reminder about leaving a comment with an answer
+    10. Metadata: Provide a 'metadata' object containing a 'description' (catchy and SEO optimized) and a 'tags' list (at least 15 keywords for YouTube).
     """
     
     completion = client.chat.completions.create(
