@@ -78,7 +78,9 @@ def update_rss(data, run_number):
     actual_title = data.get('title', f"Tech Mystery Deep Web v{run_number}")
     
     meta = data.get('metadata', {})
-    
+    # تحويل التاجز من JSON إلى نص مفصول بفواصل ليفهمه يوتيوب
+    tags_list = meta.get('tags', [])
+    tags_string = ", ".join(tags_list) if tags_list else "AI, Tech, 2026, Deep Web"
     # تجميع ملخصات الـ 4 قصص عشان الوصف يتغير كل مرة
     stories = data.get('stories', [])
     chapters = "\n".join([f"- {s.get('summary', 'New tech story update.')}" for s in stories])
@@ -94,19 +96,22 @@ def update_rss(data, run_number):
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+    <itunes:type>episodic</itunes:type>
     <title>Deep Web Tech Stories: AI &amp; 2026 Trends</title>
     <link>https://familytvr.blogspot.com/</link>
     <description>Investigating the dark side of technology and 2026 innovations.</description>
-    <language>en-us</language>
-    <itunes:category text="Technology">
+   <language>en-us</language>
+    <itunes:category text="Music"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="{main_cover_url}"/>
-    <itunes:author>Eslam</itunes:author>
+    <itunes:author>Broadcast4u</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:block>no</itunes:block> 
     <itunes:owner>
-      <itunes:name>Eslam</itunes:name>
+      <itunes:name>Broadcast4u</itunes:name>
       <itunes:email>eslammosde@gmail.com</itunes:email>
     </itunes:owner>
     <item>
@@ -114,6 +119,7 @@ def update_rss(data, run_number):
       <description><![CDATA[{full_description}]]></description>
       <content:encoded><![CDATA[{full_description}]]></content:encoded>
       <pubDate>{pub_date}</pubDate>
+      <itunes:keywords>{tags_string}</itunes:keywords>  <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>{run_number}</itunes:episode>
       <itunes:explicit>yes</itunes:explicit>
