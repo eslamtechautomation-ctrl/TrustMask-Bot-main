@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>America’s foes see opportunity in Asia’s oil shock</title>
-        <description>"Asia's oil shock has far-reaching implications, and America's foes are taking notice. Discover how this crisis is creating new opportunities for adversaries to gain ground. Read the full article: https://www.economist.com/asia/2026/04/01/americas-foes-see-opportunity-in-asias-oil-shock"</description>
-        <pubDate>Thu, 09 Apr 2026 20:37:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v104/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v104_1775767024</guid>
+        <title>What’s the most attractive genre of entertainment?</title>
+        <description>"Discover the allure of different entertainment genres and find out what makes them so captivating. From movies to music, and theater to TV shows, which genre reigns supreme? Dive into the world of entertainment and explore the answer in our latest video. Read more about the most attractive genre of entertainment here: https://www.economist.com/culture/2026/04/05/whats-the-most-attractive-genre-of-entertainment"</description>
+        <pubDate>Thu, 09 Apr 2026 23:26:02 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v105/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v105_1775777162</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
