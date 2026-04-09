@@ -1,79 +1,62 @@
 import os
 import asyncio
-import json
-import edge_tts
 import time
-import re
 import feedparser
 import random
+import re
+import edge_tts
 from groq import Groq
 from datetime import datetime, timezone
 
-# إعداد المفاتيح
+# إعدادات
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
-def get_smart_blog_post():
-    rss_url = "https://familytvr.blogspot.com/feeds/posts/default?alt=rss&max-results=50"
+async def main():
+    # 1. جلب المقالات من بلوجر
+    rss_url = "https://familytvr.blogspot.com/feeds/posts/default?alt=rss"
     feed = feedparser.parse(rss_url)
-    if not feed.entries: return None
+    if not feed.entries: return
 
     entry = random.choice(feed.entries)
-    raw_content = entry.content[0].value if 'content' in entry else entry.summary
-    
-    # استخراج روابط التطبيقات والهاشتاجات
-    links = re.findall(r'href="(http[s]?://[^"]+)"', raw_content)
-    app_link = next((l for l in links if 'play.google' in l or 'bit.ly' in l), entry.link)
-    hashtags = " ".join(re.findall(r'#\w+', raw_content))
-    
-    clean_text = re.sub('<[^<]+?>', '', raw_content) 
-    return {"title": entry.title, "content": clean_text[:4000], "link": app_link, "tags": hashtags}
+    title = entry.title
+    link = entry.link
+    content = re.sub('<[^<]+?>', '', entry.summary)[:1000]
 
-async def generate_content(blog_data):
-    # إجبار الذكاء الاصطناعي على صياغة وصف يتضمن الرابط والهاشتاجات
-    prompt = f"Create YouTube JSON for: {blog_data['title']}. Include Link: {blog_data['link']} and Tags: {blog_data['tags']}. 4 audio segments."
-    completion = client.chat.completions.create(
+    # 2. توليد وصف ذكي (SEO)
+    prompt = f"Create a short YouTube description for: {title}. Include this link: {link}"
+    chat = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}],
-        response_format={"type": "json_object"}
+        messages=[{"role": "user", "content": prompt}]
     )
-    return json.loads(completion.choices[0].message.content)
+    description = chat.choices[0].message.content
 
-def update_rss(data, run_number, blog_data):
-    # استخدام طابع زمني لضمان تغير الـ GUID وتحديث يوتيوب
-    timestamp = int(time.time())
-    pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
-    audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_number}/episode.mp3"
-    
-    meta = data.get('metadata', {})
-    rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Family TVR Tech News</title>
-    <itunes:owner><itunes:name>Admin</itunes:name><itunes:email>eslammosde@gmail.com</itunes:email></itunes:owner>
-    <item>
-      <title><![CDATA[{blog_data['title']}]]></title>
-      <description><![CDATA[{meta.get('description', '')} \n\n Link: {blog_data['link']} \n {blog_data['tags']}]]></description>
-      <pubDate>{pub_date}</pubDate>
-      <enclosure url="{audio_url}" length="1048576" type="audio/mpeg"/>
-      <guid isPermaLink="false">v{run_number}_{timestamp}</guid>
-    </item>
-  </channel>
-</rss>"""
-    with open("podcast.xml", "w", encoding="utf-8") as f:
-        f.write(rss_content.strip())
+    # 3. تحويل النص لصوت
+    audio_file = "episode.mp3"
+    communicate = edge_tts.Communicate(content, "en-US-ChristopherNeural")
+    await communicate.save(audio_file)
 
-async def main():
-    blog_data = get_smart_blog_post()
-    if not blog_data: return
-    data = await generate_content(blog_data)
+    # 4. إنشاء ملف RSS (حتى لو حذف يحيا من جديد)
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
-    full_script = "\n\n".join([s.get('content', '') for s in data.get('stories', [])])
+    timestamp = int(time.time())
+    audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_num}/episode.mp3"
     
-    if len(full_script) > 50:
-        await edge_tts.Communicate(full_script, "en-US-ChristopherNeural").save("episode.mp3")
-        if os.path.exists("episode.mp3") and os.path.getsize("episode.mp3") > 0:
-            update_rss(data, run_num, blog_data)
+    rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>Family TVR News</title>
+    <item>
+        <title>{title}</title>
+        <description>{description}</description>
+        <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
+        <enclosure url="{audio_url}" length="1048576" type="audio/mpeg"/>
+        <guid>v{run_num}_{timestamp}</guid>
+    </item>
+</channel>
+</rss>"""
+    
+    with open("podcast.xml", "w", encoding="utf-8") as f:
+        f.write(rss_template)
 
 if __name__ == "__main__":
     asyncio.run(main())
