@@ -14,7 +14,7 @@ client = Groq(api_key=GROQ_API_KEY)
 
 async def main():
     # 1. جلب المقالات من بلوجر
-    rss_url = "https://familytvr.blogspot.com/feeds/posts/default?alt=rss"
+    rss_url = "https://www.economist.com/latest/rss.xml"
     feed = feedparser.parse(rss_url)
     if not feed.entries: return
 
