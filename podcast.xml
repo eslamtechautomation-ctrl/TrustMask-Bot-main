@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>England has shown the world how to replace farm subsidies</title>
-        <description>"Discover how England is revolutionizing the farming industry by phasing out subsidies. Learn more about this groundbreaking approach and its potential to transform agriculture worldwide: https://www.economist.com/leaders/2026/03/26/england-has-shown-the-world-how-to-replace-farm-subsidies"</description>
-        <pubDate>Thu, 09 Apr 2026 16:18:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v102/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v102_1775751499</guid>
+        <title>Inside the mind of Demis Hassabis</title>
+        <description>"Step into the visionary world of Demis Hassabis, co-founder of DeepMind and a pioneer in AI research. Get an exclusive glimpse into his thoughts on the future of artificial intelligence and its potential to revolutionize humanity. Listen to the full conversation here: https://www.economist.com/podcasts/2026/04/08/inside-the-mind-of-demis-hassabis"</description>
+        <pubDate>Thu, 09 Apr 2026 16:49:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v103/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v103_1775753369</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
