@@ -35,18 +35,19 @@ jobs:
       - name: Delete Old Episodes
         uses: dev-drprasad/delete-older-releases@v0.2.1
         with:
-          keep_latest: 10 # الاحتفاظ بآخر 3 فقط لضمان المساحة
+          keep_latest: 100 # الاحتفاظ بآخر 3 فقط لضمان المساحة
           delete_tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push RSS Update
         run: |
-            git config --global user.name "GitHub Action"
-            git config --global user.email "action@github.com"
-            git add podcast.xml
-            # إضافة --allow-empty أو استخدام رسالة متغيرة تضمن تنفيذ الـ commit
-            git commit -m "Update RSS: v${{ github.run_number }} - $(date)" || echo "No changes to commit"
-            git push origin main
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          # إضافة --force أو تغيير بسيط لضمان وجود اختلاف
+          git add podcast.xml
+          # إضافة تاريخ التشغيل لرسالة الـ Commit يضمن أنها لن تكون مكررة أبداً
+          git commit -m "Update RSS Feed: $(date +'%Y-%m-%d %H:%M:%S') [skip ci]" || echo "No changes"
+          git push origin main --force
           
       - name: Save Episode to Releases
         uses: softprops/action-gh-release@v1
@@ -59,6 +60,9 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          # إضافة --force أو تغيير بسيط لضمان وجود اختلاف
           git add podcast.xml
-          git commit -m "Update RSS: v${{ github.run_number }}" || echo "No changes to commit"
-          git push
+          # إضافة تاريخ التشغيل لرسالة الـ Commit يضمن أنها لن تكون مكررة أبداً
+          git commit -m "Update RSS Feed: $(date +'%Y-%m-%d %H:%M:%S') [skip ci]" || echo "No changes"
+          git push origin main --force
+          
