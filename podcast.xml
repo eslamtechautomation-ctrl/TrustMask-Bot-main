@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>Inside the mind of Demis Hassabis</title>
-        <description>"Step into the visionary world of Demis Hassabis, co-founder of DeepMind and a pioneer in AI research. Get an exclusive glimpse into his thoughts on the future of artificial intelligence and its potential to revolutionize humanity. Listen to the full conversation here: https://www.economist.com/podcasts/2026/04/08/inside-the-mind-of-demis-hassabis"</description>
-        <pubDate>Thu, 09 Apr 2026 16:49:29 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v103/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v103_1775753369</guid>
+        <title>America’s foes see opportunity in Asia’s oil shock</title>
+        <description>"Asia's oil shock has far-reaching implications, and America's foes are taking notice. Discover how this crisis is creating new opportunities for adversaries to gain ground. Read the full article: https://www.economist.com/asia/2026/04/01/americas-foes-see-opportunity-in-asias-oil-shock"</description>
+        <pubDate>Thu, 09 Apr 2026 20:37:04 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v104/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v104_1775767024</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
