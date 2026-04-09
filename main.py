@@ -65,11 +65,11 @@ async def main():
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>{{title}}</title>
-        <description>{{description}}</description>
-        <pubDate>{{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}}</pubDate>
-        <enclosure url="{{audio_url}}" length="1048576" type="audio/mpeg"/>
-        <guid>v{{run_num}}_{{timestamp}}</guid>
+        <title>{title}</title>
+        <description>{description}</description>
+        <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
+        <enclosure url="{audio_url}" length="1048576" type="audio/mpeg"/>
+        <guid>v{run_num}_{timestamp}</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
