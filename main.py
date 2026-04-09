@@ -40,8 +40,8 @@ async def main():
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
     timestamp = int(time.time())
     audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_num}/episode.mp3"
-    
-   rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
+    # تأكد أن هذا السطر يبدأ بنفس مستوى المسافات للأسطر السابقة في الكود الخاص بك
+    rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -52,26 +52,14 @@ async def main():
     <link>https://familytvr.blogspot.com/</link>
     <language>en-us</language>
     <itunes:author>Family TVR</itunes:author>
-    <itunes:summary>Stop guessing with your money. While the world panics, the top 1% are positioning themselves for the biggest wealth transfer in history. Are you with them?</itunes:summary>
+    <itunes:summary>Stop guessing with your money. While the world panics, the top 1% are positioning themselves for the biggest wealth transfer in history.</itunes:summary>
     <itunes:owner>
         <itunes:name>Eslam Tech</itunes:name>
         <itunes:email>eslammosde@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
-    <description><![CDATA[Stop guessing with your money. While the world panics, the top 1% are positioning themselves for the biggest wealth transfer in history.
-    
-The global economy is changing faster than ever. If you aren't staying informed, you're losing value every single day.
-
-This podcast is your ultimate Economic Survival Guide. We go beyond the surface-level news to bring you deep insights, market secrets, and actionable strategies.
-
-Inside this Series, we cover:
-- Market Analysis
-- Inflation Protection
-- Wealth Strategies
-- Geopolitics & Money
-
-Subscribe to stay ahead of the curve.]]></description>
+    <description><![CDATA[Stop guessing with your money. The global economy is changing faster than ever.]]></description>
     <itunes:category text="Business">
         <itunes:category text="Investing"/>
     </itunes:category>
