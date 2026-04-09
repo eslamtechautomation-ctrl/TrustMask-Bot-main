@@ -5,7 +5,7 @@
     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://eslamtechautomation-ctrl.github.io/TrustMask-Bot-main/podcast.xml" rel="self" type="application/rss+xml" />
-    <title>Family TVR Podcast</title>
+    <title>The Economic Edge: Master Your Wealth</title>
     <link>https://familytvr.blogspot.com/</link>
     <language>en-us</language>
     <itunes:author>Family TVR</itunes:author>
@@ -13,8 +13,26 @@
         <itunes:name>Eslam Tech</itunes:name>
         <itunes:email>eslammosde@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/main/assets/cover.jpg" />
-    <description>تحويل آلي لمقالات مدونة Family TVR إلى بودكاست صوتي</description>
+    <itunes:image href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/545a6999e0f4cb311eb8f7e91b0ece1062530fbd/podcast_cover.jpg" />
+    <description>"Stop guessing with your money. While the world panics, the top 1% are positioning themselves for the biggest wealth transfer in history. Are you with them?"
+    The global economy is changing faster than ever. If you aren't staying informed, you're losing value every single day.
+
+This playlist is your ultimate Economic Survival Guide. We go beyond the surface-level news to bring you deep insights, market secrets, and actionable strategies that mainstream media won't tell you. Whether it’s a market crash or a sudden bull run, we help you turn volatility into opportunity.
+
+Inside this Series, we cover:
+
+Market Analysis: Real-time updates on Gold, Stocks, and Global Currencies.
+
+Inflation Protection: Practical steps to keep your savings from disappearing.
+
+Wealth Strategies: How to spot "The Big Trade" before it happens.
+
+Geopolitics & Money: How global conflicts directly impact your bank account.
+
+Don't just watch the news—understand the game. Subscribe and hit the bell icon to stay ahead of the curve.
+
+
+#EconomyNews #MarketCrash #InvestmentStrategy #FinancialFreedom #GlobalMarkets #WealthProtection #EconomicCrisis2026</description>
     <itunes:category text="Technology" />
     <item>
         <title>#Tech #Entertainment: Unveiling the Future of Entertainment Technology with Free Fire Lore: Bermuda Secrets</title>
