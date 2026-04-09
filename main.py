@@ -3,7 +3,8 @@ import asyncio
 import json
 import edge_tts
 import time
-import feedparser # ستحتاج لإضافتها في متطلبات المشروع
+import re
+import feedparser
 from groq import Groq
 from datetime import datetime, timezone
 
@@ -11,12 +12,13 @@ from datetime import datetime, timezone
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
+# 1. جلب محتوى المقال الأخير من RSS المدونة
 def get_latest_blog_post():
     rss_url = "https://familytvr.blogspot.com/feeds/posts/default?alt=rss"
     feed = feedparser.parse(rss_url)
     if feed.entries:
         latest_entry = feed.entries[0]
-        # تنظيف النص من أكواد HTML
+        # تنظيف النص من أكواد HTML ليكون النص صافي
         clean_content = re.sub('<[^<]+?>', '', latest_entry.content[0].value)
         return {
             "title": latest_entry.title,
@@ -25,26 +27,28 @@ def get_latest_blog_post():
         }
     return None
 
-
 async def generate_content(blog_data):
-    # نمرر محتوى المقال للموجه
+    if not blog_data:
+        return None
+
+    # الموجه الجديد: يركز فقط على محتوى المدونة والتقنية
     prompt = f"""
-    Role: Professional YouTube Creator & Tech Investigative Journalist.
-    Task: Repurpose a Blog Article into a viral Video Podcast script.
+    Role: You are a professional Tech Content Creator for YouTube and Dailymotion.
+    Task: Convert the following blog post into a structured 4-segment video script.
     
-    SOURCE ARTICLE FROM BLOG:
+    SOURCE MATERIAL (Blog Post):
     Title: {blog_data['title']}
     Content: {blog_data['content']}
-    
+    Blog Link: {blog_data['link']}
+
     STRICT INSTRUCTIONS:
-    1. Tone: Deep, dark, and investigative (Deep Web style).
+    1. Tone: Professional, informative, and technical (Mirror the blog's style).
     2. Format: Output ONLY a JSON object.
-    3. Transformation: Rewrite the article content into 4 dramatic storytelling segments (400-600 words each).
-    4. Integration: Mention that the viewer can find more technical details at {blog_data['link']}.
-    5. Promotion: Include a segment about downloading our official apps from familytvr.blogspot.com.
-    6. Metadata: Provide catchy YouTube SEO title, description, and 20 keywords.
+    3. Transformation: Break the article into 4 clear segments that explain the topic thoroughly.
+    4. Call to Action: Direct viewers to visit {blog_data['link']} for the full guide.
+    5. Promotion: Mention our official apps available on the blog.
+    6. Metadata: Provide a 'youtube_title' based on the blog title, an SEO 'description', and 20 relevant 'tags'.
     """
-    # باقي كود الـ completion كما هو...
     
     completion = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
@@ -54,66 +58,40 @@ async def generate_content(blog_data):
     return json.loads(completion.choices[0].message.content)
 
 async def text_to_speech(text, output_file):
+    # استخدام صوت Christopher الاحترافي
     communicate = edge_tts.Communicate(text, "en-US-ChristopherNeural")
     await communicate.save(output_file)
 
-def update_rss(data, run_number):
+def update_rss(data, run_number, blog_link):
     pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_number}/episode.mp3"
     main_cover_url = "https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/main/podcast_cover.jpg"
     
-    # استخراج العنوان الفعلي من JSON الـ AI
-    # لو الـ AI منساش الـ title هياخده، لو نساه هياخد اسم افتراضي برقم الـ Run
-    actual_title = data.get('title', f"Tech Mystery Deep Web v{run_number}")
-    
     meta = data.get('metadata', {})
-    # تحويل التاجز من JSON إلى نص مفصول بفواصل ليفهمه يوتيوب
-    tags_list = meta.get('tags', [])
-    tags_string = ", ".join(tags_list) if tags_list else "AI, Tech, 2026, Deep Web"
-    # تجميع ملخصات الـ 4 قصص عشان الوصف يتغير كل مرة
-    stories = data.get('stories', [])
-    chapters = "\n".join([f"- {s.get('summary', 'New tech story update.')}" for s in stories])
+    actual_title = meta.get('youtube_title', f"Tech Update v{run_number}")
+    tags_string = ", ".join(meta.get('tags', ["Tech", "Android", "Tutorial"]))
     
-    full_description = f"{meta.get('description', '')}\n\nWhat's in this episode:\n{chapters}\n\n#2026 #AI #DeepWeb"
-
+    stories = data.get('stories', [])
+    summary_text = "\n".join([f"- {s.get('summary', 'Latest tech update.')}" for s in stories])
+    
+    # الوصف يركز على الرابط والمحتوى التقني
+    full_description = f"{meta.get('description', '')}\n\nFull Guide & App Download: {blog_link}\n\n#Technology #TechNews #FamilyTVR"
     file_size = os.path.getsize("episode.mp3") if os.path.exists("episode.mp3") else "1024"
 
-    # وسم الـ <title> دلوقتي هياخد actual_title المتغير
-  # إضافة وسم التصنيف الفرعي ووسوم التحسين
     rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-     xmlns:media="http://search.yahoo.com/mrss/"
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <itunes:type>episodic</itunes:type>
-    <title>Deep Web Tech Stories: AI &amp; 2026 Trends</title>
-    <link>https://familytvr.blogspot.com/</link>
-    <description>Investigating the dark side of technology and 2026 innovations.</description>
-   <language>en-us</language>
-    <itunes:category text="Music"/>
+    <title>Family TVR: Tech &amp; Software Updates</title>
+    <link>{blog_link}</link>
+    <description>Official video podcast for familytvr.blogspot.com - Covering latest apps and tech guides.</description>
+    <language>en-us</language>
     <itunes:category text="Technology"/>
-    <itunes:category text="News">
-      <itunes:category text="Tech News"/>
-    </itunes:category>
     <itunes:image href="{main_cover_url}"/>
-    <itunes:author>Broadcast4u</itunes:author>
-    <itunes:explicit>yes</itunes:explicit>
-    <itunes:block>no</itunes:block> 
-    <itunes:owner>
-      <itunes:name>Broadcast4u</itunes:name>
-      <itunes:email>eslammosde@gmail.com</itunes:email>
-    </itunes:owner>
     <item>
       <title><![CDATA[{actual_title}]]></title> 
       <description><![CDATA[{full_description}]]></description>
-      <content:encoded><![CDATA[{full_description}]]></content:encoded>
       <pubDate>{pub_date}</pubDate>
-      <itunes:keywords>{tags_string}</itunes:keywords>  <itunes:explicit>yes</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>{run_number}</itunes:episode>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:image href="{main_cover_url}"/>
+      <itunes:keywords>{tags_string}</itunes:keywords>
       <enclosure url="{audio_url}" length="{file_size}" type="audio/mpeg"/>
       <guid isPermaLink="false">v{run_number}_{int(time.time())}</guid>
     </item>
@@ -123,24 +101,29 @@ def update_rss(data, run_number):
         f.write(rss_content.strip())
 
 async def main():
-    print("🤖 Generating mystery episode...")
-    data = await generate_content()
+    print("📡 Fetching latest content from your blog...")
+    blog_data = get_latest_blog_post()
     
-    # التأكد من وجود قصص على الأقل قبل المتابعة
-    if not data.get('stories'):
-        print("❌ Error: AI returned empty stories. Stopping to prevent corrupted RSS.")
+    if not blog_data:
+        print("❌ Could not find any posts on the blog.")
+        return
+
+    print(f"🤖 Processing Article: {blog_data['title']}...")
+    data = await generate_content(blog_data)
+    
+    if not data or not data.get('stories'):
+        print("❌ AI failed to repurpose content.")
         return
 
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
+    full_script = "\n\n".join([s.get('content', '') for s in data.get('stories', [])])
     
-    # تجميع القصص للصوت بأمان (لو الـ content ناقص مش هيطلع Error)
-    full_script = "\n\n".join([s.get('content', 'Searching for more deep web data...') for s in data.get('stories', [])])
-    
-    print(f"🎙️ Creating Audio v{run_num}...")
+    print(f"🎙️ Creating Audio for Video v{run_num}...")
     await text_to_speech(full_script, "episode.mp3")
     
-    print("📝 Writing Fresh RSS Feed...")
-    update_rss(data, run_num)
-    print(f"✅ Done! Episode v{run_num} is ready.")
+    print("📝 Writing final RSS for YouTube/Dailymotion...")
+    update_rss(data, run_num, blog_data['link'])
+    print(f"✅ Success! Content synced for: {blog_data['title']}")
+
 if __name__ == "__main__":
     asyncio.run(main())
