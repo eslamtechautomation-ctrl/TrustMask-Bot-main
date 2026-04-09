@@ -42,9 +42,41 @@ async def main():
     audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_num}/episode.mp3"
     
     rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-    <title>Family TVR News</title>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/blob/main/podcast.xml" rel="self" type="application/rss+xml" />
+    <title>The Economic Edge: Master Your Wealth</title>
+    <link>https://familytvr.blogspot.com/</link>
+    <language>en-us</language>
+    <itunes:author>Family TVR</itunes:author>
+    <itunes:owner>
+        <itunes:name>Eslam Tech</itunes:name>
+        <itunes:email>eslammosde@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
+    <description>"Stop guessing with your money. While the world panics, the top 1% are positioning themselves for the biggest wealth transfer in history. Are you with them?"
+    The global economy is changing faster than ever. If you aren't staying informed, you're losing value every single day.
+
+This playlist is your ultimate Economic Survival Guide. We go beyond the surface-level news to bring you deep insights, market secrets, and actionable strategies that mainstream media won't tell you. Whether it’s a market crash or a sudden bull run, we help you turn volatility into opportunity.
+
+Inside this Series, we cover:
+
+Market Analysis: Real-time updates on Gold, Stocks, and Global Currencies.
+
+Inflation Protection: Practical steps to keep your savings from disappearing.
+
+Wealth Strategies: How to spot "The Big Trade" before it happens.
+
+Geopolitics & Money: How global conflicts directly impact your bank account.
+
+Don't just watch the news—understand the game. Subscribe and hit the bell icon to stay ahead of the curve.
+
+
+#EconomyNews #MarketCrash #InvestmentStrategy #FinancialFreedom #GlobalMarkets #WealthProtection #EconomicCrisis2026</description>
+    <itunes:category text="Technology" />
     <item>
         <title>{title}</title>
         <description>{description}</description>
