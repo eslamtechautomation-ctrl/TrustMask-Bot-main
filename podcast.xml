@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-    <title>Family TVR News</title>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://eslamtechautomation-ctrl.github.io/Podcast-Automation-System/podcast.xml" rel="self" type="application/rss+xml" />
+    <title>Family TVR Podcast</title>
+    <link>https://familytvr.blogspot.com/</link>
+    <language>en-us</language>
+    <itunes:author>Family TVR</itunes:author>
+    <itunes:owner>
+        <itunes:name>Eslam Tech</itunes:name>
+        <itunes:email>eslammosde@gmail.com</itunes:email>
     <item>
         <title>#Tech #Entertainment: Unveiling the Future of Entertainment Technology with Free Fire Lore: Bermuda Secrets</title>
         <description>"Get ready to explore the future of entertainment technology with Free Fire Lore: Bermuda Secrets. In this episode, we dive into the exciting world of immersive gaming and innovative storytelling. Join us as we unveil the latest advancements in tech and entertainment. Learn more: https://familytvr.blogspot.com/2026/04/tech-entertainment-unveiling-future-of_0726835600.html #Tech #Entertainment"</description>
