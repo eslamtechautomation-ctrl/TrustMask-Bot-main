@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>France offers some hope for defeating populists</title>
-        <description>"Can France's approach be a blueprint for defeating populism? In a recent article by The Economist, experts weigh in on the country's strategy and what it might mean for the future of European politics. Read more here: https://www.economist.com/europe/2026/03/26/france-offers-some-hope-for-defeating-populists"</description>
-        <pubDate>Fri, 10 Apr 2026 11:37:43 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v107/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v107_1775821063</guid>
+        <title>The US in Brief: Painting Mar-a-Lago blue</title>
+        <description>Discover the latest on the potential makeover of Mar-a-Lago, as a proposal to paint Donald Trump's iconic resort blue takes center stage. Get the full story here: https://www.economist.com/in-brief/2026/03/25/the-us-in-brief-painting-mar-a-lago-blue</description>
+        <pubDate>Fri, 10 Apr 2026 14:43:19 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v108/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v108_1775832199</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
