@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>What’s the most attractive genre of entertainment?</title>
-        <description>"Discover the allure of different entertainment genres and find out what makes them so captivating. From movies to music, and theater to TV shows, which genre reigns supreme? Dive into the world of entertainment and explore the answer in our latest video. Read more about the most attractive genre of entertainment here: https://www.economist.com/culture/2026/04/05/whats-the-most-attractive-genre-of-entertainment"</description>
-        <pubDate>Thu, 09 Apr 2026 23:26:02 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v105/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v105_1775777162</guid>
+        <title>Our prediction for how SCOTUS will rule on birthright citizenship</title>
+        <description>"Join us as we break down our expert prediction for the upcoming SCOTUS ruling on birthright citizenship. For a deeper dive into the issue, read the full article here: https://www.economist.com/united-states/2026/03/31/our-prediction-for-how-scotus-will-rule-on-birthright-citizenship and tune in to our video for analysis and insights on what this ruling could mean for the future of US citizenship."</description>
+        <pubDate>Fri, 10 Apr 2026 06:19:44 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v106/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v106_1775801984</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
