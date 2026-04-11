@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>Hormuz is not the only weak spot for global trade</title>
-        <description>"Discover the hidden vulnerabilities in global trade beyond the Strait of Hormuz. From congested canals to pirate-infested waters, learn about the V-shaped 'chokepoints' that could disrupt the flow of goods and commodities worldwide. Read the full article here: https://www.economist.com/briefing/2026/03/26/hormuz-is-not-the-only-weak-spot-for-global-trade"</description>
-        <pubDate>Sat, 11 Apr 2026 14:06:50 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v115/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v115_1775916410</guid>
+        <title>As Iran’s civilian economy crumbles, its military economy grows stronger</title>
+        <description>"Iran's economy is at a crossroads. While its civilian sector struggles, the military economy is thriving. Learn more about this striking contrast and what it means for the country's future in this in-depth analysis: https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger"</description>
+        <pubDate>Sat, 11 Apr 2026 16:02:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v116/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v116_1775923336</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
