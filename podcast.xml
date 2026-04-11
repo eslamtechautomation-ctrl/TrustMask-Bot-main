@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>Venezuela’s surreal transition</title>
-        <description>"Explore the complex and surreal transition unfolding in Venezuela. From economic upheaval to political shifts, understand the country's uncertain future. Listen to the full discussion: https://www.economist.com/podcasts/2026/04/08/venezuelas-surreal-transition"</description>
-        <pubDate>Sat, 11 Apr 2026 19:51:31 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v117/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v117_1775937091</guid>
+        <title>All sides in the Gulf war are at risk of overplaying their hands</title>
+        <description>Tensions are escalating in the Gulf, and it's a precarious game of strategy for all parties involved. With each side attempting to outmaneuver the others, the risk of miscalculation is high. Find out how the situation is unfolding and what it means for the region: https://www.economist.com/middle-east-and-africa/2026/03/29/all-sides-in-the-gulf-war-are-at-risk-of-overplaying-their-hands</description>
+        <pubDate>Sat, 11 Apr 2026 22:00:37 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v118/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v118_1775944837</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
