@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>Meet the four Democratic tribes</title>
-        <description>"Discover the diverse groups that make up the Democratic Party. From moderates to progressives, learn about the four distinct 'tribes' that are shaping the party's future. Read the full article here: https://www.economist.com/united-states/2026/04/07/meet-the-four-democratic-tribes"</description>
-        <pubDate>Sat, 11 Apr 2026 08:02:42 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v113/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v113_1775894562</guid>
+        <title>Russia wants to limit contact with the outside world</title>
+        <description>"Is Russia turning inward. The country is taking steps to limit its contact with the outside world, but what does this mean for its future. Read more about the latest developments here: https://www.economist.com/europe/2026/03/26/russia-wants-to-limit-contact-with-the-outside-world"</description>
+        <pubDate>Sat, 11 Apr 2026 10:59:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v114/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v114_1775905156</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
