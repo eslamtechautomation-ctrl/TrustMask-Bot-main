@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>As Iran’s civilian economy crumbles, its military economy grows stronger</title>
-        <description>"Iran's economy is at a crossroads. While its civilian sector struggles, the military economy is thriving. Learn more about this striking contrast and what it means for the country's future in this in-depth analysis: https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger"</description>
-        <pubDate>Sat, 11 Apr 2026 16:02:16 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v116/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v116_1775923336</guid>
+        <title>Venezuela’s surreal transition</title>
+        <description>"Explore the complex and surreal transition unfolding in Venezuela. From economic upheaval to political shifts, understand the country's uncertain future. Listen to the full discussion: https://www.economist.com/podcasts/2026/04/08/venezuelas-surreal-transition"</description>
+        <pubDate>Sat, 11 Apr 2026 19:51:31 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v117/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v117_1775937091</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
