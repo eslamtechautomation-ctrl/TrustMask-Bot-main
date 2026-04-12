@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>All sides in the Gulf war are at risk of overplaying their hands</title>
-        <description>Tensions are escalating in the Gulf, and it's a precarious game of strategy for all parties involved. With each side attempting to outmaneuver the others, the risk of miscalculation is high. Find out how the situation is unfolding and what it means for the region: https://www.economist.com/middle-east-and-africa/2026/03/29/all-sides-in-the-gulf-war-are-at-risk-of-overplaying-their-hands</description>
-        <pubDate>Sat, 11 Apr 2026 22:00:37 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v118/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v118_1775944837</guid>
+        <title>A vaccine for everything</title>
+        <description>"Imagine a world where vaccines can prevent not just diseases, but also allergies, addiction, and even mental health conditions. Join us as we explore the latest advancements in vaccine technology and the possibilities of a future where a vaccine can be developed for almost anything. Listen to the full discussion on The Economist's podcast: https://www.economist.com/podcasts/2026/04/01/a-vaccine-for-everything"</description>
+        <pubDate>Sun, 12 Apr 2026 06:11:39 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v119/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v119_1775974299</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
