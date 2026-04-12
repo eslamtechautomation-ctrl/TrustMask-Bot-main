@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>A vaccine for everything</title>
-        <description>"Imagine a world where vaccines can prevent not just diseases, but also allergies, addiction, and even mental health conditions. Join us as we explore the latest advancements in vaccine technology and the possibilities of a future where a vaccine can be developed for almost anything. Listen to the full discussion on The Economist's podcast: https://www.economist.com/podcasts/2026/04/01/a-vaccine-for-everything"</description>
-        <pubDate>Sun, 12 Apr 2026 06:11:39 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v119/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v119_1775974299</guid>
+        <title>AI micro-dramas are shaking up Chinese entertainment</title>
+        <description>"Discover how AI micro-dramas are revolutionizing the Chinese entertainment scene. From scripted shows to interactive experiences, AI is changing the game. Learn more about this exciting trend: https://www.economist.com/china/2026/04/09/ai-micro-dramas-are-shaking-up-chinese-entertainment"</description>
+        <pubDate>Sun, 12 Apr 2026 11:07:22 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v120/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v120_1775992042</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
