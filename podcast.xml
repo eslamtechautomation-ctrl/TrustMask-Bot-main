@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>South Korea’s AI industrial policy meets the energy shock</title>
-        <description>"South Korea's ambitious AI industrial policy is facing its biggest challenge yet - the energy shock. How will the country balance its vision for a tech-driven future with the harsh realities of rising energy costs? Read the full article here: https://www.economist.com/finance-and-economics/2026/04/09/south-koreas-ai-industrial-policy-meets-the-energy-shock and join the conversation in the comments below."</description>
-        <pubDate>Mon, 13 Apr 2026 12:12:17 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v126/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v126_1776082337</guid>
+        <title>Lessons for the world from tiny Hungary</title>
+        <description>Discover the unexpected lessons the world can learn from tiny Hungary. From innovative approaches to economic growth, to unique cultural perspectives, this small European nation has a lot to offer. Read more about it in The Economist: https://www.economist.com/leaders/2026/04/01/lessons-for-the-world-from-tiny-hungary</description>
+        <pubDate>Mon, 13 Apr 2026 18:54:37 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v127/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v127_1776106477</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
