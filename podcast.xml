@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>America’s pro-Israel lobby is facing a backlash</title>
-        <description>"America's pro-Israel lobby is under fire. With growing criticism and controversy surrounding its influence, the lobby is facing a significant backlash. Read more about the shifting landscape: https://www.economist.com/united-states/2026/03/26/americas-pro-israel-lobby-is-facing-a-backlash"</description>
-        <pubDate>Sun, 12 Apr 2026 22:03:28 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v124/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v124_1776031408</guid>
+        <title>Hurricane Trump threatens to blow China off course</title>
+        <description>"Get ready for the storm of the century. Hurricane Trump is brewing and it's got China in its sights. With tensions rising and trade wars looming, can China weather the storm or will it be blown off course? Read the full article here: https://www.economist.com/international/2026/03/31/hurricane-trump-threatens-to-blow-china-off-course and join the conversation in the comments below."</description>
+        <pubDate>Mon, 13 Apr 2026 07:27:30 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v125/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v125_1776065250</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
