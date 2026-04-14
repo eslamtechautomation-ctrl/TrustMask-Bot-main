@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The Bank of England’s eyes and ears</title>
-        <description>"Uncover the inner workings of the UK's central bank with 'The Bank of England's eyes and ears' podcast, exploring monetary policy, economy, and finance through expert insights and analysis."</description>
-        <pubDate>Tue, 14 Apr 2026 10:10:53 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v141/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v141_1776161453</guid>
+        <title>Most Syrians in Germany are there to stay</title>
+        <description>"Explore the journeys and experiences of Syrian refugees in Germany. Listen to 'Most Syrians in Germany are there to stay', a thought-provoking podcast discussing integration, challenges, and the future of Syrian communities in Germany."</description>
+        <pubDate>Tue, 14 Apr 2026 10:28:33 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v142/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v142_1776162513</guid>
     </item>
 </channel>
 </rss>
