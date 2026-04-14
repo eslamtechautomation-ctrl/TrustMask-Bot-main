@@ -15,44 +15,48 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
 def create_enhanced_thumbnail(title_text):
+    """دالة لإنشاء صورة مصغرة نظيفة واحترافية بدون تداخل نصوص"""
     try:
-        # 1. فتح الصورة الأصلية (الرجل بداخل غرفة العمليات المالية)
-        img = Image.open("podcast_cover.jpg")
+        # 1. فتح الصورة الأصلية (يجب أن تكون نسخة نظيفة تماماً بدون أي كتابة يدوية)
+        # تأكد من رفع صورة باسم "clean_cover.jpg" لا تحتوي على نصوص
+        if os.path.exists("clean_cover.jpg"):
+            img = Image.open("clean_cover.jpg").copy()
+        else:
+            img = Image.open("podcast_cover.jpg").copy()
+            
         width, height = img.size
         draw = ImageDraw.Draw(img)
 
-        # 2. إعداد الخط - نستخدم خطاً عريضاً ليكون العنوان هجومياً وجاذباً
+        # 2. إعداد الخط (DejaVuSans-Bold متوفر في GitHub Actions)
         try:
-            # مسار الخط الافتراضي في بيئة GitHub Actions (Ubuntu)
-            font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 75)
+            # حجم الخط 60 ليكون كبيراً وواضحاً
+            font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 60)
         except:
             font = ImageFont.load_default()
 
-        # 3. معالجة النص: تقصير العنوان إذا كان طويلاً جداً وتنظيمه في أسطر
-        # العناوين القصيرة (حتى 20 حرفاً للسطر) تزيد من نسبة النقر لأنها تُقرأ بسرعة
+        # 3. تنظيم النص لأسطر قصيرة (20 حرف للسطر) لزيادة نسبة النقر
         lines = textwrap.wrap(title_text, width=20)
         
-        # 4. تحديد موقع البداية (في الجزء العلوي لترك وجه الشخص واضحاً)
-        y_text = 80 
+        # 4. مكان البداية في الجزء العلوي المظلم (بعيداً عن وجه الرجل)
+        y_text = 50 
         
         for line in lines:
-            # حساب إحداثيات التوسيط
+            # حساب التوسيط
             left, top, right, bottom = draw.textbbox((0, 0), line, font=font)
-            line_width = right - left
-            x_text = (width - line_width) / 2
+            w = right - left
+            x_text = (width - w) / 2
             
-            # 5. إضافة تأثير البروز (تكرار النص كظل خلفي عميق)
-            # رسم النص باللون الأبيض مع إطار أسود سميك جداً (Stroke) لضمان الوضوح فوق أي خلفية
+            # 5. رسم النص الأبيض مع إطار أسود (Stroke) لضمان الوضوح التام
             draw.text((x_text, y_text), line, font=font, fill="white", 
-                      stroke_width=5, stroke_fill="black")
+                      stroke_width=4, stroke_fill="black")
             
-            y_text += 95 # المسافة بين الأسطر
+            y_text += 80 # المسافة بين الأسطر
 
-        # 6. حفظ الصورة النهائية بنفس الاسم ليتم رفعها تلقائياً
+        # 6. حفظ الصورة النهائية كـ podcast_cover.jpg ليقرأها يوتيوب
         img.save("podcast_cover.jpg")
-        print("Success: High-CTR Thumbnail generated!")
+        print("Success: New clean thumbnail generated.")
     except Exception as e:
-        print(f"Error during thumbnail creation: {e}")
+        print(f"Thumbnail error: {e}")
 
 async def main():
     # 1. جلب المقالات من RSS
@@ -64,15 +68,14 @@ async def main():
     title = entry.title
     summary = re.sub('<[^<]+?>', '', entry.summary)
 
-    # 2. توليد سكريبت البودكاست عبر Groq
-    script_prompt = f"Write a detailed professional podcast script in English about: {title}. Based on this context: {summary}. Make it around 300-400 words long."
+    # 2. توليد السكريبت والوصف عبر Groq
+    script_prompt = f"Write a detailed professional podcast script in English about: {title}. Context: {summary}. 350 words."
     chat_response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": script_prompt}]
     )
     podcast_script = chat_response.choices[0].message.content
 
-    # 3. توليد الوصف لليوتيوب
     desc_prompt = f"Create a short SEO description for a podcast titled: {title}"
     desc_response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
@@ -80,38 +83,24 @@ async def main():
     )
     description = desc_response.choices[0].message.content
 
-    # --- هنا تمت إضافة دالة تعديل الصورة ---
+    # --- الخطوة الحاسمة: توليد الصورة قبل رفعها ---
     create_enhanced_thumbnail(title)
-    # ---------------------------------------
 
-    # 4. تحويل السكريبت إلى صوت
+    # 3. تحويل الصوت
     audio_file = "episode.mp3"
     communicate = edge_tts.Communicate(podcast_script, "en-US-ChristopherNeural")
     await communicate.save(audio_file)
     
-    # 5. إنشاء ملف RSS
+    # 4. تحديث ملف الـ RSS
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
     timestamp = int(time.time())
     audio_url = f"https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v{run_num}/episode.mp3"
     
     rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <atom:link href="https://eslamtechautomation-ctrl.github.io/TrustMask-Bot-main/podcast.xml" rel="self" type="application/rss+xml" />
     <title>The Economic Edge: Master Your Wealth</title>
-    <link>https://familytvr.blogspot.com/</link>
-    <language>en-us</language>
-    <itunes:author>Family TVR</itunes:author>
-    <itunes:summary>Insightful analysis of global economics.</itunes:summary>
-    <itunes:owner>
-        <itunes:name>Eslam Tech</itunes:name>
-        <itunes:email>eslammosde@gmail.com</itunes:email>
-    </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
-    <description><![CDATA[Daily economic insights generated by AI.]]></description>
     <item>
         <title>{title}</title>
         <description>{description}</description>
