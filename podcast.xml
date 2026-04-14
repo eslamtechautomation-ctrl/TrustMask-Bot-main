@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>A new case of chip smuggling shows the limits of export controls</title>
-        <description>"Export controls are being put to the test as a new case of chip smuggling reveals the loopholes in the system. Discover how these limitations are impacting the industry and what it means for the future of tech. Read the full story: https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls"</description>
-        <pubDate>Tue, 14 Apr 2026 08:57:48 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v135/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v135_1776157068</guid>
+        <title>European allies are losing hope of keeping America in NATO</title>
+        <description>"Listen as we explore the growing concern among European allies that the US may abandon NATO, and the implications for global security and diplomacy. Tune in to our latest podcast episode." (155 chars)</description>
+        <pubDate>Tue, 14 Apr 2026 09:06:00 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v136/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v136_1776157560</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
