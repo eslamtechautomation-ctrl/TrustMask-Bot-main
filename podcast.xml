@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Meet the four Democratic tribes</title>
-        <description>"Explore the diverse world of Democratic politics with 'Meet the four Democratic tribes', a podcast delving into the distinct ideologies, values, and goals of the party's main factions. Tune in for insightful discussions and expert analysis."</description>
-        <pubDate>Tue, 14 Apr 2026 18:49:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v144/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v144_1776192559</guid>
+        <title>Europe’s joint nuclear-fusion project needs Russian expertise</title>
+        <description>"Discover the crucial role Russian expertise plays in Europe's joint nuclear-fusion project. Listen to our latest podcast to learn about the collaboration and its impact on the future of sustainable energy."</description>
+        <pubDate>Tue, 14 Apr 2026 23:31:27 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v145/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v145_1776209487</guid>
     </item>
 </channel>
 </rss>
