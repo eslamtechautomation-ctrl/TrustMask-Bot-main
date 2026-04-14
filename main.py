@@ -15,37 +15,44 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
 def create_enhanced_thumbnail(title_text):
-    """دالة لإنشاء صورة مصغرة وعليها عنوان الحلقة"""
     try:
-        # 1. فتح الصورة الأصلية
+        # 1. فتح الصورة الأصلية (الرجل بداخل غرفة العمليات المالية)
         img = Image.open("podcast_cover.jpg")
         width, height = img.size
         draw = ImageDraw.Draw(img)
 
-        # 2. إعداد الخط (محاولة استخدام خط عريض متاح في GitHub Actions)
+        # 2. إعداد الخط - نستخدم خطاً عريضاً ليكون العنوان هجومياً وجاذباً
         try:
-            font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 70)
+            # مسار الخط الافتراضي في بيئة GitHub Actions (Ubuntu)
+            font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 75)
         except:
             font = ImageFont.load_default()
 
-        # 3. تقسيم النص لأسطر ليتناسب مع حجم الصورة
-        lines = textwrap.wrap(title_text, width=25)
+        # 3. معالجة النص: تقصير العنوان إذا كان طويلاً جداً وتنظيمه في أسطر
+        # العناوين القصيرة (حتى 20 حرفاً للسطر) تزيد من نسبة النقر لأنها تُقرأ بسرعة
+        lines = textwrap.wrap(title_text, width=20)
         
-        # 4. كتابة النص في منتصف الصورة تقريباً
-        y_text = height / 3
+        # 4. تحديد موقع البداية (في الجزء العلوي لترك وجه الشخص واضحاً)
+        y_text = 80 
+        
         for line in lines:
-            # حساب عرض النص لتوسيطه
+            # حساب إحداثيات التوسيط
             left, top, right, bottom = draw.textbbox((0, 0), line, font=font)
-            w = right - left
-            # إضافة ظل أسود خلف النص لزيادة الوضوح
-            draw.text(((width - w) / 2, y_text), line, font=font, fill="white", stroke_width=3, stroke_fill="black")
-            y_text += 90 
+            line_width = right - left
+            x_text = (width - line_width) / 2
+            
+            # 5. إضافة تأثير البروز (تكرار النص كظل خلفي عميق)
+            # رسم النص باللون الأبيض مع إطار أسود سميك جداً (Stroke) لضمان الوضوح فوق أي خلفية
+            draw.text((x_text, y_text), line, font=font, fill="white", 
+                      stroke_width=5, stroke_fill="black")
+            
+            y_text += 95 # المسافة بين الأسطر
 
-        # 5. حفظ الصورة المعدلة لتكون هي الغلاف الجديد
+        # 6. حفظ الصورة النهائية بنفس الاسم ليتم رفعها تلقائياً
         img.save("podcast_cover.jpg")
-        print("Success: Thumbnail image updated with title.")
+        print("Success: High-CTR Thumbnail generated!")
     except Exception as e:
-        print(f"Thumbnail generation skipped: {e}")
+        print(f"Error during thumbnail creation: {e}")
 
 async def main():
     # 1. جلب المقالات من RSS
