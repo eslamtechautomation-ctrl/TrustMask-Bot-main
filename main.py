@@ -5,6 +5,7 @@ import feedparser
 import random
 import re
 import edge_tts
+from newspaper import Article
 from groq import Groq
 from datetime import datetime, timezone
 
@@ -12,16 +13,33 @@ from datetime import datetime, timezone
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
+
 async def main():
-    # 1. جلب المقالات من بلوجر
+    # 1. جلب المقالات من RSS
     rss_url = "https://www.economist.com/latest/rss.xml"
     feed = feedparser.parse(rss_url)
     if not feed.entries: return
 
     entry = random.choice(feed.entries)
     title = entry.title
-    link = entry.link
-    content = re.sub('<[^<]+?>', '', entry.summary)[:1000]
+    link = entry.link # سنستخدم الرابط هنا
+
+    # --- التعديل الجديد باستخدام newspaper3k ---
+    try:
+        article = Article(link)
+        article.download()
+        article.parse()
+        # الآن لدينا النص الكامل للمقال وليس مجرد سطر واحد
+        full_text = article.text 
+        
+        # نأخذ أول 1500 حرف مثلاً لضمان جودة الصوت
+        content = full_text[:1500] if len(full_text) > 100 else title
+    except Exception as e:
+        print(f"Error fetching full article: {e}")
+        content = entry.summary # حل احتياطي في حال فشل الكشط
+    # ----------------------------------------
+
+    # تكملة الكود (توليد الوصف وتحويل الصوت)...
 
     # 2. توليد وصف ذكي (SEO)
     prompt = f"Create a short YouTube description for: {title}. Include this link: {link}"
