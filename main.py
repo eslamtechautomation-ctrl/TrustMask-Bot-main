@@ -8,7 +8,7 @@ import edge_tts
 from newspaper import Article
 from groq import Groq
 from datetime import datetime, timezone
-
+from newspaper import Article, Config
 # إعدادات
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
