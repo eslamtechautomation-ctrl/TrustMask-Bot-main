@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: | 
          pip install feedparser groq edge-tts newspaper3k lxml_html_clean
-
+         pip install feedparser groq edge-tts newspaper3k lxml_html_clean Pillow
         
       - name: Run
         env:
