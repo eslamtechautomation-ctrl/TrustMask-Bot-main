@@ -36,6 +36,29 @@ async def main():
     )
     podcast_script = chat_response.choices[0].message.content
 
+def create_thumbnail(text):
+    try:
+        # 1. فتح صورة الغلاف الأصلية
+        img = Image.open("podcast_cover.jpg")
+        draw = ImageDraw.Draw(img)
+        
+        # 2. تحديد الخط (بايثون في GitHub Actions يستخدم خطوط النظام الافتراضية)
+        # إذا كنت تريد خطاً معيناً يجب رفعه للمستودع، لكن هذا سيعمل افتراضياً:
+        try:
+            font = ImageFont.load_default() 
+        except:
+            font = ImageFont.truetype("arial.ttf", 60)
+
+        # 3. كتابة النص في منتصف الصورة
+        # يمكنك تعديل الإحداثيات واللون (هنا باللون الأبيض)
+        draw.text((50, 500), text, fill="white", font=font)
+        
+        # 4. حفظ الصورة لتكون هي غلاف الحلقة الجديدة
+        img.save("current_episode_thumb.jpg")
+        return "current_episode_thumb.jpg"
+    except Exception as e:
+        print(f"Error creating thumbnail: {e}")
+        return "podcast_cover.jpg" # العودة للصورة الأصلية في حال حدوث خطأ
     # 3. توليد الوصف لليوتيوب (اختياري)
     desc_prompt = f"Create a short SEO description for a podcast titled: {title}"
     desc_response = client.chat.completions.create(
