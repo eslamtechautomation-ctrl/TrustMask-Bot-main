@@ -21,11 +21,11 @@
         <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-        <title>The US in Brief: Pain at the pump</title>
-        <description>"Rising fuel costs are hitting Americans hard. Learn more about the current state of gas prices in the US and what's driving the increase in this brief from The Economist: https://www.economist.com/in-brief/2026/03/31/the-us-in-brief-pain-at-the-pump"</description>
-        <pubDate>Tue, 14 Apr 2026 06:19:56 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v129/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v129_1776147596</guid>
+        <title>Global democracy is in better shape than you think</title>
+        <description>"Despite what you may have heard, global democracy is more resilient than you think. Dive into the latest data and trends to see how democracy is faring around the world. Check out The Economist's Democracy Index 2025 for a deeper look: https://www.economist.com/interactive/democracy-index-2025"</description>
+        <pubDate>Tue, 14 Apr 2026 08:30:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v130/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v130_1776155425</guid>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
