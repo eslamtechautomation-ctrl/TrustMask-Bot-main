@@ -20,44 +20,36 @@ async def main():
     feed = feedparser.parse(rss_url)
     if not feed.entries: return
 
+   # 1. جلب البيانات الأساسية من RSS
     entry = random.choice(feed.entries)
     title = entry.title
-    link = entry.link # سنستخدم الرابط هنا
+    link = entry.link
+    summary = re.sub('<[^<]+?>', '', entry.summary)
 
-# --- التعديل لحل مشكلة 403 Forbidden ---
-
-    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
-    config = Config()
-    config.browser_user_agent = user_agent
-    config.request_timeout = 10
-
-    try:
-        article = Article(link, config=config) # أضفنا الـ config هنا
-        article.download()
-        article.parse()
-        full_text = article.text 
-        content = full_text[:1500] if len(full_text) > 100 else title
-    except Exception as e:
-        print(f"Error fetching full article: {e}")
-        # إذا فشل الكشط، نستخدم الوصف المتاح من الـ RSS كحل أخير
-        content = re.sub('<[^<]+?>', '', entry.summary)[:1000]
-    # ----------------------------------------
-
-    # تكملة الكود (توليد الوصف وتحويل الصوت)...
-
-    # 2. توليد وصف ذكي (SEO)
-    prompt = f"Create a short YouTube description for: {title}. Include this link: {link}"
-    chat = client.chat.completions.create(
+    # 2. توليد "سكريبت" كامل للبودكاست بدلاً من مجرد وصف
+    # سنطلب من الذكاء الاصطناعي كتابة مقال مفصل بناءً على العنوان
+    script_prompt = f"Write a detailed professional podcast script in English about: {title}. Based on this context: {summary}. Make it around 300-400 words long to last about 2-3 minutes."
+    
+    chat_response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": script_prompt}]
     )
-    description = chat.choices[0].message.content
+    podcast_script = chat_response.choices[0].message.content
 
-    # 3. تحويل النص لصوت
+    # 3. توليد الوصف لليوتيوب (اختياري)
+    desc_prompt = f"Create a short SEO description for a podcast titled: {title}"
+    desc_response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": desc_prompt}]
+    )
+    description = desc_response.choices[0].message.content
+
+    # 4. تحويل السكريبت (الذي كتبه الذكاء الاصطناعي) إلى صوت
     audio_file = "episode.mp3"
-    communicate = edge_tts.Communicate(content, "en-US-ChristopherNeural")
+    # نستخدم podcast_script هنا لضمان الطول
+    communicate = edge_tts.Communicate(podcast_script, "en-US-ChristopherNeural")
     await communicate.save(audio_file)
-
+    
     # 4. إنشاء ملف RSS (حتى لو حذف يحيا من جديد)
     run_num = os.getenv("GITHUB_RUN_NUMBER", "1")
     timestamp = int(time.time())
