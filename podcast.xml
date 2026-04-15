@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The bog of war: week five begins</title>
-        <description>"Dive into the chaos of 'The Bog of War: Week Five Begins', a thought-provoking podcast exploring the complexities of conflict and strategy, as we dissect the fifth week of a tumultuous journey. Tune in for insightful discussions and expert analysis."</description>
-        <pubDate>Wed, 15 Apr 2026 12:06:30 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v147/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v147_1776254790</guid>
+        <title>Life in Haiti’s ganglands</title>
+        <description>"Delve into the complex and often misunderstood world of Haiti's ganglands. This gripping podcast explores the realities of life amidst violence, poverty, and resilience, shedding light on the human stories behind the headlines."</description>
+        <pubDate>Wed, 15 Apr 2026 18:49:22 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v148/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v148_1776278962</guid>
     </item>
 </channel>
 </rss>
