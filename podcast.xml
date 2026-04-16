@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Sir Demis Hassabis wants to automate drug design</title>
-        <description>"Explore the future of medicine with Sir Demis Hassabis, co-founder of DeepMind, as he discusses revolutionizing drug design through AI automation, transforming the pharmaceutical industry and accelerating medical breakthroughs."</description>
-        <pubDate>Thu, 16 Apr 2026 06:24:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v150/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v150_1776320644</guid>
+        <title>Plot Twist newsletter: Why sketch comedy is seriously important</title>
+        <description>"Discover the unexpected impact of sketch comedy on culture and society in our 'Plot Twist' newsletter podcast, exploring its seriously important role in shaping our world."</description>
+        <pubDate>Thu, 16 Apr 2026 12:11:56 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v151/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v151_1776341516</guid>
     </item>
 </channel>
 </rss>
