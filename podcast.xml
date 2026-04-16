@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>China is breaking into one of the world’s weirdest car markets</title>
-        <description>"Discover how China is disrupting the quirky automotive scene in one of the world's most unique car markets. Tune in to this fascinating podcast to learn more."</description>
-        <pubDate>Wed, 15 Apr 2026 23:29:36 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v149/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v149_1776295776</guid>
+        <title>Sir Demis Hassabis wants to automate drug design</title>
+        <description>"Explore the future of medicine with Sir Demis Hassabis, co-founder of DeepMind, as he discusses revolutionizing drug design through AI automation, transforming the pharmaceutical industry and accelerating medical breakthroughs."</description>
+        <pubDate>Thu, 16 Apr 2026 06:24:04 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v150/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v150_1776320644</guid>
     </item>
 </channel>
 </rss>
