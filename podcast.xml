@@ -5,10 +5,10 @@
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
         <title>As Iran’s civilian economy crumbles, its military economy grows stronger</title>
-        <description>"Explore the paradox of Iran's struggling civilian economy and thriving military economy in our latest podcast episode, discussing the implications and consequences of this imbalance on the nation's future."</description>
-        <pubDate>Fri, 17 Apr 2026 17:37:56 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v156/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v156_1776447476</guid>
+        <description>"Explore the paradox of Iran's struggling civilian economy and thriving military sector in our latest podcast episode, analyzing the implications and future of the Islamic Republic's economic shift."</description>
+        <pubDate>Fri, 17 Apr 2026 20:10:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v157/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v157_1776456611</guid>
     </item>
 </channel>
 </rss>
