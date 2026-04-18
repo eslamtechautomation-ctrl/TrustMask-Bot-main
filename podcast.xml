@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Who is Demis Hassabis, the man behind Google DeepMind?</title>
-        <description>"Discover the genius behind Google DeepMind, Demis Hassabis. Learn about his life, achievements, and innovations in AI. Tune in to our podcast to explore the mind of a modern tech pioneer."</description>
-        <pubDate>Sat, 18 Apr 2026 08:09:11 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v160/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v160_1776499751</guid>
+        <title>How war has made a 33-year-old the Czech Republic’s richest man</title>
+        <description>"Discover the fascinating story of the Czech Republic's youngest billionaire, made rich by the Ukrainian war. Listen to our podcast to learn how global conflicts have reshaped the country's economy and created unlikely tycoons."</description>
+        <pubDate>Sat, 18 Apr 2026 11:10:26 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v161/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v161_1776510626</guid>
     </item>
 </channel>
 </rss>
