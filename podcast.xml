@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>America will come to regret its war on taxes</title>
-        <description>"Explore the unintended consequences of America's tax policies in our thought-provoking podcast, 'America Will Come to Regret Its War on Taxes'. Join us as we delve into the complexities of taxation and its far-reaching impact on the economy, society, and future generations."</description>
-        <pubDate>Sun, 19 Apr 2026 14:25:30 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v168/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v168_1776608730</guid>
+        <title>How dangerous is Mythos, Anthropic’s new AI model?</title>
+        <description>"Explore the risks and capabilities of Anthropic's latest AI model, Mythos. Tune in to our podcast as we delve into the potential dangers and implications of this cutting-edge technology."</description>
+        <pubDate>Sun, 19 Apr 2026 17:04:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v169/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v169_1776618275</guid>
     </item>
 </channel>
 </rss>
