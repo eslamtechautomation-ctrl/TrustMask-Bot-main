@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Soaring numbers of Chinese women demand divorce</title>
-        <description>"Exploring China's shifting social landscape, this podcast delves into the rising trend of Chinese women seeking divorce, discussing the cultural, economic, and personal factors driving this phenomenon."</description>
-        <pubDate>Mon, 20 Apr 2026 12:16:14 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v173/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v173_1776687374</guid>
+        <title>The weekly cartoon</title>
+        <description>"Join us on The Weekly Cartoon, a lively podcast exploring the world of animation, comics, and pop culture. Tune in for news, reviews, and in-depth discussions on the latest cartoons, anime, and more."</description>
+        <pubDate>Mon, 20 Apr 2026 18:11:31 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v174/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v174_1776708691</guid>
     </item>
 </channel>
 </rss>
