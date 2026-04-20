@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The weekly cartoon</title>
-        <description>"Join us on The Weekly Cartoon, a lively podcast exploring the world of animation, comics, and pop culture. Tune in for news, reviews, and in-depth discussions on the latest cartoons, anime, and more."</description>
-        <pubDate>Mon, 20 Apr 2026 18:11:31 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v174/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v174_1776708691</guid>
+        <title>Economic data, commodities and markets</title>
+        <description>"Stay ahead of market trends with our podcast, exploring the latest economic data, commodities, and market insights. Tune in for expert analysis and in-depth discussions on the factors shaping the global economy."</description>
+        <pubDate>Mon, 20 Apr 2026 23:29:23 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v175/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v175_1776727763</guid>
     </item>
 </channel>
 </rss>
