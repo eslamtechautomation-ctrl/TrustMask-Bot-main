@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Stay ahead of market trends with our podcast, exploring the latest economic data, commodities, and market insights. Tune in for expert analysis and in-depth discussions on the factors shaping the global economy."</description>
-        <pubDate>Mon, 20 Apr 2026 23:29:23 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v175/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v175_1776727763</guid>
+        <title>In Britain and beyond, do you think driving is getting better or worse?</title>
+        <description>"Join the discussion on the state of driving in the UK and beyond. Tune in to our podcast as we explore the ups and downs of driving, from road safety to traffic woes, and ask: is driving getting better or worse?"</description>
+        <pubDate>Tue, 21 Apr 2026 06:24:55 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v176/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v176_1776752695</guid>
     </item>
 </channel>
 </rss>
