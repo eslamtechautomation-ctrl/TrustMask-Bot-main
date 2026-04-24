@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Failing the Kanye test</title>
-        <description>"Explore the complexities of creativity, ego, and success in 'Failing the Kanye Test', a podcast that delves into the nuances of ambition, self-doubt, and the pursuit of greatness, inspired by the enigmatic Kanye West."</description>
-        <pubDate>Fri, 24 Apr 2026 08:02:11 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v191/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v191_1777017731</guid>
+        <title>The US in Brief: Swalwell’s out</title>
+        <description>"Get the latest US news update: Rep. Eric Swalwell exits the 2024 presidential race. Tune in to 'The US in Brief: Swalwell's out' for in-depth analysis and expert insights on American politics."</description>
+        <pubDate>Fri, 24 Apr 2026 10:20:37 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v192/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v192_1777026037</guid>
     </item>
 </channel>
 </rss>
