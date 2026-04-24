@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Britain’s reliance on Ukrainian eggs is ruffling feathers</title>
-        <description>"Crack open the debate on Britain's egg supply chain. Listen to our latest podcast as we scramble to uncover the truth behind the UK's reliance on Ukrainian eggs and the flock of issues that come with it."</description>
-        <pubDate>Fri, 24 Apr 2026 16:04:33 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v194/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v194_1777046673</guid>
+        <title>How dangerous is Mythos, Anthropic’s new AI model?</title>
+        <description>"Explore the risks and capabilities of Mythos, Anthropic's latest AI model. Tune in to our podcast as we delve into the potential dangers and implications of this cutting-edge technology."</description>
+        <pubDate>Fri, 24 Apr 2026 18:50:24 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v195/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v195_1777056624</guid>
     </item>
 </channel>
 </rss>
