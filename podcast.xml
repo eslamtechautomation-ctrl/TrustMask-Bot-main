@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Every company is now a media company—and every boss a star</title>
-        <description>"Explore the intersection of business and media with our podcast, where we dive into the world of corporate storytelling and the leaders behind it. Tune in for insights on how companies are becoming media companies and what it means to be a 'star' in the C-suite."</description>
-        <pubDate>Sun, 26 Apr 2026 02:37:26 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v205/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v205_1777171046</guid>
+        <title>Pomp and pageantry won’t save Britain’s alliance with America</title>
+        <description>"Exploring the intricacies of US-UK relations, this podcast delves into the challenges facing the special alliance between Britain and America, beyond the pomp and pageantry of diplomatic gestures."</description>
+        <pubDate>Sun, 26 Apr 2026 05:39:10 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v206/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v206_1777181950</guid>
     </item>
 </channel>
 </rss>
