@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>“Complete change of regime” in Hungary</title>
-        <description>"Explore the seismic shift in Hungary's political landscape with our 'Complete Change of Regime' podcast, delving into the country's transformation and its implications for Europe and beyond."</description>
-        <pubDate>Mon, 27 Apr 2026 19:20:24 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v219/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v219_1777317624</guid>
+        <title>The desperate pursuit of final approval</title>
+        <description>"Explore the complexities of human validation on 'The Desperate Pursuit of Final Approval', a thought-provoking podcast delving into the psychological and emotional quest for self-acceptance, identity, and the elusive feeling of being enough."</description>
+        <pubDate>Mon, 27 Apr 2026 21:52:55 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v220/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v220_1777326775</guid>
     </item>
 </channel>
 </rss>
