@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Chernobyl’s forgotten nuclear lessons</title>
-        <description>"Uncover the shocking truths and forgotten lessons of the Chernobyl nuclear disaster in this gripping podcast, exploring the catastrophic event's lasting impact on nuclear safety, environmentalism, and human error."</description>
-        <pubDate>Tue, 28 Apr 2026 16:51:07 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v226/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v226_1777395067</guid>
+        <title>The US in Brief: The Pentagon’s battle against free speech</title>
+        <description>"Explore the Pentagon's efforts to curb free speech in the US. Tune in to 'The US in Brief' podcast for an in-depth analysis of the complex relationship between national security and First Amendment rights."</description>
+        <pubDate>Tue, 28 Apr 2026 19:40:27 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v227/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v227_1777405227</guid>
     </item>
 </channel>
 </rss>
