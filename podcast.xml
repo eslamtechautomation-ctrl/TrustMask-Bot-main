@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Mark Mobius dared to go where few others did</title>
-        <description>"Join us as we delve into the extraordinary career of Mark Mobius, a pioneer in emerging markets investing. Listen to his remarkable stories and insights from a lifetime of daring to go where few others did."</description>
-        <pubDate>Tue, 28 Apr 2026 11:05:11 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v224/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v224_1777374311</guid>
+        <title>Chernobyl’s forgotten nuclear lessons</title>
+        <description>"Uncover the shocking truths and forgotten lessons of the Chernobyl nuclear disaster in this gripping podcast, exploring the catastrophic event's lasting impact on nuclear safety, environmentalism, and human error."</description>
+        <pubDate>Tue, 28 Apr 2026 16:51:07 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v226/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v226_1777395067</guid>
     </item>
 </channel>
 </rss>
