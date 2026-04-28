@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>America and Iran start a high-stakes negotiation to end their war</title>
-        <description>"Tune in as we explore the historic negotiations between America and Iran, navigating the complexities of their decades-long conflict. Will diplomacy prevail, or will tensions escalate? Listen now to our latest podcast episode." (160 characters with spaces: 156, without: 153)</description>
-        <pubDate>Tue, 28 Apr 2026 08:37:29 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v223/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v223_1777365449</guid>
+        <title>Mark Mobius dared to go where few others did</title>
+        <description>"Join us as we delve into the extraordinary career of Mark Mobius, a pioneer in emerging markets investing. Listen to his remarkable stories and insights from a lifetime of daring to go where few others did."</description>
+        <pubDate>Tue, 28 Apr 2026 11:05:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v224/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v224_1777374311</guid>
     </item>
 </channel>
 </rss>
