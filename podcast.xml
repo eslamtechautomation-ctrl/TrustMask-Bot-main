@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Coca-Cola is trouncing Pepsi. Can the underdog turn things around?</title>
-        <description>"Get ready for a fizzy battle of the brands. Tune in to our latest podcast as we explore the cola wars and discuss whether Pepsi can close the gap on Coca-Cola's dominance."</description>
-        <pubDate>Wed, 29 Apr 2026 16:27:28 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v234/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v234_1777480048</guid>
+        <title>Chernobyl: a laboratory like no other</title>
+        <description>"Explore the catastrophic Chernobyl disaster and its aftermath in our podcast, 'Chernobyl: a laboratory like no other'. Dive into the science, history, and human stories behind the world's worst nuclear accident."</description>
+        <pubDate>Wed, 29 Apr 2026 19:23:52 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v235/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v235_1777490632</guid>
     </item>
 </channel>
 </rss>
