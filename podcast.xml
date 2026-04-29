@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Chernobyl: a laboratory like no other</title>
-        <description>"Explore the catastrophic Chernobyl disaster and its aftermath in our podcast, 'Chernobyl: a laboratory like no other'. Dive into the science, history, and human stories behind the world's worst nuclear accident."</description>
-        <pubDate>Wed, 29 Apr 2026 19:23:52 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v235/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v235_1777490632</guid>
+        <title>Might Donald Trump try to rig the midterms?</title>
+        <description>"Explore the possibility of election interference in the upcoming midterms, as we discuss potential threats to democracy and the impact of Donald Trump's involvement."</description>
+        <pubDate>Wed, 29 Apr 2026 21:58:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v236/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v236_1777499915</guid>
     </item>
 </channel>
 </rss>
