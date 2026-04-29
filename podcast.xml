@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Cover Story newsletter: America prepares for the midterms</title>
-        <description>"Get the inside scoop on the US midterms with our Cover Story newsletter podcast, analyzing the latest news, trends, and election insights as America prepares to vote."</description>
-        <pubDate>Wed, 29 Apr 2026 05:54:38 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v230/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v230_1777442078</guid>
+        <title>A victory in Benin’s presidential election was hardly democratic</title>
+        <description>"Explore the controversy surrounding Benin's presidential election in our latest podcast, as we dissect the undemocratic victory and its implications for the country's future."</description>
+        <pubDate>Wed, 29 Apr 2026 08:15:26 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v231/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v231_1777450526</guid>
     </item>
 </channel>
 </rss>
