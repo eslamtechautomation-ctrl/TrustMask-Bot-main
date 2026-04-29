@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Could AI’s leading men become as powerful as Ford or Rockefeller?</title>
-        <description>"Explore the rising influence of AI's leading figures and their potential to rival historic industrial giants like Ford and Rockefeller, shaping the future of tech and beyond."</description>
-        <pubDate>Wed, 29 Apr 2026 02:46:36 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v229/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v229_1777430796</guid>
+        <title>Cover Story newsletter: America prepares for the midterms</title>
+        <description>"Get the inside scoop on the US midterms with our Cover Story newsletter podcast, analyzing the latest news, trends, and election insights as America prepares to vote."</description>
+        <pubDate>Wed, 29 Apr 2026 05:54:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v230/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v230_1777442078</guid>
     </item>
 </channel>
 </rss>
