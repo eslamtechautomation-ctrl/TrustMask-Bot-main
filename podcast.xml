@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Tim Cook hands Apple over to its hardware guru</title>
-        <description>"Explore the future of Apple as Tim Cook passes the torch to the company's top hardware expert. Tune in to our latest podcast episode to learn more about this pivotal moment in tech history."</description>
-        <pubDate>Wed, 29 Apr 2026 13:52:52 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v233/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v233_1777470772</guid>
+        <title>Coca-Cola is trouncing Pepsi. Can the underdog turn things around?</title>
+        <description>"Get ready for a fizzy battle of the brands. Tune in to our latest podcast as we explore the cola wars and discuss whether Pepsi can close the gap on Coca-Cola's dominance."</description>
+        <pubDate>Wed, 29 Apr 2026 16:27:28 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v234/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v234_1777480048</guid>
     </item>
 </channel>
 </rss>
