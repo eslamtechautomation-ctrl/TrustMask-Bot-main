@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Blighty newsletter: The king’s speech</title>
-        <description>"Get the latest UK news and analysis in our 'Blighty Newsletter: The King's Speech' podcast, discussing the monarch's address and its impact on British society and politics."</description>
-        <pubDate>Thu, 30 Apr 2026 08:31:34 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v239/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v239_1777537894</guid>
+        <title>Middle East Dispatch newsletter: Decades under the smoke trail</title>
+        <description>"Explore the complex history and geopolitics of the Middle East with the 'Middle East Dispatch' podcast. Delve into the region's tumultuous past and present in 'Decades under the Smoke Trail', a thought-provoking episode shedding light on the region's enduring conflicts and transformations."</description>
+        <pubDate>Thu, 30 Apr 2026 10:55:05 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v240/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v240_1777546505</guid>
     </item>
 </channel>
 </rss>
