@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Singapore and Malaysia knock heads over the war in Iran</title>
-        <description>"Tensions rise as Singapore and Malaysia weigh in on the Iran conflict. Tune in to our latest podcast for in-depth analysis and expert insights on the regional implications of this global crisis."</description>
-        <pubDate>Thu, 30 Apr 2026 02:48:21 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v237/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v237_1777517301</guid>
+        <title>To fight Russia, Europe needs Ukraine</title>
+        <description>"Join our discussion on the critical role Ukraine plays in European security and the ongoing efforts to counter Russian aggression. Listen now to 'To fight Russia, Europe needs Ukraine' podcast." (155 characters, including spaces) 
+
+Alternatively, a longer description could be:
+"Explore the intricate relationship between Ukraine and European security in our podcast, 'To fight Russia, Europe needs Ukraine'. Dive into expert analysis and insightful discussions on the region's complex geopolitics and the West's response to Russian expansion." (256 characters, including spaces)</description>
+        <pubDate>Thu, 30 Apr 2026 05:58:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v238/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v238_1777528723</guid>
     </item>
 </channel>
 </rss>
