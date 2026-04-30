@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>To fight Russia, Europe needs Ukraine</title>
-        <description>"Join our discussion on the critical role Ukraine plays in European security and the ongoing efforts to counter Russian aggression. Listen now to 'To fight Russia, Europe needs Ukraine' podcast." (155 characters, including spaces) 
-
-Alternatively, a longer description could be:
-"Explore the intricate relationship between Ukraine and European security in our podcast, 'To fight Russia, Europe needs Ukraine'. Dive into expert analysis and insightful discussions on the region's complex geopolitics and the West's response to Russian expansion." (256 characters, including spaces)</description>
-        <pubDate>Thu, 30 Apr 2026 05:58:43 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v238/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v238_1777528723</guid>
+        <title>Blighty newsletter: The king’s speech</title>
+        <description>"Get the latest UK news and analysis in our 'Blighty Newsletter: The King's Speech' podcast, discussing the monarch's address and its impact on British society and politics."</description>
+        <pubDate>Thu, 30 Apr 2026 08:31:34 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v239/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v239_1777537894</guid>
     </item>
 </channel>
 </rss>
