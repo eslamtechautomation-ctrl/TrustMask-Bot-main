@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>America will come to regret its war on taxes</title>
-        <description>"Explore the unintended consequences of America's anti-tax mindset in our thought-provoking podcast, 'America Will Come to Regret Its War on Taxes'. Join us as we delve into the history, politics, and economics behind the US tax system and predict the potential long-term effects on the nation's future."</description>
-        <pubDate>Thu, 30 Apr 2026 21:56:05 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v244/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v244_1777586165</guid>
+        <title>Artificial intelligence is creeping into American lawmaking</title>
+        <description>"Explore the intersection of tech and policy in our podcast, 'Artificial Intelligence is Creeping into American Lawmaking', where we delve into the growing role of AI in shaping US laws and regulations, and what it means for the future of governance."</description>
+        <pubDate>Fri, 01 May 2026 02:54:58 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v245/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v245_1777604098</guid>
     </item>
 </channel>
 </rss>
