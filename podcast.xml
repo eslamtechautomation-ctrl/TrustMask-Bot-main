@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Artificial intelligence is creeping into American lawmaking</title>
-        <description>"Explore the intersection of tech and policy in our podcast, 'Artificial Intelligence is Creeping into American Lawmaking', where we delve into the growing role of AI in shaping US laws and regulations, and what it means for the future of governance."</description>
-        <pubDate>Fri, 01 May 2026 02:54:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v245/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v245_1777604098</guid>
+        <title>America wakes up to AI’s dangerous power</title>
+        <description>"Explore the darker side of artificial intelligence with 'America Wakes Up to AI's Dangerous Power', a thought-provoking podcast delving into the risks and consequences of AI's rapidly expanding influence on society."</description>
+        <pubDate>Fri, 01 May 2026 06:16:42 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v246/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v246_1777616202</guid>
     </item>
 </channel>
 </rss>
