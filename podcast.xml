@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Peter Magyar’s victory will keep Hungary in the spotlight</title>
-        <description>"Discover the implications of Peter Magyar's victory on Hungary's global standing. Tune in to our latest podcast episode to explore what's next for the country and its position on the world stage."</description>
-        <pubDate>Sat, 02 May 2026 13:08:47 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v256/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v256_1777727327</guid>
+        <title>No to laissez-faire on AI, yes to a light touch</title>
+        <description>"Explore the future of AI regulation in our latest podcast episode, 'No to laissez-faire on AI, yes to a light touch', as we discuss the need for balanced governance in the development and deployment of artificial intelligence."</description>
+        <pubDate>Sat, 02 May 2026 15:44:26 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v257/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v257_1777736666</guid>
     </item>
 </channel>
 </rss>
