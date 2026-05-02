@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Is exercise as effective as treatments for depression and anxiety?</title>
-        <description>"Explore the connection between exercise and mental health. Discover if physical activity can be as effective as traditional treatments for depression and anxiety in our latest podcast episode."</description>
-        <pubDate>Fri, 01 May 2026 21:53:12 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v251/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v251_1777672392</guid>
+        <title>The international problem of weasel words</title>
+        <description>"Explore the global issue of ambiguous language with 'The International Problem of Weasel Words' podcast, discussing how vague terminology affects communication, politics, and culture worldwide."</description>
+        <pubDate>Sat, 02 May 2026 02:36:02 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v252/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v252_1777689362</guid>
     </item>
 </channel>
 </rss>
