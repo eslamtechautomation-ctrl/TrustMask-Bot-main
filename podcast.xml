@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>No to laissez-faire on AI, yes to a light touch</title>
-        <description>"Explore the future of AI regulation in our latest podcast episode, 'No to laissez-faire on AI, yes to a light touch', as we discuss the need for balanced governance in the development and deployment of artificial intelligence."</description>
-        <pubDate>Sat, 02 May 2026 15:44:26 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v257/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v257_1777736666</guid>
+        <title>Five men control world-changing AI</title>
+        <description>"Explore the dark side of innovation in 'Five Men Control World-Changing AI', a thought-provoking podcast delving into the ethics and consequences of artificial intelligence dominated by a powerful few."</description>
+        <pubDate>Sat, 02 May 2026 18:58:03 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v258/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v258_1777748283</guid>
     </item>
 </channel>
 </rss>
