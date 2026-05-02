@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The international problem of weasel words</title>
-        <description>"Explore the global issue of ambiguous language with 'The International Problem of Weasel Words' podcast, discussing how vague terminology affects communication, politics, and culture worldwide."</description>
-        <pubDate>Sat, 02 May 2026 02:36:02 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v252/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v252_1777689362</guid>
+        <title>How AI hackers will shake up cyber-security</title>
+        <description>"Explore the dark side of AI: Discover how hackers are leveraging artificial intelligence to launch sophisticated cyber attacks and what it means for the future of cyber-security in our thought-provoking podcast, 'How AI Hackers Will Shake Up Cyber-Security'."</description>
+        <pubDate>Sat, 02 May 2026 05:36:53 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v253/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v253_1777700213</guid>
     </item>
 </channel>
 </rss>
