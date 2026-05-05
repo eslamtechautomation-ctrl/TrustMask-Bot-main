@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How to bolster the arsenal of democracy</title>
-        <description>"Explore the intersection of democracy and global affairs in 'How to Bolster the Arsenal of Democracy', a thought-provoking podcast discussing innovative solutions to strengthen democratic institutions and promote freedom worldwide."</description>
-        <pubDate>Tue, 05 May 2026 08:08:16 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v277/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v277_1777968496</guid>
+        <title>Climate change is forcing Vanuatu to confront an unthinkable future</title>
+        <description>"Explore the devastating impact of climate change on Vanuatu, a Pacific island nation facing an uncertain future. Listen to powerful stories and expert insights on our podcast." (160 characters, including spaces) 
+
+Alternatively, for a slightly longer description: 
+"Climate change is redefining Vanuatu's future. Tune in to our podcast for in-depth discussions with experts, policymakers, and locals on the frontlines of this crisis, as they navigate rising sea levels, extreme weather, and a fight for survival." (approximately 300 characters)</description>
+        <pubDate>Tue, 05 May 2026 10:45:40 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v278/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v278_1777977940</guid>
     </item>
 </channel>
 </rss>
