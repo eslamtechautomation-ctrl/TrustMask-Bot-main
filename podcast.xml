@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>New legislation will restrict Reform UK’s biggest source of money</title>
-        <description>"Discover how new legislation impacts Reform UK's funding in our latest podcast episode, exploring the potential consequences and implications for the party's future."</description>
-        <pubDate>Wed, 06 May 2026 16:27:17 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v288/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v288_1778084837</guid>
+        <title>Blighty newsletter: The king’s speech</title>
+        <description>"Get the latest UK news and analysis with the Blighty newsletter podcast, 'The King's Speech'. Tune in for expert discussion and insight into British current events, politics, and culture."</description>
+        <pubDate>Wed, 06 May 2026 19:44:52 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v289/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v289_1778096692</guid>
     </item>
 </channel>
 </rss>
