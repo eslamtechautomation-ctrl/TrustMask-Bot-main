@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Celebrating one of literature’s greatest pessimists</title>
-        <description>"Delve into the timeless works of a literary icon known for his bleak yet profound worldview. Tune in to 'Celebrating one of literature's greatest pessimists' as we explore the life, works, and enduring legacy of a masterful wordsmith." (155 characters, including spaces, for meta description, or approximately 60-70 words for social media descriptions)</description>
-        <pubDate>Wed, 06 May 2026 05:57:10 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v284/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v284_1778047030</guid>
+        <title>Tumour cells use a genetic trick to become drug-resistant</title>
+        <description>"Discover how tumour cells evade treatment with a genetic trick, leading to drug resistance. Listen to our latest podcast to learn more about this complex phenomenon and the latest research in cancer biology."</description>
+        <pubDate>Wed, 06 May 2026 11:06:14 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v286/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v286_1778065574</guid>
     </item>
 </channel>
 </rss>
