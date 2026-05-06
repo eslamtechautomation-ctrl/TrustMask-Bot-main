@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Welcome to the world of machine audiences</title>
-        <description>"Explore the intersection of technology and human connection in 'Welcome to the World of Machine Audiences', a podcast delving into the future of artificial intelligence, media, and the evolving relationship between machines and their audiences."</description>
-        <pubDate>Wed, 06 May 2026 02:42:41 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v283/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v283_1778035361</guid>
+        <title>Celebrating one of literature’s greatest pessimists</title>
+        <description>"Delve into the timeless works of a literary icon known for his bleak yet profound worldview. Tune in to 'Celebrating one of literature's greatest pessimists' as we explore the life, works, and enduring legacy of a masterful wordsmith." (155 characters, including spaces, for meta description, or approximately 60-70 words for social media descriptions)</description>
+        <pubDate>Wed, 06 May 2026 05:57:10 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v284/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v284_1778047030</guid>
     </item>
 </channel>
 </rss>
