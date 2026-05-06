@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Blighty newsletter: The king’s speech</title>
-        <description>"Get the latest UK news and analysis with the Blighty newsletter podcast, 'The King's Speech'. Tune in for expert discussion and insight into British current events, politics, and culture."</description>
-        <pubDate>Wed, 06 May 2026 19:44:52 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v289/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v289_1778096692</guid>
+        <title>Six books to understand the Vietnam war</title>
+        <description>"Delve into the complexities of the Vietnam War through six pivotal books. Tune in to our podcast as we explore the most influential literature on the conflict, providing a deeper understanding of its history, politics, and cultural impact."</description>
+        <pubDate>Wed, 06 May 2026 21:56:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v290/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v290_1778104598</guid>
     </item>
 </channel>
 </rss>
