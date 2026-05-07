@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Might Donald Trump try to rig the midterms?</title>
-        <description>"Explore the concerns surrounding election integrity as we discuss the possibility of Donald Trump attempting to influence the midterms. Tune in for expert analysis and insights."</description>
-        <pubDate>Thu, 07 May 2026 11:09:53 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v293/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v293_1778152193</guid>
+        <title>Business</title>
+        <description>"Exploring the world of entrepreneurship and innovation, the 'Business' podcast dives into the latest trends, strategies, and insights from industry leaders and experts, helping you stay ahead in the ever-evolving business landscape."</description>
+        <pubDate>Thu, 07 May 2026 14:05:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v294/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v294_1778162711</guid>
     </item>
 </channel>
 </rss>
