@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Global energy markets are on the verge of a disaster</title>
-        <description>"Explore the looming crisis in global energy markets and what it means for the future. Tune in to our podcast for expert analysis and insights on the impending disaster and its far-reaching implications."</description>
-        <pubDate>Fri, 08 May 2026 16:13:45 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v303/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v303_1778256825</guid>
+        <title>AI and the danger of cognitive surrender</title>
+        <description>"Explore the darker side of artificial intelligence with 'AI and the Danger of Cognitive Surrender', a thought-provoking podcast examining the risks of relying too heavily on AI and the consequences for human cognition and society."</description>
+        <pubDate>Fri, 08 May 2026 19:16:09 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v304/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v304_1778267769</guid>
     </item>
 </channel>
 </rss>
