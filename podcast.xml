@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The weekly cartoon</title>
-        <description>"Tune in to 'The Weekly Cartoon' podcast, where animation meets conversation. Join us each week as we dive into the world of cartoons, exploring the latest news, trends, and nostalgia from the industry. Subscribe now and stay animated!"</description>
-        <pubDate>Sat, 09 May 2026 05:48:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v307/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v307_1778305684</guid>
+        <title>The crisis in oil markets will get bigger before it goes away</title>
+        <description>"Explore the perfect storm brewing in global oil markets. Tune in to 'The Crisis in Oil Markets' podcast for expert analysis on the escalating energy crisis and what it means for the future of oil prices, global economies, and your investments."</description>
+        <pubDate>Sat, 09 May 2026 07:55:18 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v308/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v308_1778313318</guid>
     </item>
 </channel>
 </rss>
