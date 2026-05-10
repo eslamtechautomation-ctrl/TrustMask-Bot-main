@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Georgia’s swansong</title>
-        <description>"Join us on 'Georgia's Swansong', a poignant podcast exploring the intersection of nostalgia and self-discovery, as we delve into the human experience and the fragility of life's final moments."</description>
-        <pubDate>Sun, 10 May 2026 10:14:20 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v316/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v316_1778408060</guid>
+        <title>Chernobyl: a laboratory like no other</title>
+        <description>"Explore the catastrophic consequences and fascinating science behind the world's worst nuclear disaster in 'Chernobyl: A Laboratory Like No Other', a gripping podcast delving into the Chernobyl disaster's lasting impact on our understanding of nuclear power, environment, and human resilience."</description>
+        <pubDate>Sun, 10 May 2026 13:16:01 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v317/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v317_1778418961</guid>
     </item>
 </channel>
 </rss>
