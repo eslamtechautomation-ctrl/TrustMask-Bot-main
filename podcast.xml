@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>African finance goes global</title>
-        <description>"Exploring the intersection of African finance and global markets, 'African Finance Goes Global' delivers expert insights, trends, and analysis on the continent's growing economic influence."</description>
-        <pubDate>Sun, 10 May 2026 15:53:00 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v318/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v318_1778428380</guid>
+        <title>AI and the danger of cognitive surrender</title>
+        <description>"Explore the darker side of artificial intelligence in 'AI and the Danger of Cognitive Surrender', a thought-provoking podcast discussing the risks of relying too heavily on AI and its potential impact on human autonomy and critical thinking."</description>
+        <pubDate>Sun, 10 May 2026 19:01:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v319/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v319_1778439695</guid>
     </item>
 </channel>
 </rss>
