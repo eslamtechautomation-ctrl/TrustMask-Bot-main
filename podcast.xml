@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Hizbullah’s air of invincibility is gone</title>
-        <description>"Explore the shifting landscape of Middle Eastern politics as we discuss the eroding aura of Hizbullah's invincibility. Tune in to our latest podcast episode for in-depth analysis and expert insights."</description>
-        <pubDate>Sun, 10 May 2026 21:46:15 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v320/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v320_1778449575</guid>
+        <title>Is the AI genie stuck in a bottleneck?</title>
+        <description>"Explore the future of artificial intelligence with our latest podcast, 'Is the AI genie stuck in a bottleneck?' Delve into the challenges and limitations of AI development and discover what's holding back the next breakthrough."</description>
+        <pubDate>Mon, 11 May 2026 02:58:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v321/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v321_1778468309</guid>
     </item>
 </channel>
 </rss>
