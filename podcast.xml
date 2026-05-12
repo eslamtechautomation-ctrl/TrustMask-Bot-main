@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>A radical idea for governing California</title>
-        <description>"Explore a bold new vision for California's future in this thought-provoking podcast, 'A Radical Idea for Governing California', where innovative ideas and expert insights come together to shape the state's governance and policy landscape."</description>
-        <pubDate>Tue, 12 May 2026 14:22:36 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v330/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v330_1778595756</guid>
+        <title>Welcome to a spectacularly fraught edition of the Venice Biennale</title>
+        <description>"Join us for a lively discussion on the Venice Biennale, exploring the most thought-provoking and visually stunning works of art on display. Tune in for insightful commentary and debate on the cultural phenomenon that is the Biennale."</description>
+        <pubDate>Tue, 12 May 2026 17:10:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v331/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v331_1778605816</guid>
     </item>
 </channel>
 </rss>
