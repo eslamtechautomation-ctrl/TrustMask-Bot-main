@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The question of Scottish independence is alive but not kicking</title>
-        <description>"Explore the complexities of Scottish independence in our latest podcast episode, 'The question of Scottish independence is alive but not kicking'. Join us as we delve into the current state of the debate and what it means for Scotland's future. Listen now and stay up-to-date on the latest developments."</description>
-        <pubDate>Wed, 13 May 2026 14:30:59 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v337/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v337_1778682659</guid>
+        <title>Making India’s numbers count again</title>
+        <description>"Unlock the power of data-driven insights with 'Making India's Numbers Count Again', a podcast exploring India's economic resurgence through expert analysis and informed discussions."</description>
+        <pubDate>Wed, 13 May 2026 17:15:39 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v338/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v338_1778692539</guid>
     </item>
 </channel>
 </rss>
