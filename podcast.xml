@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The rise of the Temu Range Rover</title>
-        <description>"Explore the unstoppable ascent of the Temu Range Rover in our latest podcast, discussing its impact on the automotive world, innovative features, and what sets it apart from other luxury SUVs."</description>
-        <pubDate>Wed, 13 May 2026 02:55:20 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v334/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v334_1778640920</guid>
+        <title>Mea culpa</title>
+        <description>"Explore the complexities of remorse and personal growth in 'Mea Culpa', a thought-provoking podcast delving into stories of mistake, regret, and redemption."</description>
+        <pubDate>Wed, 13 May 2026 06:26:19 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v335/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v335_1778653579</guid>
     </item>
 </channel>
 </rss>
