@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Mea culpa</title>
-        <description>"Explore the complexities of remorse and personal growth in 'Mea Culpa', a thought-provoking podcast delving into stories of mistake, regret, and redemption."</description>
-        <pubDate>Wed, 13 May 2026 06:26:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v335/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v335_1778653579</guid>
+        <title>Is the impending food shock caused by the Iran war preventable?</title>
+        <description>"Explore the potential global food crisis sparked by the Iran conflict. Tune in to our podcast as we discuss the impending food shock and examine possible solutions to mitigate its impact on the global food supply."</description>
+        <pubDate>Wed, 13 May 2026 11:30:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v336/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v336_1778671825</guid>
     </item>
 </channel>
 </rss>
