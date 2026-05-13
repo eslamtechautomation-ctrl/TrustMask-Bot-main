@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Making India’s numbers count again</title>
-        <description>"Unlock the power of data-driven insights with 'Making India's Numbers Count Again', a podcast exploring India's economic resurgence through expert analysis and informed discussions."</description>
-        <pubDate>Wed, 13 May 2026 17:15:39 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v338/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v338_1778692539</guid>
+        <title>The US in Brief: Speeding up the process</title>
+        <description>"Get up to speed on the latest US news and current events with 'The US in Brief: Speeding up the process' podcast. Tune in for concise, informative updates on American politics, culture, and more."</description>
+        <pubDate>Wed, 13 May 2026 19:53:03 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v339/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v339_1778701983</guid>
     </item>
 </channel>
 </rss>
