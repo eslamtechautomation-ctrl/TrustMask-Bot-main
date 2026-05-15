@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What is Elon Musk’s formula?</title>
-        <description>"Unlock the secrets of innovation and success with 'What is Elon Musk's Formula?', a podcast exploring the visionary's approach to business, technology, and leadership, and how you can apply it to your own life."</description>
-        <pubDate>Fri, 15 May 2026 02:58:08 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v348/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v348_1778813888</guid>
+        <title>The pros and cons of commuting</title>
+        <description>"Explore the ups and downs of daily travel in 'The Pros and Cons of Commuting', a podcast discussing the benefits and drawbacks of commuting to work, school, and beyond."</description>
+        <pubDate>Fri, 15 May 2026 06:37:22 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v349/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v349_1778827042</guid>
     </item>
 </channel>
 </rss>
