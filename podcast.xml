@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Fired alarm: AI hype versus labour-market history</title>
-        <description>"Explore the intersection of AI and labour markets with 'Fired Alarm', a podcast separating hype from history. Join us as we delve into the past, present, and future of work, and examine the real impact of artificial intelligence on jobs and the economy."</description>
-        <pubDate>Fri, 15 May 2026 16:51:07 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v352/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v352_1778863867</guid>
+        <title>Craig Venter raced to decode the human genome</title>
+        <description>"Uncover the remarkable story of Craig Venter's quest to crack the human genome code, revolutionizing genetics and medicine. Listen now to this fascinating podcast."</description>
+        <pubDate>Fri, 15 May 2026 19:28:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v353/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v353_1778873296</guid>
     </item>
 </channel>
 </rss>
