@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The AI that transformed American warfare</title>
-        <description>"Discover how artificial intelligence revolutionized the US military in 'The AI that Transformed American Warfare', a podcast exploring the intersection of tech and defense, and the future of modern warfare."</description>
-        <pubDate>Sat, 16 May 2026 19:02:46 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v361/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v361_1778958166</guid>
+        <title>The US in Brief: Another blow to Trump’s tariffs</title>
+        <description>"Get the latest on US trade policy as we discuss the impact of a significant setback to Trump's tariffs. Tune in to The US in Brief podcast for expert analysis and insight."</description>
+        <pubDate>Sat, 16 May 2026 21:47:53 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v362/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v362_1778968073</guid>
     </item>
 </channel>
 </rss>
