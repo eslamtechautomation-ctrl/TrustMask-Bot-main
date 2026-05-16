@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Your memorabilia could make you rich</title>
-        <description>"Unlock the hidden value in your attic. Discover how your vintage collectibles and memorabilia could be worth a fortune in our podcast, 'Your Memorabilia Could Make You Rich'."</description>
-        <pubDate>Sat, 16 May 2026 13:19:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v359/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v359_1778937584</guid>
+        <title>What America wants from China</title>
+        <description>"Explore the complex US-China relationship with 'What America Wants from China', a podcast discussing trade, diplomacy, and cultural exchange between two global superpowers."</description>
+        <pubDate>Sat, 16 May 2026 15:57:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v360/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v360_1778947063</guid>
     </item>
 </channel>
 </rss>
