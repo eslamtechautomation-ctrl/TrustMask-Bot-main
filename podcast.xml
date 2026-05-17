@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What to watch this week</title>
-        <description>"Get the inside scoop on the latest TV shows and movies with 'What to Watch This Week', your go-to podcast for entertainment recommendations and reviews."</description>
-        <pubDate>Sun, 17 May 2026 19:07:13 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v368/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v368_1779044833</guid>
+        <title>Beirut watch: can Lebanon subdue Hizbullah?</title>
+        <description>"Exploring the complex dynamics of Lebanon's political landscape, 'Beirut Watch' delves into the country's struggles with Hizbullah's influence. Tune in for in-depth analysis and expert insights on Lebanon's future."</description>
+        <pubDate>Sun, 17 May 2026 21:54:33 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v369/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v369_1779054873</guid>
     </item>
 </channel>
 </rss>
