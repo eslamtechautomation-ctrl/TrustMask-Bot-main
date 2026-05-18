@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Is Samia Suluhu Hassan Africa’s most disappointing president?</title>
-        <description>"Assessing the tenure of Tanzania's Samia Suluhu Hassan, Africa's first female president. Dive into her policies, controversies, and leadership style. Is she living up to expectations or falling short? Tune in to our latest podcast episode."</description>
-        <pubDate>Mon, 18 May 2026 15:29:45 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v372/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v372_1779118185</guid>
+        <title>The War Room newsletter: Is Russia being out-droned?</title>
+        <description>"Explore the latest developments in the Russia-Ukraine conflict on The War Room newsletter podcast, as we examine the role of drones in modern warfare and ask: Is Russia being out-droned?"</description>
+        <pubDate>Mon, 18 May 2026 19:43:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v373/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v373_1779133409</guid>
     </item>
 </channel>
 </rss>
