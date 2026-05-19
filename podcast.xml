@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>LA’s levitating amoeba: a radically new kind of museum</title>
-        <description>"Immerse yourself in the uncharted world of LA's Levitating Amoeba, a visionary museum redefining the intersection of art, science, and innovation. Tune in to our podcast for captivating conversations, behind-the-scenes stories, and expert insights into this game-changing cultural institution."</description>
-        <pubDate>Tue, 19 May 2026 14:59:21 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v377/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v377_1779202761</guid>
+        <title>A tour of Brazil’s wildly polarised politics</title>
+        <description>"Delve into the complex world of Brazilian politics with our latest podcast, exploring the country's deeply divided landscape and the key factors driving its wild polarization."</description>
+        <pubDate>Tue, 19 May 2026 17:41:17 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v378/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v378_1779212477</guid>
     </item>
 </channel>
 </rss>
