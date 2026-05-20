@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The history of Moscow helps explain Russia’s pathologies</title>
-        <description>"Uncover the hidden forces shaping Russia's psyche in 'The History of Moscow', a podcast exploring the city's past and its lasting impact on Russia's modern pathologies, politics, and culture."</description>
-        <pubDate>Wed, 20 May 2026 09:30:51 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v382/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v382_1779269451</guid>
+        <title>Why does Britain consistently fail to capture economic returns from innovation?</title>
+        <description>"Explore the paradox of British innovation: why the UK excels in research but struggles to turn ideas into economic growth. Tune in to our podcast for expert insights and analysis."</description>
+        <pubDate>Wed, 20 May 2026 15:16:51 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v383/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v383_1779290211</guid>
     </item>
 </channel>
 </rss>
