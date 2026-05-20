@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Stay ahead of market trends with our podcast, where we dive into the latest economic data, commodity insights, and market analysis to help you make informed investment decisions."</description>
-        <pubDate>Tue, 19 May 2026 22:15:29 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v380/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v380_1779228929</guid>
+        <title>Airlines are grappling with dwindling supplies of jet fuel</title>
+        <description>"Explore the impact of jet fuel shortages on the aviation industry in our latest podcast, as airlines scramble to adapt to dwindling supplies and rising costs."</description>
+        <pubDate>Wed, 20 May 2026 03:27:21 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v381/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v381_1779247641</guid>
     </item>
 </channel>
 </rss>
