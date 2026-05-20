@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Tune in to our podcast for in-depth analysis of economic trends, commodity market updates, and expert insights on global markets, helping you stay informed and ahead of the curve."</description>
-        <pubDate>Wed, 20 May 2026 20:13:40 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v384/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v384_1779308020</guid>
+        <title>What is Elon Musk’s formula?</title>
+        <description>"Uncover the secrets behind Elon Musk's success in our latest podcast, 'What is Elon Musk's formula?' Explore the innovative strategies and mindset that drove Musk to revolutionize industries and shape the future of tech and entrepreneurship."</description>
+        <pubDate>Wed, 20 May 2026 22:23:55 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v385/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v385_1779315835</guid>
     </item>
 </channel>
 </rss>
