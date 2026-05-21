@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What is Elon Musk’s formula?</title>
-        <description>"Uncover the secrets behind Elon Musk's success in our latest podcast, 'What is Elon Musk's formula?' Explore the innovative strategies and mindset that drove Musk to revolutionize industries and shape the future of tech and entrepreneurship."</description>
-        <pubDate>Wed, 20 May 2026 22:23:55 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v385/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v385_1779315835</guid>
+        <title>The case against trees</title>
+        <description>"Challenge your assumptions about the natural world with 'The Case Against Trees', a provocative podcast exploring the unexpected downsides of our arboreal friends and the complexities of environmentalism."</description>
+        <pubDate>Thu, 21 May 2026 03:33:34 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v386/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v386_1779334414</guid>
     </item>
 </channel>
 </rss>
