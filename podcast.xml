@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The case against trees</title>
-        <description>"Challenge your assumptions about the natural world with 'The Case Against Trees', a provocative podcast exploring the unexpected downsides of our arboreal friends and the complexities of environmentalism."</description>
-        <pubDate>Thu, 21 May 2026 03:33:34 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v386/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v386_1779334414</guid>
+        <title>The myth of the petrodollar</title>
+        <description>"Uncover the secrets behind the petrodollar in our podcast, 'The Myth of the Petrodollar'. Explore the history, impact, and future of the US dollar's dominance in global oil trade, and learn how it shapes the world economy."</description>
+        <pubDate>Thu, 21 May 2026 09:38:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v387/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v387_1779356305</guid>
     </item>
 </channel>
 </rss>
