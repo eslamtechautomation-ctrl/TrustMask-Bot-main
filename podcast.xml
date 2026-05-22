@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The mother of the world v the upstart</title>
-        <description>"Join the debate in 'The Mother of the World v The Upstart', a thought-provoking podcast exploring traditional wisdom vs modern innovation, and the intersection of timeless values and cutting-edge ideas."</description>
-        <pubDate>Fri, 22 May 2026 14:36:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v393/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v393_1779460604</guid>
+        <title>Business</title>
+        <description>"Explore the world of entrepreneurship and leadership with the 'Business' podcast, featuring expert insights, real-life stories, and actionable advice to help you succeed in the business landscape."</description>
+        <pubDate>Fri, 22 May 2026 17:07:48 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v394/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v394_1779469668</guid>
     </item>
 </channel>
 </rss>
