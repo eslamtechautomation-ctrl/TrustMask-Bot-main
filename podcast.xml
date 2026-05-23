@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The pros and cons of commuting</title>
-        <description>"Explore the everyday trade-offs of commuting in our podcast, 'The Pros and Cons of Commuting'. Tune in for insightful discussions on travel, productivity, and work-life balance."</description>
-        <pubDate>Sat, 23 May 2026 10:25:49 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v399/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v399_1779531949</guid>
+        <title>The US in Brief: a petrol-tax suspension floated</title>
+        <description>"Get the latest on US news: a potential petrol-tax suspension, and more, in this brief update from The US in Brief podcast."</description>
+        <pubDate>Sat, 23 May 2026 13:22:20 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v400/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v400_1779542540</guid>
     </item>
 </channel>
 </rss>
