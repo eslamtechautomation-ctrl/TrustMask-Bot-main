@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The US in Brief: a petrol-tax suspension floated</title>
-        <description>"Get the latest on US news: a potential petrol-tax suspension, and more, in this brief update from The US in Brief podcast."</description>
-        <pubDate>Sat, 23 May 2026 13:22:20 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v400/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v400_1779542540</guid>
+        <title>Bashar al-Assad’s henchmen start to go on trial in Syria</title>
+        <description>"Listen to our latest podcast as we discuss the trials of Bashar al-Assad's regime officials in Syria, exploring justice, accountability, and the future of the war-torn nation."</description>
+        <pubDate>Sat, 23 May 2026 16:01:42 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v401/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v401_1779552102</guid>
     </item>
 </channel>
 </rss>
