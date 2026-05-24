@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Chanel’s creative revival is paying off</title>
-        <description>"Discover how Chanel's bold new direction is revitalizing the fashion world. Tune in to our latest podcast episode to explore the creative resurgence of this iconic brand."</description>
-        <pubDate>Sat, 23 May 2026 21:53:59 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v403/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v403_1779573239</guid>
+        <title>How Star Wars went from space opera to soap opera</title>
+        <description>"Explore the evolution of the Star Wars saga from epic space battles to personal dramas in our podcast, 'How Star Wars went from space opera to soap opera'. Dive into the franchise's transformation and its impact on fans."</description>
+        <pubDate>Sun, 24 May 2026 03:29:23 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v404/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v404_1779593363</guid>
     </item>
 </channel>
 </rss>
