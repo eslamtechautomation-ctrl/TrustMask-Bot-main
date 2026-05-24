@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The US in Brief: a petrol-tax suspension floated</title>
-        <description>"Listen to The US in Brief podcast as we discuss a proposed petrol-tax suspension and its potential impact on the US economy, plus other breaking news and updates from across America."</description>
-        <pubDate>Sun, 24 May 2026 10:41:39 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v406/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v406_1779619299</guid>
+        <title>Why Swedish schools are going unplugged</title>
+        <description>"Discover the innovative approach of Swedish schools ditching digital devices. Tune in to our podcast 'Why Swedish Schools Are Going Unplugged' to explore the benefits of a tech-free education and its impact on students' learning experiences."</description>
+        <pubDate>Sun, 24 May 2026 13:23:20 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v407/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v407_1779629000</guid>
     </item>
 </channel>
 </rss>
