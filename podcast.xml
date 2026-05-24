@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How Star Wars went from space opera to soap opera</title>
-        <description>"Explore the evolution of the Star Wars saga from epic space battles to personal dramas in our podcast, 'How Star Wars went from space opera to soap opera'. Dive into the franchise's transformation and its impact on fans."</description>
-        <pubDate>Sun, 24 May 2026 03:29:23 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v404/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v404_1779593363</guid>
+        <title>China knows that governing new tech can be harder than inventing it</title>
+        <description>"Explore the challenges of governing new tech in China and beyond. Listen to our podcast as we dive into the complex intersections of innovation, regulation, and societal impact."</description>
+        <pubDate>Sun, 24 May 2026 08:27:48 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v405/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v405_1779611268</guid>
     </item>
 </channel>
 </rss>
