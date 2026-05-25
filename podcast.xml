@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How Europe is fighting for digital sovereignty</title>
-        <description>"Explore the EU's quest for digital autonomy in our podcast, 'How Europe is Fighting for Digital Sovereignty'. Tune in for expert insights on the latest tech policies and innovations shaping Europe's digital future."</description>
-        <pubDate>Mon, 25 May 2026 10:02:54 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v412/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v412_1779703374</guid>
+        <title>How to stop the Ebola outbreak</title>
+        <description>"Learn how to prevent and control the spread of Ebola in our expert-led podcast, 'How to Stop the Ebola Outbreak'. Get insights on symptoms, treatment, and global health strategies to combat this deadly disease."</description>
+        <pubDate>Mon, 25 May 2026 14:51:54 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v413/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v413_1779720714</guid>
     </item>
 </channel>
 </rss>
