@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Abiy Ahmed dreams of remaking Ethiopia in his image</title>
-        <description>"Explore the vision and ambitions of Ethiopia's Prime Minister Abiy Ahmed as he seeks to reshape the nation in a new podcast series, analyzing the challenges and implications of his transformative plans."</description>
-        <pubDate>Wed, 27 May 2026 20:13:53 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v425/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v425_1779912833</guid>
+        <title>The US in Brief: Iran talks come under fire</title>
+        <description>"Get the latest on US foreign policy as tensions rise over Iran talks. Tune in to 'The US in Brief' for expert analysis and in-depth discussion on the implications of the Iran negotiations."</description>
+        <pubDate>Wed, 27 May 2026 22:40:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v426/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v426_1779921638</guid>
     </item>
 </channel>
 </rss>
