@@ -5,10 +5,10 @@
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
         <title>Crackdowns on financial secrecy aren’t hurting offshore finance</title>
-        <description>"Explore the resilience of offshore finance despite global crackdowns on financial secrecy. Listen now to our latest podcast episode."</description>
-        <pubDate>Sat, 30 May 2026 06:23:38 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v438/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v438_1780122218</guid>
+        <description>"Exploring the resilience of offshore finance, this podcast delves into the impact of crackdowns on financial secrecy, revealing why stricter regulations aren't slowing down the industry."</description>
+        <pubDate>Sat, 30 May 2026 10:47:09 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v439/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v439_1780138029</guid>
     </item>
 </channel>
 </rss>
