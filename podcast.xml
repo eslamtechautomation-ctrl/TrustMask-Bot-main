@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Business</title>
-        <description>"Unlock your entrepreneurial potential with the 'Business' podcast, exploring innovative strategies, industry trends, and expert insights to drive success in the ever-evolving business landscape."</description>
-        <pubDate>Sun, 31 May 2026 10:56:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v446/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v446_1780224979</guid>
+        <title>California’s chaotic race for governor</title>
+        <description>"Join us as we dive into the drama and intrigue of California's gubernatorial election, analyzing the candidates, issues, and twists that will shape the future of the Golden State."</description>
+        <pubDate>Sun, 31 May 2026 13:42:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v447/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v447_1780234958</guid>
     </item>
 </channel>
 </rss>
