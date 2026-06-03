@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How East Asia should respond to its China shock</title>
-        <description>"Explore the economic and geopolitical implications of China's rising influence on East Asia. Tune in to 'How East Asia should respond to its China shock' for expert insights and analysis on the region's future." (155 characters, including spaces) 
-
-Alternatively, a longer version: 
-"Delve into the complexities of China's economic and geopolitical impact on East Asia. Our podcast, 'How East Asia should respond to its China shock', offers in-depth discussions and expert opinions on the region's strategic response to China's growing influence." (160 characters, including spaces, for Google search results)</description>
-        <pubDate>Wed, 03 Jun 2026 10:56:41 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v461/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v461_1780484201</guid>
+        <title>Travel is becoming a competitive sport</title>
+        <description>"Explore the thrill of competitive travel with our podcast, where adventure meets athletics. Join us as we dive into the world of extreme wanderlusting and discover what it takes to be a champion traveler."</description>
+        <pubDate>Wed, 03 Jun 2026 16:46:32 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v462/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v462_1780505192</guid>
     </item>
 </channel>
 </rss>
