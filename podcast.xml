@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Travel is becoming a competitive sport</title>
-        <description>"Explore the thrill of competitive travel with our podcast, where adventure meets athletics. Join us as we dive into the world of extreme wanderlusting and discover what it takes to be a champion traveler."</description>
-        <pubDate>Wed, 03 Jun 2026 16:46:32 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v462/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v462_1780505192</guid>
+        <title>Dope and glory: inside the Enhanced Games</title>
+        <description>"Delve into the world of performance enhancement in sports with 'Dope and Glory: Inside the Enhanced Games'. Exploring the darker side of athletic achievement, this podcast series uncovers the secrets and scandals behind the use of doping in professional sports."</description>
+        <pubDate>Wed, 03 Jun 2026 20:54:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v463/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v463_1780520069</guid>
     </item>
 </channel>
 </rss>
