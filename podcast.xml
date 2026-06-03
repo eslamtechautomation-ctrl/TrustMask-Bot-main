@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>New York looks set to lower a big barrier to building</title>
-        <description>"Discover how New York is revolutionizing its construction landscape. Tune in to our latest podcast, 'New York looks set to lower a big barrier to building', to explore the latest developments and their potential impact on the industry."</description>
-        <pubDate>Wed, 03 Jun 2026 03:57:16 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v460/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v460_1780459036</guid>
+        <title>How East Asia should respond to its China shock</title>
+        <description>"Explore the economic and geopolitical implications of China's rising influence on East Asia. Tune in to 'How East Asia should respond to its China shock' for expert insights and analysis on the region's future." (155 characters, including spaces) 
+
+Alternatively, a longer version: 
+"Delve into the complexities of China's economic and geopolitical impact on East Asia. Our podcast, 'How East Asia should respond to its China shock', offers in-depth discussions and expert opinions on the region's strategic response to China's growing influence." (160 characters, including spaces, for Google search results)</description>
+        <pubDate>Wed, 03 Jun 2026 10:56:41 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v461/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v461_1780484201</guid>
     </item>
 </channel>
 </rss>
