@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>A looming EU-China trade war</title>
-        <description>"Explore the escalating tensions between the EU and China in 'A Looming EU-China Trade War', a podcast analyzing the economic and geopolitical implications of a potential trade conflict between two global superpowers."</description>
-        <pubDate>Thu, 04 Jun 2026 03:52:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v465/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v465_1780545145</guid>
+        <title>Congo’s response to Ebola is late and chaotic</title>
+        <description>"Delve into the challenges facing Congo's Ebola response efforts in our latest podcast, exploring the impacts of delayed and disorganized measures on public health and community resilience."</description>
+        <pubDate>Thu, 04 Jun 2026 09:54:15 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v466/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v466_1780566855</guid>
     </item>
 </channel>
 </rss>
