@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The spy who lived downstairs</title>
-        <description>"Uncover the secrets of espionage and intrigue with 'The Spy Who Lived Downstairs', a podcast exploring the fascinating world of spies, surveillance, and undercover operations. Tune in for thrilling stories and expert insights."</description>
-        <pubDate>Wed, 03 Jun 2026 23:05:35 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v464/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v464_1780527935</guid>
+        <title>A looming EU-China trade war</title>
+        <description>"Explore the escalating tensions between the EU and China in 'A Looming EU-China Trade War', a podcast analyzing the economic and geopolitical implications of a potential trade conflict between two global superpowers."</description>
+        <pubDate>Thu, 04 Jun 2026 03:52:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v465/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v465_1780545145</guid>
     </item>
 </channel>
 </rss>
