@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The spy who lived downstairs</title>
-        <description>"Uncover the intriguing world of espionage with 'The Spy Who Lived Downstairs', a gripping podcast exploring real-life spy stories, unexpected espionage encounters, and the secrets hidden in plain sight."</description>
-        <pubDate>Thu, 04 Jun 2026 22:20:23 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v470/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v470_1780611623</guid>
+        <title>Would American military action against Cuba work?</title>
+        <description>"Explore the complexities of US-Cuba relations in our latest podcast episode, 'Would American military action against Cuba work?' Join us as we analyze the potential consequences and effectiveness of military intervention, and discuss the implications for global politics and international relations."</description>
+        <pubDate>Fri, 05 Jun 2026 03:37:34 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v471/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v471_1780630654</guid>
     </item>
 </channel>
 </rss>
