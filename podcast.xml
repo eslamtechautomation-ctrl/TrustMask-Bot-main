@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Could something replace the Treasury market?</title>
-        <description>"Explore the future of finance in our latest podcast: Could something replace the Treasury market? Join us as we dive into the potential alternatives and what it could mean for the global economy."</description>
-        <pubDate>Sat, 06 Jun 2026 10:53:23 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v479/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v479_1780743203</guid>
+        <title>Business</title>
+        <description>"Exploring the world of entrepreneurship and industry trends, the 'Business' podcast delivers insightful conversations, expert advice, and real-life stories to help you succeed in the business landscape."</description>
+        <pubDate>Sat, 06 Jun 2026 13:39:53 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v480/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v480_1780753193</guid>
     </item>
 </channel>
 </rss>
