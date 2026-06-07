@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>A root-and-branch account of how forests work</title>
-        <description>"Delve into the fascinating world of forests with our podcast, exploring the intricate relationships between trees, ecosystems, and the environment. Discover the hidden dynamics that shape our planet's most vital habitats."</description>
-        <pubDate>Sun, 07 Jun 2026 08:54:39 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v485/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v485_1780822479</guid>
+        <title>The US in Brief: Voters sour on Trump</title>
+        <description>"Get the latest on American politics with The US in Brief. In this episode, we explore how voters are turning against Trump and what it means for the country's future. Tune in for in-depth analysis and expert insights."</description>
+        <pubDate>Sun, 07 Jun 2026 11:08:28 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v486/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v486_1780830508</guid>
     </item>
 </channel>
 </rss>
