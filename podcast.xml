@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Imagining a world without a safe asset</title>
-        <description>"Explore a future without traditional safe-haven assets in 'Imagining a World Without a Safe Asset', a thought-provoking podcast discussing economic uncertainty, investment strategies, and the evolving financial landscape."</description>
-        <pubDate>Mon, 08 Jun 2026 22:25:51 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v495/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v495_1780957551</guid>
+        <title>America’s plans for Cuba</title>
+        <description>"Explore the complex and evolving relationship between the US and Cuba. Tune in to 'America's Plans for Cuba' podcast, discussing policy, politics, and the future of this island nation."</description>
+        <pubDate>Tue, 09 Jun 2026 02:57:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v496/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v496_1780973831</guid>
     </item>
 </channel>
 </rss>
