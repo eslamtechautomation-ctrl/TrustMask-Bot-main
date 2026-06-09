@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Business</title>
-        <description>"Explore the world of entrepreneurship and professional growth with the 'Business' podcast, featuring insights, interviews, and expert advice on leadership, innovation, and success."</description>
-        <pubDate>Tue, 09 Jun 2026 15:21:32 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v499/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v499_1781018492</guid>
+        <title>The War Room newsletter: How the character of war has changed</title>
+        <description>"Explore the evolving nature of modern warfare in 'The War Room' podcast, where experts analyze the shifting character of war and its impact on global security, geopolitics, and technology."</description>
+        <pubDate>Tue, 09 Jun 2026 20:06:02 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v500/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v500_1781035562</guid>
     </item>
 </channel>
 </rss>
