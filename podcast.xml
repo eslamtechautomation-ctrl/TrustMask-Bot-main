@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Britain’s defence secretary falls on his sword</title>
-        <description>"Exploring the shocking resignation of Britain's Defence Secretary, this podcast delves into the reasons behind the sudden departure and its implications for UK politics and defence policy."</description>
-        <pubDate>Thu, 11 Jun 2026 20:20:28 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v510/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v510_1781209228</guid>
+        <title>The Economist’s culture internship</title>
+        <description>"Exploring the intersection of art, culture, and economics, The Economist's Culture Internship podcast delves into the latest trends and ideas shaping our world, hosted by emerging voices in cultural critique and analysis."</description>
+        <pubDate>Thu, 11 Jun 2026 22:49:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v511/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v511_1781218183</guid>
     </item>
 </channel>
 </rss>
