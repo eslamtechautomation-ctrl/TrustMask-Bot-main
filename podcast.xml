@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How many times a day do you think about Alexander the Great?</title>
-        <description>"Join us on 'How many times a day do you think about Alexander the Great?' as we delve into the fascinating world of history, pop culture, and personal anecdotes, exploring the unexpected ways ancient legends like Alexander the Great still influence our daily lives."</description>
-        <pubDate>Sat, 13 Jun 2026 11:15:13 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v520/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v520_1781349313</guid>
+        <title>The impact of taxing British private-school fees starts to show</title>
+        <description>"Explore the fallout of taxing British private-school fees on the education sector in our latest podcast episode, 'The Impact of Taxing British Private-School Fees Starts to Show', delving into the financial and societal implications of this policy change."</description>
+        <pubDate>Sat, 13 Jun 2026 13:56:53 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v521/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v521_1781359013</guid>
     </item>
 </channel>
 </rss>
