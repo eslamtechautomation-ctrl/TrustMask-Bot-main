@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The US in Brief: The spy who came in from the golf course</title>
-        <description>"Uncover the surprising intersection of golf and espionage in America's history. Tune in to 'The US in Brief: The Spy Who Came in from the Golf Course' for a fascinating exploration of espionage, politics, and golf's unlikely role in shaping the nation's story."</description>
-        <pubDate>Mon, 15 Jun 2026 04:08:20 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v531/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v531_1781496500</guid>
+        <title>From morning in America to endless conflict</title>
+        <description>"Explore the evolution of America from a beacon of hope to a nation embroiled in endless conflict. Tune in to 'From Morning in America to Endless Conflict' podcast for thought-provoking discussions on politics, culture, and the complexities of a changing world."</description>
+        <pubDate>Mon, 15 Jun 2026 12:10:03 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v532/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v532_1781525403</guid>
     </item>
 </channel>
 </rss>
