@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>From morning in America to endless conflict</title>
-        <description>"Explore the evolution of America from a beacon of hope to a nation embroiled in endless conflict. Tune in to 'From Morning in America to Endless Conflict' podcast for thought-provoking discussions on politics, culture, and the complexities of a changing world."</description>
-        <pubDate>Mon, 15 Jun 2026 12:10:03 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v532/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v532_1781525403</guid>
+        <title>The Economist’s culture internship</title>
+        <description>"Explore the intersection of culture and economics with The Economist's culture internship podcast, featuring insightful discussions and analyses on the latest trends and ideas shaping our world."</description>
+        <pubDate>Mon, 15 Jun 2026 19:03:04 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v533/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v533_1781550184</guid>
     </item>
 </channel>
 </rss>
