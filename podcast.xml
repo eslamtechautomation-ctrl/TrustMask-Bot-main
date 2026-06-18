@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Two American tycoons are betting big on a casino revival</title>
-        <description>"Discover the high-stakes world of casino resurgence as two American tycoons invest heavily in a gaming revival. Tune in to our latest podcast episode to learn more about their bold strategy and the future of the industry." (155 characters, 28-30 words)</description>
-        <pubDate>Thu, 18 Jun 2026 03:46:37 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v545/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v545_1781754397</guid>
+        <title>View from the summit: what did the G7 achieve?</title>
+        <description>"Get the inside scoop on the latest G7 summit with our expert analysis. Tune in to 'View from the Summit' as we break down the key takeaways, major agreements, and unresolved issues from the world's most powerful nations."</description>
+        <pubDate>Thu, 18 Jun 2026 10:18:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v546/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v546_1781777918</guid>
     </item>
 </channel>
 </rss>
