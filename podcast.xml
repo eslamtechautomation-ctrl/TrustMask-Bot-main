@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The World Cup paradox</title>
-        <description>"Explore the fascinating contradictions of the beautiful game in 'The World Cup Paradox', a podcast delving into the intriguing stories, surprising statistics, and cultural nuances that make the World Cup a captivating spectacle."</description>
-        <pubDate>Sat, 20 Jun 2026 03:32:11 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v555/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v555_1781926331</guid>
+        <title>The first-ever robotic rescue at sea is a milestone</title>
+        <description>"Discover the groundbreaking story of the world's first robotic rescue at sea, a milestone in maritime technology and emergency response. Tune in to our latest podcast episode to learn more."</description>
+        <pubDate>Sat, 20 Jun 2026 08:53:36 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v556/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v556_1781945616</guid>
     </item>
 </channel>
 </rss>
