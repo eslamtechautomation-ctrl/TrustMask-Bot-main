@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>2. Against all obstacles</title>
-        <description>"OVERCOMING ADVERSITY: Tune in to 'Against All Obstacles', a motivational podcast exploring inspiring stories of resilience, perseverance, and triumph over life's toughest challenges."</description>
-        <pubDate>Sat, 20 Jun 2026 22:05:05 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v561/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v561_1781993105</guid>
+        <title>The US in Brief: Meet America’s next socialist mayor</title>
+        <description>"Discover the future of American politics in 'The US in Brief' podcast, as we interview the nation's next socialist mayor, exploring progressive policies and visionary leadership shaping the country's urban landscape."</description>
+        <pubDate>Sun, 21 Jun 2026 04:03:34 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v562/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v562_1782014614</guid>
     </item>
 </channel>
 </rss>
