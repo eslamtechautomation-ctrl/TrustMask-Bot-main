@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What happens when a presidential vote is a drawn-out contest?</title>
-        <description>"Explore the intricacies of presidential elections with our podcast, delving into the consequences and implications of a drawn-out vote contest. Tune in for expert analysis and insightful discussions."</description>
-        <pubDate>Mon, 22 Jun 2026 04:04:36 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v568/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v568_1782101076</guid>
+        <title>Robots could soon be delivering your pizza</title>
+        <description>"Discover the future of food delivery as we explore how robots are revolutionizing the pizza industry. Tune in to our latest podcast episode to learn more about the innovative technology behind robotic pizza delivery."</description>
+        <pubDate>Mon, 22 Jun 2026 11:51:10 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v569/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v569_1782129070</guid>
     </item>
 </channel>
 </rss>
