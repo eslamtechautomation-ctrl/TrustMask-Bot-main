@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The first-ever robotic rescue at sea is a milestone</title>
-        <description>"Discover the groundbreaking story of the first-ever robotic rescue at sea, a milestone in maritime innovation. Tune in to our latest podcast episode to learn more."</description>
-        <pubDate>Tue, 23 Jun 2026 03:26:12 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v573/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v573_1782185172</guid>
+        <title>Build a prime minister</title>
+        <description>"Join us on 'Build a Prime Minister' as we explore the art of leadership, interviewing experts and thought leaders to uncover the skills, traits, and experiences that shape a nation's top leader. Tune in for insightful conversations on politics, governance, and personal development."</description>
+        <pubDate>Tue, 23 Jun 2026 09:36:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v574/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v574_1782207385</guid>
     </item>
 </channel>
 </rss>
