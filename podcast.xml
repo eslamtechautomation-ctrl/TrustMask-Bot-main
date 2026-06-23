@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Build a prime minister</title>
-        <description>"Join us on 'Build a Prime Minister' as we explore the art of leadership, interviewing experts and thought leaders to uncover the skills, traits, and experiences that shape a nation's top leader. Tune in for insightful conversations on politics, governance, and personal development."</description>
-        <pubDate>Tue, 23 Jun 2026 09:36:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v574/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v574_1782207385</guid>
+        <title>The War Room newsletter: When war becomes a political aesthetic</title>
+        <description>"Explore the intersection of war and politics in 'The War Room' podcast, where we analyze how conflict shapes political ideology and becomes a cultural aesthetic."</description>
+        <pubDate>Tue, 23 Jun 2026 14:45:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v575/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v575_1782225935</guid>
     </item>
 </channel>
 </rss>
