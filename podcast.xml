@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What to read to understand your next employer</title>
-        <description>"Discover the books that matter to your future employer. Tune in to 'What to Read to Understand Your Next Employer', a podcast exploring must-read literature to help you prepare, impress, and succeed in your next role."</description>
-        <pubDate>Tue, 23 Jun 2026 20:02:12 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v577/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v577_1782244932</guid>
+        <title>Alexis de Tocqueville and America today</title>
+        <description>"Explore the timeless insights of Alexis de Tocqueville on American democracy, equality, and individual freedom, and discover their surprising relevance to America's social, political, and cultural landscape today."</description>
+        <pubDate>Tue, 23 Jun 2026 22:10:49 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v578/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v578_1782252649</guid>
     </item>
 </channel>
 </rss>
