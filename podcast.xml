@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Steven Spielberg has more to say about aliens</title>
-        <description>"Explore the fascinating world of extraterrestrial life through the lens of legendary filmmaker Steven Spielberg. Tune in to our latest podcast as we delve into Spielberg's thoughts on aliens, UFOs, and the mysteries of the universe."</description>
-        <pubDate>Wed, 24 Jun 2026 14:26:17 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v581/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v581_1782311177</guid>
+        <title>Economic data, commodities and markets</title>
+        <description>"Stay ahead of the curve with our podcast, exploring the latest economic data, commodity trends, and market insights to help you make informed investment decisions."</description>
+        <pubDate>Wed, 24 Jun 2026 17:03:42 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v582/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v582_1782320622</guid>
     </item>
 </channel>
 </rss>
