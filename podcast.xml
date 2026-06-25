@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How big are China’s emerging industries?</title>
-        <description>"Explore the rapid growth of China's emerging industries, from tech to renewables, and discover the opportunities and challenges shaping the country's economic future."</description>
-        <pubDate>Wed, 24 Jun 2026 22:16:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v584/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v584_1782339379</guid>
+        <title>How artificial intelligence got better at building itself</title>
+        <description>"Discover the latest breakthroughs in AI development as we explore how artificial intelligence is rapidly improving its ability to build and upgrade itself, revolutionizing the tech industry forever."</description>
+        <pubDate>Thu, 25 Jun 2026 03:25:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v585/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v585_1782357911</guid>
     </item>
 </channel>
 </rss>
