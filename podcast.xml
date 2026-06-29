@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Ukraine’s war is now longer than the first world war</title>
-        <description>"Explore the ongoing conflict in Ukraine, now surpassing the duration of WWI. Tune in to our latest podcast for insightful analysis and expert discussions on the war's impact and implications for global security."</description>
-        <pubDate>Mon, 29 Jun 2026 10:55:13 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v612/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v612_1782730513</guid>
+        <title>Alexis de Tocqueville and America today</title>
+        <description>"Explore the enduring relevance of Alexis de Tocqueville's insights on American democracy, liberty, and culture in this thought-provoking podcast, examining how his 19th-century observations remain strikingly pertinent to America's challenges and opportunities today."</description>
+        <pubDate>Mon, 29 Jun 2026 15:43:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v613/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v613_1782747805</guid>
     </item>
 </channel>
 </rss>
