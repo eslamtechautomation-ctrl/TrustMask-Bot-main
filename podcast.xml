@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>America’s Supreme Court was right to expand presidential power</title>
-        <description>"Explore the evolution of presidential authority in this thought-provoking podcast, as we examine the Supreme Court's role in expanding executive power and its implications for American democracy."</description>
-        <pubDate>Tue, 30 Jun 2026 19:54:16 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v620/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v620_1782849256</guid>
+        <title>The War Room newsletter: Lessons from the Cuban revolution</title>
+        <description>"Uncover the secrets of the Cuban Revolution in The War Room newsletter podcast. Explore the triumphs and setbacks of this pivotal moment in history and discover valuable lessons for modern-day strategy and politics."</description>
+        <pubDate>Tue, 30 Jun 2026 22:15:00 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v621/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v621_1782857700</guid>
     </item>
 </channel>
 </rss>
