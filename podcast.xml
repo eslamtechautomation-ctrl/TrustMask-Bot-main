@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The AI boom and geopolitics are rewiring Asia’s oceans</title>
-        <description>"Explore the intersection of AI, geopolitics, and Asia's oceans in this insightful podcast. Dive into the latest trends and analysis on how emerging technologies are reshaping the region's maritime landscape and global balance of power."</description>
-        <pubDate>Tue, 30 Jun 2026 14:15:34 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v618/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v618_1782828934</guid>
+        <title>Big oil’s secretive trading arms are having an extraordinary year</title>
+        <description>"Uncover the hidden world of big oil's secretive trading arms in our latest podcast episode. Discover how they're thriving in a volatile market and what it means for the future of energy. Listen now!" (155 characters, including spaces) 
+
+Alternatively, a shorter version: 
+"Exposing big oil's secretive trading arms and their surprising success. Listen now!" (126 characters, including spaces)</description>
+        <pubDate>Tue, 30 Jun 2026 17:06:30 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v619/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v619_1782839190</guid>
     </item>
 </channel>
 </rss>
