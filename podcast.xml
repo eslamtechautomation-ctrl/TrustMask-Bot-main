@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Coming in Andy: Britain’s prime minister-in-waiting</title>
-        <description>"Get insider knowledge on UK politics with 'Coming in Andy', a podcast exploring the rise of Britain's potential next Prime Minister, Andy, and the implications for the nation's future."</description>
-        <pubDate>Tue, 30 Jun 2026 03:31:28 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v616/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v616_1782790288</guid>
+        <title>How to turn compute into a financial asset</title>
+        <description>"Unlock the power of computing as a financial asset. Explore innovative strategies and expert insights on monetizing computing resources in our podcast, 'How to Turn Compute into a Financial Asset'."</description>
+        <pubDate>Tue, 30 Jun 2026 09:32:39 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v617/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v617_1782811959</guid>
     </item>
 </channel>
 </rss>
