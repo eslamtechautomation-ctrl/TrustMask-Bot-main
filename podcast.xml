@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Big oil’s secretive trading arms are having an extraordinary year</title>
-        <description>"Uncover the hidden world of big oil's secretive trading arms in our latest podcast episode. Discover how they're thriving in a volatile market and what it means for the future of energy. Listen now!" (155 characters, including spaces) 
-
-Alternatively, a shorter version: 
-"Exposing big oil's secretive trading arms and their surprising success. Listen now!" (126 characters, including spaces)</description>
-        <pubDate>Tue, 30 Jun 2026 17:06:30 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v619/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v619_1782839190</guid>
+        <title>America’s Supreme Court was right to expand presidential power</title>
+        <description>"Explore the evolution of presidential authority in this thought-provoking podcast, as we examine the Supreme Court's role in expanding executive power and its implications for American democracy."</description>
+        <pubDate>Tue, 30 Jun 2026 19:54:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v620/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v620_1782849256</guid>
     </item>
 </channel>
 </rss>
