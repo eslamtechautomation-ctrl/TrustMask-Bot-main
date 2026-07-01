@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Venezuela suffers its worst earthquake in a century</title>
-        <description>"Discover the devastating impact of Venezuela's worst earthquake in 100 years. Tune in to our latest podcast for in-depth analysis and exclusive updates on the disaster's aftermath."</description>
-        <pubDate>Wed, 01 Jul 2026 19:52:47 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v626/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v626_1782935567</guid>
+        <title>Why China still sucks at football</title>
+        <description>"Exploring the complexities of Chinese football, this podcast delves into the country's struggles to succeed in the sport, despite significant investments. Tune in for lively discussions and expert analysis on the challenges facing China's football scene."</description>
+        <pubDate>Wed, 01 Jul 2026 22:16:56 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v627/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v627_1782944216</guid>
     </item>
 </channel>
 </rss>
