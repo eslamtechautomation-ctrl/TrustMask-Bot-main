@@ -4,16 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The US in Brief: Trump’s treaty in Versailles</title>
-        <description>"Explore the aftermath of WWI and the Treaty of Versailles, signed during Donald Trump's presidency, no - that's not accurate. Discover the real story behind the treaty and its significance in US history on 'The US in Brief: Trump’s treaty in Versailles' podcast, examining America's role in global politics." 
-
-However, it's worth noting that Donald Trump was not the president during the signing of the Treaty of Versailles. The treaty was signed on June 28, 1919, and Donald Trump was not born until 1946 and did not become president until 2017. 
-
-A revised SEO description could be:
-"Delve into the history of the Treaty of Versailles and its impact on US foreign policy on 'The US in Brief: Trump’s treaty in Versailles' podcast, clarifying misconceptions and exploring America's global presence."</description>
-        <pubDate>Wed, 01 Jul 2026 17:13:09 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v625/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v625_1782925989</guid>
+        <title>Venezuela suffers its worst earthquake in a century</title>
+        <description>"Discover the devastating impact of Venezuela's worst earthquake in 100 years. Tune in to our latest podcast for in-depth analysis and exclusive updates on the disaster's aftermath."</description>
+        <pubDate>Wed, 01 Jul 2026 19:52:47 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v626/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v626_1782935567</guid>
     </item>
 </channel>
 </rss>
