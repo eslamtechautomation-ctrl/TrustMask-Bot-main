@@ -4,11 +4,13 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Stay ahead of market trends with our podcast, 'Economic Data, Commodities and Markets'. Tune in for expert analysis and insights on the latest economic indicators, commodity prices, and market movements, helping you make informed investment decisions."</description>
-        <pubDate>Thu, 02 Jul 2026 16:48:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v632/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v632_1783010905</guid>
+        <title>Allies learn how to bully America</title>
+        <description>Here's a possible SEO description for the podcast:
+
+"Explore the complex dynamics of international relations in 'Allies Learn How to Bully America', a thought-provoking podcast examining the shifting global landscape and the ways in which US allies are redefining their relationships with America."</description>
+        <pubDate>Thu, 02 Jul 2026 19:22:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v633/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v633_1783020131</guid>
     </item>
 </channel>
 </rss>
