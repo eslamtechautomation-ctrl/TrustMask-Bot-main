@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Politics</title>
-        <description>"Join the conversation on our 'Politics' podcast, where we dive into the latest news, trends, and debates shaping the world of politics. Tune in for in-depth analysis, expert interviews, and thought-provoking discussions on the issues that matter most."</description>
-        <pubDate>Fri, 03 Jul 2026 16:23:34 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v639/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v639_1783095814</guid>
+        <title>Plot Twist newsletter: What to read to celebrate America at 250</title>
+        <description>"Discover the ultimate reading list for America's 250th birthday. Tune in to the Plot Twist newsletter podcast for book recommendations that explore the nation's history, culture, and identity."</description>
+        <pubDate>Fri, 03 Jul 2026 19:19:38 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v640/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v640_1783106378</guid>
     </item>
 </channel>
 </rss>
