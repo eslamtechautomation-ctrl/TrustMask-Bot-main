@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Plot Twist newsletter: What to read to celebrate America at 250</title>
-        <description>"Discover the ultimate reading list for America's 250th birthday. Tune in to the Plot Twist newsletter podcast for book recommendations that explore the nation's history, culture, and identity."</description>
-        <pubDate>Fri, 03 Jul 2026 19:19:38 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v640/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v640_1783106378</guid>
+        <title>What remains of the city upon the hill?</title>
+        <description>"Explore the intersection of history, culture, and politics in 'What Remains of the City Upon the Hill', a thought-provoking podcast examining the evolution of American identity and its enduring ideals."</description>
+        <pubDate>Fri, 03 Jul 2026 22:03:27 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v641/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v641_1783116207</guid>
     </item>
 </channel>
 </rss>
