@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Eight of the best new novels to read this summer</title>
-        <description>"Discover the hottest new releases in literature. Tune in to our latest podcast episode, 'Eight of the best new novels to read this summer', for expert book recommendations and insider insights into the season's most anticipated fiction titles."</description>
-        <pubDate>Fri, 03 Jul 2026 02:49:18 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v635/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v635_1783046958</guid>
+        <title>Where will Europe’s heatwave be most deadly?</title>
+        <description>"Explore the devastating impact of Europe's heatwave on vulnerable populations. Listen to our latest podcast episode to learn which regions are at highest risk and what's being done to mitigate the effects."</description>
+        <pubDate>Fri, 03 Jul 2026 06:31:10 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v636/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v636_1783060270</guid>
     </item>
 </channel>
 </rss>
