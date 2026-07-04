@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What remains of the city upon the hill?</title>
-        <description>"Explore the intersection of history, culture, and politics in 'What Remains of the City Upon the Hill', a thought-provoking podcast examining the evolution of American identity and its enduring ideals."</description>
-        <pubDate>Fri, 03 Jul 2026 22:03:27 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v641/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v641_1783116207</guid>
+        <title>The ethical people-smuggler</title>
+        <description>"Explore the complex moral landscape of human migration with 'The Ethical People-Smuggler' podcast, delving into the gray areas between right and wrong, and challenging societal norms on refugees, borders, and human rights."</description>
+        <pubDate>Sat, 04 Jul 2026 02:44:37 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v642/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v642_1783133077</guid>
     </item>
 </channel>
 </rss>
