@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How plants keep tabs on the competition</title>
-        <description>"Discover the secret lives of plants as they compete for resources and survival. Tune in to 'How plants keep tabs on the competition' and explore the fascinating world of plant behavior, ecology, and evolution."</description>
-        <pubDate>Sun, 05 Jul 2026 02:55:18 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v649/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v649_1783220118</guid>
+        <title>The BBC switches off its oldest service</title>
+        <description>"Discover the impact of the BBC shutting down its oldest service in our latest podcast episode, exploring the history and future of broadcasting."</description>
+        <pubDate>Sun, 05 Jul 2026 06:39:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v650/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v650_1783233583</guid>
     </item>
 </channel>
 </rss>
