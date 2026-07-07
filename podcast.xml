@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Meet the world’s new peacemakers</title>
-        <description>"Join us on 'Meet the World's New Peacemakers' as we explore the stories of innovative changemakers working towards global harmony and conflict resolution, featuring inspiring interviews and insightful discussions on peacebuilding and social impact."</description>
-        <pubDate>Tue, 07 Jul 2026 02:55:33 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v661/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v661_1783392933</guid>
+        <title>The Fed’s chief must practise politics</title>
+        <description>"Explore the intersection of economics and politics with 'The Fed's Chief Must Practise Politics', a podcast discussing the complexities of monetary policy and its impact on the global economy."</description>
+        <pubDate>Tue, 07 Jul 2026 06:45:41 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v662/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v662_1783406741</guid>
     </item>
 </channel>
 </rss>
