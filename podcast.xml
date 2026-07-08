@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Route 66: How a century-old highway helps explain America</title>
-        <description>"Embark on a journey through America's history and culture with Route 66, a podcast exploring the iconic highway's enduring impact on the country's identity, values, and people. Discover how this century-old road reveals the complexities and nuances of the American experience."</description>
-        <pubDate>Wed, 08 Jul 2026 11:03:20 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v671/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v671_1783508600</guid>
+        <title>Democrats and Republicans agree: AI is scary</title>
+        <description>"Explore the bipartisan concern over AI's impact on society. Tune in to our podcast as we delve into the fears and uncertainties surrounding artificial intelligence, featuring insights from both Democrats and Republicans."</description>
+        <pubDate>Wed, 08 Jul 2026 14:00:52 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v672/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v672_1783519252</guid>
     </item>
 </channel>
 </rss>
