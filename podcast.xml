@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What to watch this week</title>
-        <description>"Get the scoop on the latest TV shows and movies with 'What to Watch This Week', your ultimate guide to must-see entertainment. Tune in for weekly recommendations, reviews, and insider tips on what's hot and what's not."</description>
-        <pubDate>Fri, 10 Jul 2026 14:22:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v686/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v686_1783693364</guid>
+        <title>We woz wrong about oil</title>
+        <description>"Challenging conventional wisdom, 'We Woz Wrong About Oil' is a thought-provoking podcast that delves into the misconceptions and surprises surrounding the oil industry, energy transition, and sustainable futures. Tune in for insightful discussions and expert interviews."</description>
+        <pubDate>Fri, 10 Jul 2026 16:55:05 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v687/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v687_1783702505</guid>
     </item>
 </channel>
 </rss>
