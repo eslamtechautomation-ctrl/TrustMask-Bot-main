@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Nigel Farage’s rather silly by-election</title>
-        <description>"Join Nigel Farage for lively discussions and debate on UK politics in his podcast, 'Nigel Farage's Rather Silly By-Election', exploring the latest news and trends with his unique perspective."</description>
-        <pubDate>Sat, 11 Jul 2026 02:30:14 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v690/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v690_1783737014</guid>
+        <title>The mourning show: the politics of Khamenei’s funeral</title>
+        <description>"Explore the intricacies of Iranian politics as we dissect the implications of Ayatollah Khamenei's passing. Tune in to 'The Mourning Show' for expert analysis on the power struggle, succession, and global repercussions surrounding the Supreme Leader's funeral."</description>
+        <pubDate>Sat, 11 Jul 2026 05:39:39 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v691/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v691_1783748379</guid>
     </item>
 </channel>
 </rss>
