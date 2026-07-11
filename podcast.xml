@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Stay ahead of market trends with our podcast, exploring the latest economic data, commodity insights, and market analysis to inform your investment decisions."</description>
-        <pubDate>Sat, 11 Jul 2026 07:53:01 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v692/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v692_1783756381</guid>
+        <title>Fear and doping in Las Vegas</title>
+        <description>"Delve into the darker side of Sin City with 'Fear and Doping in Las Vegas', a thrilling podcast exploring the intersection of crime, deception, and excess in the city of lights. Tune in for true stories and expert insights."</description>
+        <pubDate>Sat, 11 Jul 2026 10:13:22 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v693/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v693_1783764802</guid>
     </item>
 </channel>
 </rss>
