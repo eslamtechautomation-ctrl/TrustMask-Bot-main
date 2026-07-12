@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The EU is just too damn slow</title>
-        <description>"Unapologetic discussions on EU policy and reform. Tune in to 'The EU is just too damn slow' podcast for candid analysis and debates on the European Union's pace of progress."</description>
-        <pubDate>Sun, 12 Jul 2026 05:56:40 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v699/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v699_1783835800</guid>
+        <title>Cartoon: Russia’s war fatigue grows</title>
+        <description>"Explore the evolving dynamics of Russia's war efforts as fatigue sets in. Tune in to our latest podcast, 'Cartoon: Russia’s war fatigue grows', for in-depth analysis and expert insights."</description>
+        <pubDate>Sun, 12 Jul 2026 08:18:58 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v700/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v700_1783844338</guid>
     </item>
 </channel>
 </rss>
