@@ -5,10 +5,10 @@
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
         <title>Nigel Farage’s stunts made him a successful politician. They won’t make him PM</title>
-        <description>"Discover how Nigel Farage's controversies propelled him to political prominence, yet fall short of propelling him to the UK's top office. Listen now."</description>
-        <pubDate>Mon, 13 Jul 2026 06:16:13 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v707/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v707_1783923373</guid>
+        <description>"Explore the paradox of Nigel Farage's career, where provocative stunts propelled him to prominence, but may not be enough to secure the top spot as Prime Minister, in this thought-provoking podcast."</description>
+        <pubDate>Mon, 13 Jul 2026 12:01:26 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v708/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v708_1783944086</guid>
     </item>
 </channel>
 </rss>
