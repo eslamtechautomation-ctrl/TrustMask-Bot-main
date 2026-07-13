@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How much will a 4th of July cookout cost this year?</title>
-        <description>"Discover the estimated cost of a 4th of July cookout this year. Tune in to our latest podcast episode as we break down expenses, provide budgeting tips, and share grilling ideas for a patriotic celebration that won't break the bank."</description>
-        <pubDate>Sun, 12 Jul 2026 21:48:46 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v705/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v705_1783892926</guid>
+        <title>Fault lines: Venezuela’s paltry earthquake response</title>
+        <description>"Explore the devastating consequences of Venezuela's inadequate earthquake response in our podcast, Fault Lines. Delve into the country's struggling infrastructure and humanitarian crisis."</description>
+        <pubDate>Mon, 13 Jul 2026 02:37:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v706/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v706_1783910245</guid>
     </item>
 </channel>
 </rss>
