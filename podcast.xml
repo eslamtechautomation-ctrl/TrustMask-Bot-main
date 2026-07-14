@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The US in Brief: The nine and the one</title>
-        <description>"Discover the intricacies of the US Supreme Court and its impact on the nation in 'The US in Brief: The nine and the one', a podcast exploring the intersection of law, politics, and society through in-depth analysis and expert insights."</description>
-        <pubDate>Mon, 13 Jul 2026 21:55:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v711/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v711_1783979704</guid>
+        <title>Why can’t India’s government build a decent website?</title>
+        <description>"Explore the challenges facing India's digital infrastructure in our podcast, 'Why can’t India’s government build a decent website?' Delving into the complexities of e-governance, technology, and bureaucracy, we examine the obstacles hindering the development of effective online platforms in India." (155 characters) 
+
+Alternatively, a shorter version could be: 
+"Uncovering the challenges of India's e-governance, exploring why the government struggles to build decent websites."</description>
+        <pubDate>Tue, 14 Jul 2026 02:21:54 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v712/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v712_1783995714</guid>
     </item>
 </channel>
 </rss>
