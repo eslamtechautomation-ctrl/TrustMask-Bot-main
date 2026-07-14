@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Why can’t India’s government build a decent website?</title>
-        <description>"Explore the challenges facing India's digital infrastructure in our podcast, 'Why can’t India’s government build a decent website?' Delving into the complexities of e-governance, technology, and bureaucracy, we examine the obstacles hindering the development of effective online platforms in India." (155 characters) 
-
-Alternatively, a shorter version could be: 
-"Uncovering the challenges of India's e-governance, exploring why the government struggles to build decent websites."</description>
-        <pubDate>Tue, 14 Jul 2026 02:21:54 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v712/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v712_1783995714</guid>
+        <title>What remains of the city upon the hill?</title>
+        <description>"Explore the intersection of history, politics, and culture in 'What Remains of the City Upon the Hill?', a thought-provoking podcast examining the evolution of American ideals and their relevance in modern society."</description>
+        <pubDate>Tue, 14 Jul 2026 05:28:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v713/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v713_1784006915</guid>
     </item>
 </channel>
 </rss>
