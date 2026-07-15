@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Elon Musk and the age of the corporate leviathan</title>
-        <description>"Explore the intersection of business and power with our podcast, 'Elon Musk and the Age of the Corporate Leviathan'. Dive into the world of corporate giants and the visionary leaders like Elon Musk who shape them, examining the impact on society, economics, and innovation."</description>
-        <pubDate>Wed, 15 Jul 2026 02:14:41 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v720/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v720_1784081681</guid>
+        <title>Putin’s options: an oligarch speaks out</title>
+        <description>"Get exclusive insight into the mind of Vladimir Putin from a rare perspective - a Russian oligarch. Tune in to 'Putin's Options' for candid discussions on the president's motivations, geopolitical maneuvers, and the future of Russia's global influence."</description>
+        <pubDate>Wed, 15 Jul 2026 05:29:36 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v721/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v721_1784093376</guid>
     </item>
 </channel>
 </rss>
