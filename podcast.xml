@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Why are big AI labs hiring so many philosophers?</title>
-        <description>"Explore the unexpected intersection of tech and ethics as we discuss why big AI labs are hiring philosophers to shape the future of artificial intelligence. Tune in to our podcast for insightful conversations on AI, philosophy, and the human impact of emerging technologies."</description>
-        <pubDate>Wed, 15 Jul 2026 08:06:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v722/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v722_1784102779</guid>
+        <title>The secret to good questions</title>
+        <description>"Unlock the art of inquiry with 'The Secret to Good Questions' podcast, exploring the power of thoughtful questioning to spark meaningful conversations, challenge assumptions, and reveal new insights."</description>
+        <pubDate>Wed, 15 Jul 2026 10:48:14 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v723/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v723_1784112494</guid>
     </item>
 </channel>
 </rss>
