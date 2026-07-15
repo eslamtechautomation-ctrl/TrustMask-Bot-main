@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Putin’s options: an oligarch speaks out</title>
-        <description>"Get exclusive insight into the mind of Vladimir Putin from a rare perspective - a Russian oligarch. Tune in to 'Putin's Options' for candid discussions on the president's motivations, geopolitical maneuvers, and the future of Russia's global influence."</description>
-        <pubDate>Wed, 15 Jul 2026 05:29:36 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v721/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v721_1784093376</guid>
+        <title>Why are big AI labs hiring so many philosophers?</title>
+        <description>"Explore the unexpected intersection of tech and ethics as we discuss why big AI labs are hiring philosophers to shape the future of artificial intelligence. Tune in to our podcast for insightful conversations on AI, philosophy, and the human impact of emerging technologies."</description>
+        <pubDate>Wed, 15 Jul 2026 08:06:19 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v722/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v722_1784102779</guid>
     </item>
 </channel>
 </rss>
