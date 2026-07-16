@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Blighty newsletter: Britain’s most popular names</title>
-        <description>"Discover the most popular baby names in Britain with the Blighty newsletter podcast, exploring trends, traditions, and the stories behind the UK's favourite names."</description>
-        <pubDate>Thu, 16 Jul 2026 19:07:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v734/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v734_1784228824</guid>
+        <title>What to watch this week</title>
+        <description>"Get the inside scoop on the latest TV shows and movies with 'What to Watch This Week', your ultimate guide to the best new releases and hidden gems. Tune in for weekly recommendations, reviews, and discussions on the hottest streaming content."</description>
+        <pubDate>Thu, 16 Jul 2026 22:02:44 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v735/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v735_1784239364</guid>
     </item>
 </channel>
 </rss>
