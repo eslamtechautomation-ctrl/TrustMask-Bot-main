@@ -4,15 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Donald Trump is kicking out Chinese firms, but keeping their tech</title>
-        <description>"Explore the complexities of US-China trade relations as we delve into Donald Trump's policies on Chinese firms, and the surprising exceptions for their cutting-edge tech. Tune in to our latest podcast episode." (155 characters, including spaces) 
-
-Alternatively, a shorter version: 
-
-"Trump's US-China trade policies: kicking out firms, but keeping their tech. Listen now." (128 characters, including spaces)</description>
-        <pubDate>Thu, 16 Jul 2026 05:38:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v729/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v729_1784180338</guid>
+        <title>What Indians are reading, and what that reveals about the self</title>
+        <description>"Uncover the reading habits of India and gain insight into the country's psyche. Tune in to 'What Indians are reading, and what that reveals about the self' podcast to explore the fascinating world of Indian literature and its reflection on society and self."</description>
+        <pubDate>Thu, 16 Jul 2026 08:10:13 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v730/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v730_1784189413</guid>
     </item>
 </channel>
 </rss>
