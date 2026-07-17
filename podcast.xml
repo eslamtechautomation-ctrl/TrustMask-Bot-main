@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What to watch this week</title>
-        <description>"Get the inside scoop on the latest TV shows and movies with 'What to Watch This Week', your ultimate guide to the best new releases and hidden gems. Tune in for weekly recommendations, reviews, and discussions on the hottest streaming content."</description>
-        <pubDate>Thu, 16 Jul 2026 22:02:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v735/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v735_1784239364</guid>
+        <title>Britain’s bookies have weathered a tricky World Cup</title>
+        <description>"Exploring the resilience of Britain's bookmakers amidst the challenges of the World Cup, this podcast delves into the industry's highs and lows, and what's next for UK betting."</description>
+        <pubDate>Fri, 17 Jul 2026 02:29:52 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v736/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v736_1784255392</guid>
     </item>
 </channel>
 </rss>
