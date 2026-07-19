@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Is The Economist always wrong?</title>
-        <description>"Challenge the status quo with 'Is The Economist always wrong?', a thought-provoking podcast that critically examines the predictions and analyses of the renowned publication, exploring where they go right and wrong."</description>
-        <pubDate>Sat, 18 Jul 2026 21:49:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v751/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v751_1784411365</guid>
+        <title>Nigel Farage’s rather silly by-election</title>
+        <description>"Join Nigel Farage for a lighthearted look at the latest by-election news and analysis, as he shares his unique perspectives and humor on the UK's political landscape."</description>
+        <pubDate>Sun, 19 Jul 2026 02:32:53 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v752/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v752_1784428373</guid>
     </item>
 </channel>
 </rss>
