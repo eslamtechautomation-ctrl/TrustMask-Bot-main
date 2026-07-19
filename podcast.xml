@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Happy birthday America</title>
-        <description>"Celebrate American independence with our 'Happy Birthday America' podcast, exploring the country's rich history, cultural heritage, and the significance of the 4th of July."</description>
-        <pubDate>Sun, 19 Jul 2026 13:14:04 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v756/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v756_1784466844</guid>
+        <title>Violence is reshaping British political life</title>
+        <description>"Explore the alarming rise of violence in British politics with our thought-provoking podcast, 'Violence is Reshaping British Political Life'. Dive into expert analysis and insightful discussions on the impact of violence on democracy, public safety, and the future of British society."</description>
+        <pubDate>Sun, 19 Jul 2026 15:56:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v757/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v757_1784476603</guid>
     </item>
 </channel>
 </rss>
