@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Where is the home of football?</title>
-        <description>"Discover the roots of the beautiful game in our podcast 'Where is the home of football?' Exploring the history, culture, and rivalries that define the sport's true home. Listen now and join the debate!"</description>
-        <pubDate>Tue, 21 Jul 2026 19:19:07 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v773/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v773_1784661547</guid>
+        <title>Why Britons now trust weather forecasters</title>
+        <description>"Discover the surprising reasons behind the growing trust in British weather forecasters. Tune in to our latest podcast episode, 'Why Britons now trust weather forecasters', to explore the fascinating story behind this shift in public perception." (155 characters, including spaces, suitable for meta description)</description>
+        <pubDate>Tue, 21 Jul 2026 22:02:31 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v774/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v774_1784671351</guid>
     </item>
 </channel>
 </rss>
