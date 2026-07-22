@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Africa’s new middle class is putting down roots in the suburbs</title>
-        <description>"Explore the rise of Africa's emerging middle class and their shift to suburban living. Tune in to our podcast as we delve into the trends, challenges, and opportunities shaping the continent's growing urban landscape."</description>
-        <pubDate>Wed, 22 Jul 2026 02:29:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v775/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v775_1784687398</guid>
+        <title>Politics</title>
+        <description>"Join the conversation on our 'Politics' podcast, where we dive into the latest news, trends, and analysis of local and global affairs, exploring the complexities of governance, policy, and social issues."</description>
+        <pubDate>Wed, 22 Jul 2026 05:48:28 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v776/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v776_1784699308</guid>
     </item>
 </channel>
 </rss>
