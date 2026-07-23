@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Women’s progress at work is stalling</title>
-        <description>"Explore the challenges facing women in the workplace and the factors contributing to the stall in their progress. Tune in to our latest podcast episode, 'Women's Progress at Work is Stalling', for insightful discussions and expert analysis on achieving gender equality in the corporate world." (155 characters, including spaces) 
-
-Alternatively, a more concise version: 
-"Discussing the obstacles to women's career advancement and strategies for change in our latest podcast episode, 'Women's Progress at Work is Stalling'." (130 characters, including spaces)</description>
-        <pubDate>Thu, 23 Jul 2026 19:13:54 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v789/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v789_1784834034</guid>
+        <title>Europe seems set to ease its carbon pricing</title>
+        <description>"Explore the latest developments in EU climate policy as we discuss the potential easing of carbon pricing in Europe and its implications for global sustainability efforts."</description>
+        <pubDate>Thu, 23 Jul 2026 22:02:58 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v790/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v790_1784844178</guid>
     </item>
 </channel>
 </rss>
