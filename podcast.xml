@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Europe seems set to ease its carbon pricing</title>
-        <description>"Explore the latest developments in EU climate policy as we discuss the potential easing of carbon pricing in Europe and its implications for global sustainability efforts."</description>
-        <pubDate>Thu, 23 Jul 2026 22:02:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v790/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v790_1784844178</guid>
+        <title>The geopolitics of air-conditioning</title>
+        <description>"Explore the surprising global impact of air-conditioning on international relations, economies, and cultures in 'The Geopolitics of Air-Conditioning' podcast, where cooling meets conflict and climate change."</description>
+        <pubDate>Fri, 24 Jul 2026 02:31:50 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v791/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v791_1784860310</guid>
     </item>
 </channel>
 </rss>
