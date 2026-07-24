@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>In it to bin it: Nigel Farage v Count Binface</title>
-        <description>"Get ready for a hilarious clash of ideologies in 'In it to bin it: Nigel Farage v Count Binface', a cheeky podcast debate featuring the outspoken Brexit leader and his eccentric opponent. Tune in for witty banter, unexpected insights, and a dash of humor."</description>
-        <pubDate>Fri, 24 Jul 2026 05:49:09 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v792/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v792_1784872149</guid>
+        <title>The future of chipmaking looks more like Manhattan than Silicon Valley</title>
+        <description>"Explore the evolving landscape of chipmaking and how it's shifting from Silicon Valley to a more complex, densely-packed model, akin to Manhattan's urban planning, in this insightful podcast."</description>
+        <pubDate>Fri, 24 Jul 2026 08:24:57 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v793/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v793_1784881497</guid>
     </item>
 </channel>
 </rss>
