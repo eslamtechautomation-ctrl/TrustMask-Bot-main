@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Cover Story newsletter: Should you be afraid of Elon Musk?</title>
-        <description>"Explore the impact of Elon Musk's innovations and ambitions on our world. Tune in to the Cover Story newsletter podcast to separates fact from fiction and determine: should you be afraid of Elon Musk?"</description>
-        <pubDate>Sat, 25 Jul 2026 13:21:39 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v803/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v803_1784985699</guid>
+        <title>Closing Europe’s dangerous missile gap</title>
+        <description>"Explore the growing threat of Europe's missile gap and what it means for global security. Listen to expert insights and analysis on the latest podcast episode: Closing Europe's Dangerous Missile Gap." (155 characters, including spaces)</description>
+        <pubDate>Sat, 25 Jul 2026 16:02:59 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v804/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v804_1784995379</guid>
     </item>
 </channel>
 </rss>
