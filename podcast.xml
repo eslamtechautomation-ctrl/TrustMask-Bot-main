@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How to shrink the Fed’s $7trn balance-sheet</title>
-        <description>"Explore the intricacies of the Federal Reserve's $7 trillion balance sheet and discover expert strategies for reducing its size. Tune in to our latest podcast episode for in-depth analysis and discussions on monetary policy, economic implications, and potential solutions."</description>
-        <pubDate>Sat, 25 Jul 2026 05:41:46 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v800/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v800_1784958106</guid>
+        <title>Earth is dimming</title>
+        <description>"Explore the alarming trend of Earth's diminishing brightness on the 'Earth is Dimming' podcast. Join us as we delve into the causes, consequences, and potential solutions to this critical environmental issue." (155 characters, including spaces) 
+
+Alternatively, for a shorter description:
+"Uncover the truth behind Earth's fading light on 'Earth is Dimming'" (127 characters, including spaces)</description>
+        <pubDate>Sat, 25 Jul 2026 08:03:59 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v801/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v801_1784966639</guid>
     </item>
 </channel>
 </rss>
