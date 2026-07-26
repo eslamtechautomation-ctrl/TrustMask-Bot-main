@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>America’s other battle with Iran</title>
-        <description>"Explore the lesser-known history of US-Iran relations in 'America's Other Battle with Iran', a podcast delving into the complex and often overlooked conflicts between the two nations, beyond the headlines."</description>
-        <pubDate>Sun, 26 Jul 2026 10:43:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v809/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v809_1785062624</guid>
+        <title>Cities are rethinking what happens after dark</title>
+        <description>"Explore the evolution of urban nightlife as cities redefine the possibilities of the evening hours, from vibrant cultural scenes to innovative safety initiatives."</description>
+        <pubDate>Sun, 26 Jul 2026 13:17:36 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v810/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v810_1785071856</guid>
     </item>
 </channel>
 </rss>
