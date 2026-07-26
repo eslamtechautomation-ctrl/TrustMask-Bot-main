@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Ukraine’s top general could be on the way out</title>
-        <description>"Latest update on Ukraine's military leadership: discover what's behind the rumors of Ukraine's top general being replaced and what it means for the war effort."</description>
-        <pubDate>Sun, 26 Jul 2026 06:02:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v808/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v808_1785045739</guid>
+        <title>America’s other battle with Iran</title>
+        <description>"Explore the lesser-known history of US-Iran relations in 'America's Other Battle with Iran', a podcast delving into the complex and often overlooked conflicts between the two nations, beyond the headlines."</description>
+        <pubDate>Sun, 26 Jul 2026 10:43:44 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v809/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v809_1785062624</guid>
     </item>
 </channel>
 </rss>
