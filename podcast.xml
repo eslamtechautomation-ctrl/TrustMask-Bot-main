@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>India’s Gen-Z protesters demand a proper education</title>
-        <description>"Discover the voices of India's Gen-Z protesters as they fight for a better education system, challenging the status quo and demanding change. Listen now to their stories and struggles in this powerful podcast." (155 characters, including spaces) 
-
-Alternatively, a more concise version: 
-"India's Gen-Z protesters speak out on education reform in this empowering podcast." (127 characters)</description>
-        <pubDate>Mon, 27 Jul 2026 06:28:18 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v815/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v815_1785133698</guid>
+        <title>Europe’s economy is a mess. Its stock markets are a steal</title>
+        <description>"Discover the hidden investment opportunities in Europe's undervalued stock markets. Tune in to our latest podcast as we explore the disconnect between the continent's economic woes and its surprisingly resilient markets."</description>
+        <pubDate>Mon, 27 Jul 2026 12:21:23 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v816/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v816_1785154883</guid>
     </item>
 </channel>
 </rss>
