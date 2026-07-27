@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The mayor of Scamtown</title>
-        <description>"Join the Mayor of Scamtown podcast as we delve into the wild world of scams, cons, and swindles. Exploring the latest trends and tactics used by scammers, we'll keep you informed and ahead of the game. Tune in for entertaining and educational episodes that will leave you scam-savvy and ready to take on the scammers."</description>
-        <pubDate>Mon, 27 Jul 2026 19:24:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v818/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v818_1785180298</guid>
+        <title>A hit new show takes on polygamy in modern South Africa</title>
+        <description>"Explore the complex world of polygamy in modern South Africa with our thought-provoking podcast, delving into the cultural, social, and personal aspects of this multifaceted issue."</description>
+        <pubDate>Mon, 27 Jul 2026 22:05:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v819/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v819_1785189925</guid>
     </item>
 </channel>
 </rss>
