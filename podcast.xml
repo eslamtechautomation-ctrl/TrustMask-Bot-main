@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>A hit new show takes on polygamy in modern South Africa</title>
-        <description>"Explore the complex world of polygamy in modern South Africa with our thought-provoking podcast, delving into the cultural, social, and personal aspects of this multifaceted issue."</description>
-        <pubDate>Mon, 27 Jul 2026 22:05:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v819/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v819_1785189925</guid>
+        <title>The future of chipmaking looks more like Manhattan than Silicon Valley</title>
+        <description>"Explore the evolving landscape of chipmaking in our latest podcast, 'The future of chipmaking looks more like Manhattan than Silicon Valley'. Discover how innovative technologies and manufacturing methods are transforming the industry, moving away from traditional Silicon Valley approaches and towards a more complex, high-rise inspired model."</description>
+        <pubDate>Tue, 28 Jul 2026 02:24:21 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v820/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v820_1785205461</guid>
     </item>
 </channel>
 </rss>
