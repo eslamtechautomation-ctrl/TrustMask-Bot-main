@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>State funding threatens Chinese tech</title>
-        <description>"Explore the impact of state funding on Chinese tech companies and the global implications. Tune in to our latest podcast episode: 'State funding threatens Chinese tech'." (155 characters, including spaces) 
-
-Alternatively, a more concise version: 
-"Chinese tech under threat: How state funding is reshaping the industry. Listen now." (127 characters, including spaces)</description>
-        <pubDate>Tue, 28 Jul 2026 05:44:56 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v821/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v821_1785217496</guid>
+        <title>The Iran war is America’s least popular since polls began</title>
+        <description>"Unpacking the unpopularity of the potential Iran war, this podcast explores the lowest-ever public support for a US conflict, delving into the reasons behind America's widespread disapproval since polling began."</description>
+        <pubDate>Tue, 28 Jul 2026 08:30:59 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v822/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v822_1785227459</guid>
     </item>
 </channel>
 </rss>
