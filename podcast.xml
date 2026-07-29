@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Europe’s fires are just the start</title>
-        <description>"Explore the alarming rise of wildfires in Europe and beyond, and what they reveal about the climate crisis, in our thought-provoking podcast 'Europe's fires are just the start'." (155 characters, including spaces) 
-
-Alternatively, for a shorter description:
-"Wildfires in Europe: a symptom of a larger climate crisis. Tune in to our podcast 'Europe's fires are just the start'." (138 characters, including spaces)</description>
-        <pubDate>Wed, 29 Jul 2026 05:51:23 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v829/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v829_1785304283</guid>
+        <title>The Chinese economic experiment that failed</title>
+        <description>"Explore the fascinating story of China's economic trials and tribulations in 'The Chinese Economic Experiment That Failed', a podcast delving into the country's most notable failed initiatives and their lasting impact on the global economy."</description>
+        <pubDate>Wed, 29 Jul 2026 08:38:11 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v830/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v830_1785314291</guid>
     </item>
 </channel>
 </rss>
