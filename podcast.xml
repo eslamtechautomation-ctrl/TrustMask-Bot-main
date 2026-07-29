@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The Philippines war on drugs outlasts the Duterte presidency</title>
-        <description>"Explore the legacy of President Duterte's war on drugs in the Philippines and its enduring impact on the country, beyond his presidency, in this thought-provoking podcast."</description>
-        <pubDate>Wed, 29 Jul 2026 02:28:32 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v828/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v828_1785292112</guid>
+        <title>Europe’s fires are just the start</title>
+        <description>"Explore the alarming rise of wildfires in Europe and beyond, and what they reveal about the climate crisis, in our thought-provoking podcast 'Europe's fires are just the start'." (155 characters, including spaces) 
+
+Alternatively, for a shorter description:
+"Wildfires in Europe: a symptom of a larger climate crisis. Tune in to our podcast 'Europe's fires are just the start'." (138 characters, including spaces)</description>
+        <pubDate>Wed, 29 Jul 2026 05:51:23 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v829/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v829_1785304283</guid>
     </item>
 </channel>
 </rss>
