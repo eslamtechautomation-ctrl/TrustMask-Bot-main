@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Lam Wing-kee, the bookseller who would not admit defeat</title>
-        <description>"Listen to the inspiring story of Lam Wing-kee, a Hong Kong bookseller who defied censorship and authoritarianism. Discover his bravery and resilience in the face of overwhelming odds in this powerful podcast."</description>
-        <pubDate>Thu, 30 Jul 2026 16:25:29 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v841/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v841_1785428729</guid>
+        <title>The delights of deadlines</title>
+        <description>"Join 'The Delights of Deadlines' podcast as we explore the thrill of working under pressure, sharing strategies for success, and interviewing guests who thrive in fast-paced environments."</description>
+        <pubDate>Thu, 30 Jul 2026 19:23:25 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v842/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v842_1785439405</guid>
     </item>
 </channel>
 </rss>
