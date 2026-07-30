@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The delights of deadlines</title>
-        <description>"Join 'The Delights of Deadlines' podcast as we explore the thrill of working under pressure, sharing strategies for success, and interviewing guests who thrive in fast-paced environments."</description>
-        <pubDate>Thu, 30 Jul 2026 19:23:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v842/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v842_1785439405</guid>
+        <title>Elon Musk is building a form of capitalism that Adam Smith would loathe</title>
+        <description>"Explore the intersection of tech and economics as we dive into Elon Musk's vision for capitalism, challenging traditional principles laid out by Adam Smith. Listen now to this thought-provoking podcast." (155 characters, ideal for SEO meta descriptions)</description>
+        <pubDate>Thu, 30 Jul 2026 22:04:09 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v843/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v843_1785449049</guid>
     </item>
 </channel>
 </rss>
