@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>You’ve come a long way, Bibi: Israel’s crucial election</title>
-        <description>"Israel's pivotal election: Join us as we explore the country's shifting political landscape and what's at stake in this crucial vote, on our latest podcast episode, 'You've come a long way, Bibi'." (155 characters) 
-
-Alternatively, for a longer description: 
-"Delve into Israel's high-stakes election with our expert analysis. From Netanyahu's legacy to the future of Israeli politics, tune in to 'You've come a long way, Bibi' for in-depth discussion and insight." (300 characters)</description>
-        <pubDate>Sun, 02 Aug 2026 05:56:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v860/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v860_1785650179</guid>
+        <title>Why traditional career advice is failing Gen Z</title>
+        <description>"Join us as we challenge conventional wisdom and explore why traditional career advice is no longer serving Gen Z. Tune in for fresh insights and expert perspectives on the evolving workforce and what it means for the next generation of leaders."</description>
+        <pubDate>Sun, 02 Aug 2026 08:22:50 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v861/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v861_1785658970</guid>
     </item>
 </channel>
 </rss>
