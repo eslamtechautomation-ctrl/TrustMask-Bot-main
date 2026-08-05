@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>In praise of Scandinavia’s risky and dirty playgrounds</title>
-        <description>"Discover the unconventional charm of Scandinavia's adventurous playgrounds, where risk and freedom reign. Tune in to 'In Praise of Scandinavia's Risky and Dirty Playgrounds' podcast to explore the benefits of unstructured play and the region's unique approach to childhood development." (max 156 characters for meta description, or 300-320 for a shorter summary)</description>
-        <pubDate>Wed, 05 Aug 2026 11:19:55 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v884/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v884_1785928795</guid>
+        <title>The Panama Canal is growing more important</title>
+        <description>"Explore the rising significance of the Panama Canal in global trade and commerce. Tune in to 'The Panama Canal is Growing More Important' podcast for expert insights and analysis on its impact on international economy and shipping industries."</description>
+        <pubDate>Wed, 05 Aug 2026 14:04:32 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v885/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v885_1785938672</guid>
     </item>
 </channel>
 </rss>
