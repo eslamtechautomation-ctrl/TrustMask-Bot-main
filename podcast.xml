@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Earth is getting dimmer and hotter</title>
-        <description>"Explore the alarming trends of a dimming and warming Earth. Tune in to our podcast as we delve into the science behind climate change, its devastating effects, and the actions we can take to mitigate its impact."</description>
-        <pubDate>Wed, 05 Aug 2026 08:32:42 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v883/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v883_1785918762</guid>
+        <title>In praise of Scandinavia’s risky and dirty playgrounds</title>
+        <description>"Discover the unconventional charm of Scandinavia's adventurous playgrounds, where risk and freedom reign. Tune in to 'In Praise of Scandinavia's Risky and Dirty Playgrounds' podcast to explore the benefits of unstructured play and the region's unique approach to childhood development." (max 156 characters for meta description, or 300-320 for a shorter summary)</description>
+        <pubDate>Wed, 05 Aug 2026 11:19:55 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v884/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v884_1785928795</guid>
     </item>
 </channel>
 </rss>
