@@ -4,11 +4,15 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Why the EU’s big covid-recovery fund lost steam</title>
-        <description>"Explore the EU's ambitious COVID-19 recovery fund and why its momentum has slowed. Tune in to our latest podcast for in-depth analysis and expert insights on the challenges facing Europe's economic rebound."</description>
-        <pubDate>Fri, 07 Aug 2026 07:12:42 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v898/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v898_1786086762</guid>
+        <title>Why Rwandans are warming to dogs</title>
+        <description>"Discover the surprising trend of Rwandans embracing dog ownership and the cultural shift driving this new found love for canine companions in our latest podcast episode, 'Why Rwandans are warming to dogs'." (155 characters, including spaces, optimized for SEO) 
+
+Alternatively, a shorter version: 
+
+"Rwandans' surprising new love for dogs: explore the cultural shift in our podcast 'Why Rwandans are warming to dogs'." (137 characters, including spaces)</description>
+        <pubDate>Fri, 07 Aug 2026 09:59:35 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v899/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v899_1786096775</guid>
     </item>
 </channel>
 </rss>
