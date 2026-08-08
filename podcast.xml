@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Why you should sit through 15 hours of opera</title>
-        <description>"Discover the transformative power of opera in our podcast, 'Why you should sit through 15 hours of opera'. Explore the world of long-form opera and learn how it can enrich your life with unique insights and unforgettable experiences."</description>
-        <pubDate>Sat, 08 Aug 2026 06:49:22 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v906/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v906_1786171762</guid>
+        <title>Why young Africans still listen to the radio</title>
+        <description>"Discover the enduring appeal of radio in modern Africa. Tune in to 'Why Young Africans Still Listen to the Radio' as we explore the surprising reasons behind radio's persistent popularity among Africa's youth." (155 characters, including spaces) 
+
+Alternatively, a shorter version: 
+"Africa's youth still tune in: exploring radio's enduring appeal" (127 characters, including spaces)</description>
+        <pubDate>Sat, 08 Aug 2026 09:35:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v907/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v907_1786181729</guid>
     </item>
 </channel>
 </rss>
