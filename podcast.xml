@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Why young Africans still listen to the radio</title>
-        <description>"Discover the enduring appeal of radio in modern Africa. Tune in to 'Why Young Africans Still Listen to the Radio' as we explore the surprising reasons behind radio's persistent popularity among Africa's youth." (155 characters, including spaces) 
-
-Alternatively, a shorter version: 
-"Africa's youth still tune in: exploring radio's enduring appeal" (127 characters, including spaces)</description>
-        <pubDate>Sat, 08 Aug 2026 09:35:29 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v907/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v907_1786181729</guid>
+        <title>El Boletín newsletter: Why Latin America loves to hate Argentina</title>
+        <description>"Explore the complex dynamics of Latin American relationships in our latest podcast episode, 'Why Latin America loves to hate Argentina'. Discover the historical, cultural, and economic factors driving regional sentiments towards Argentina."</description>
+        <pubDate>Sat, 08 Aug 2026 12:42:51 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v908/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v908_1786192971</guid>
     </item>
 </channel>
 </rss>
