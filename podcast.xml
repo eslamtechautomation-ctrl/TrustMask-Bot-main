@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Britain is struggling to build data centres</title>
-        <description>"Discover the challenges facing Britain's data centre construction industry in our latest podcast. Explore the reasons behind the struggles and what it means for the country's digital future." (155 characters, including spaces, for optimal SEO)</description>
-        <pubDate>Sun, 09 Aug 2026 04:16:30 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v913/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v913_1786248990</guid>
+        <title>The surprising benefits of red light</title>
+        <description>"Discover the powerful effects of red light therapy on your body and mind. Tune in to 'The Surprising Benefits of Red Light' podcast to learn how this innovative treatment can boost energy, reduce inflammation, and enhance overall well-being."</description>
+        <pubDate>Sun, 09 Aug 2026 06:53:18 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v914/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v914_1786258398</guid>
     </item>
 </channel>
 </rss>
