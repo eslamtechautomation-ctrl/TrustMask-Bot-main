@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>How Demis Hassabis would regulate AI</title>
-        <description>"Explore the future of AI regulation with insights from Demis Hassabis, co-founder of DeepMind. Tune in to our podcast as we delve into his vision for responsible AI development and the potential frameworks for governance."</description>
-        <pubDate>Mon, 10 Aug 2026 15:58:43 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v925/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v925_1786377523</guid>
+        <title>NASA takes aim at fire storms</title>
+        <description>"Explore the intersection of space technology and disaster response as NASA tackles the growing threat of fire storms. Listen now to 'NASA Takes Aim at Fire Storms' podcast."</description>
+        <pubDate>Mon, 10 Aug 2026 18:54:46 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v926/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v926_1786388086</guid>
     </item>
 </channel>
 </rss>
