@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The political challenges of air-conditioning</title>
-        <description>"Explore the unexpected intersection of climate, politics, and cooling in 'The Political Challenges of Air-Conditioning' podcast. Dive into the complex issues surrounding AC's impact on energy consumption, global inequality, and environmental sustainability."</description>
-        <pubDate>Mon, 10 Aug 2026 13:02:58 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v924/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v924_1786366978</guid>
+        <title>How Demis Hassabis would regulate AI</title>
+        <description>"Explore the future of AI regulation with insights from Demis Hassabis, co-founder of DeepMind. Tune in to our podcast as we delve into his vision for responsible AI development and the potential frameworks for governance."</description>
+        <pubDate>Mon, 10 Aug 2026 15:58:43 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v925/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v925_1786377523</guid>
     </item>
 </channel>
 </rss>
