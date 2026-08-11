@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The mayor of Scamtown</title>
-        <description>"Join us in Scamtown, where the streets are paved with deceit and the mayor is always on the case. Tune in to 'The Mayor of Scamtown' podcast for lively discussions, humorous takes, and expert insights on the latest scams, frauds, and online threats. Subscribe now and stay informed!" (approx. 155-160 characters) 
-
-Alternatively, a shorter version: 
-"Exposing scams and frauds, one story at a time. Tune in to 'The Mayor of Scamtown' podcast for expert insights and humorous takes." (approx. 125-130 characters)</description>
-        <pubDate>Tue, 11 Aug 2026 18:59:25 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v934/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v934_1786474765</guid>
+        <title>The return of Max Flannel, our workplace agony uncle</title>
+        <description>"Get workplace wisdom and witty advice from Max Flannel, the agony uncle for the modern office. Tune in to 'The Return of Max Flannel' podcast for humorous and helpful takes on workplace dilemmas and professional conundrums."</description>
+        <pubDate>Tue, 11 Aug 2026 21:43:26 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v935/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v935_1786484606</guid>
     </item>
 </channel>
 </rss>
