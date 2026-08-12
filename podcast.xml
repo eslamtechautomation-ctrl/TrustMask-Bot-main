@@ -4,11 +4,14 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>The endgame in Iran</title>
-        <description>"Explore the complexities of Iran's political landscape with 'The Endgame in Iran' podcast, delving into the country's nuclear ambitions, regional influence, and the implications for global stability."</description>
-        <pubDate>Wed, 12 Aug 2026 13:04:19 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v940/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v940_1786539859</guid>
+        <title>Can prediction markets win over Wall Street?</title>
+        <description>"Explore the potential of prediction markets to disrupt traditional finance in our latest podcast episode: Can prediction markets win over Wall Street? Tune in for expert insights and analysis on the future of investing." (155 characters, incl. spaces) 
+
+Alternatively, a longer description (156-300 characters) could be: 
+"Discover how prediction markets are challenging Wall Street's status quo. Join our podcast discussion on the potential of decentralized forecasting to transform the financial landscape and learn if prediction markets can win over traditional investors."</description>
+        <pubDate>Wed, 12 Aug 2026 15:58:00 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v941/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v941_1786550280</guid>
     </item>
 </channel>
 </rss>
