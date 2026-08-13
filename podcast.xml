@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Is Europe safer than America?</title>
-        <description>"Explore the transatlantic crime gap in our thought-provoking podcast, 'Is Europe Safer than America?' as we delve into the data, trends, and expert insights to compare safety and security in the US and Europe."</description>
-        <pubDate>Thu, 13 Aug 2026 10:03:00 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v947/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v947_1786615380</guid>
+        <title>Should AI labs be treated like the owners of dangerous animals?</title>
+        <description>"Explore the ethics of AI development in our thought-provoking podcast, as we debate whether AI labs should be held accountable like owners of wild animals. Tune in for insightful discussions on AI responsibility and safety."</description>
+        <pubDate>Thu, 13 Aug 2026 13:05:16 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v948/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v948_1786626316</guid>
     </item>
 </channel>
 </rss>
