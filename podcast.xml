@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Working memory: the surprising decline of dementia</title>
-        <description>"Explore the fascinating link between working memory and dementia in our latest podcast, 'Working Memory: The Surprising Decline of Dementia'. Discover the latest research and expert insights into the unexpected decline of dementia rates and the crucial role of working memory in cognitive health."</description>
-        <pubDate>Fri, 14 Aug 2026 09:59:03 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v955/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v955_1786701543</guid>
+        <title>Economic data, commodities and markets</title>
+        <description>"Stay ahead of market trends with our podcast, covering the latest economic data, commodities, and market analysis. Tune in for expert insights and updates to inform your investment decisions."</description>
+        <pubDate>Fri, 14 Aug 2026 13:01:56 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v956/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v956_1786712516</guid>
     </item>
 </channel>
 </rss>
