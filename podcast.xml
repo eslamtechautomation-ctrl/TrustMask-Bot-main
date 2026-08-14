@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic data, commodities and markets</title>
-        <description>"Stay ahead of market trends with our podcast, covering the latest economic data, commodities, and market analysis. Tune in for expert insights and updates to inform your investment decisions."</description>
-        <pubDate>Fri, 14 Aug 2026 13:01:56 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v956/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v956_1786712516</guid>
+        <title>Attention, please!</title>
+        <description>"Tune in to 'Attention, Please!' - a thought-provoking podcast exploring life's big questions, surprising stories, and unexpected insights. Join the conversation and stay engaged with new episodes released regularly."</description>
+        <pubDate>Fri, 14 Aug 2026 15:49:28 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v957/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v957_1786722568</guid>
     </item>
 </channel>
 </rss>
