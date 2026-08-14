@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Nirmal Purja performed momentous feats in the Death Zone</title>
-        <description>"Listen to the gripping story of Nirmal Purja, a mountaineer who achieved unprecedented success in the Himalayas, conquering the highest peaks in the 'Death Zone' and redefining human limits. Tune in to our podcast for an inspiring tale of adventure and perseverance." (155 characters, 30 words) 
-
-Alternatively, a more concise version: 
-"Discover Nirmal Purja's record-breaking climbs in the 'Death Zone', a testament to human resilience and determination, on our latest podcast episode." (137 characters, 24 words)</description>
-        <pubDate>Thu, 13 Aug 2026 21:42:13 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v951/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v951_1786657333</guid>
+        <title>Betye Saar believed thrown-out objects should have a second life</title>
+        <description>"Explore the visionary world of Betye Saar, a pioneering artist who breathed new life into discarded objects. Tune in to our podcast as we delve into her inspiring story and creative process, uncovering the transformative power of giving second chances to thrown-out treasures."</description>
+        <pubDate>Fri, 14 Aug 2026 01:46:48 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v952/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v952_1786672008</guid>
     </item>
 </channel>
 </rss>
