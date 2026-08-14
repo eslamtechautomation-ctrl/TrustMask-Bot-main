@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Economic, data, commodities and markets</title>
-        <description>"Stay ahead of the curve with our podcast, where we dive into the world of economics, data analysis, commodities, and market trends. Tune in for insightful discussions and expert analysis on the latest developments shaping the global economy."</description>
-        <pubDate>Fri, 14 Aug 2026 18:51:11 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v958/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v958_1786733471</guid>
+        <title>A big earthquake reveals two very different Colombias</title>
+        <description>"Exploring the contrasting realities of Colombia after a devastating earthquake. Listen to 'A big earthquake reveals two very different Colombias' podcast to discover the country's diverse social and economic landscape."</description>
+        <pubDate>Fri, 14 Aug 2026 21:23:02 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v959/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v959_1786742582</guid>
     </item>
 </channel>
 </rss>
