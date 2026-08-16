@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>What to watch this week</title>
-        <description>"Get the latest TV and movie recommendations with 'What to Watch This Week', a weekly podcast discussing new releases, hidden gems, and trending shows. Tune in for expert opinions, reviews, and insider advice on what to binge-watch now."</description>
-        <pubDate>Sun, 16 Aug 2026 12:34:48 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v972/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v972_1786883688</guid>
+        <title>How poor countries are dealing with America’s AIDS cuts</title>
+        <description>"Explore the impact of US funding cuts on global AIDS relief in impoverished nations. Listen to 'How poor countries are dealing with America’s AIDS cuts' podcast for insightful discussions and expert analysis." (155 characters, including spaces, for optimal SEO)</description>
+        <pubDate>Sun, 16 Aug 2026 15:19:42 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v973/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v973_1786893582</guid>
     </item>
 </channel>
 </rss>
