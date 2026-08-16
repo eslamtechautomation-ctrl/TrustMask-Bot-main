@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>Blighty newsletter: Nigel Farage v Count Binface</title>
-        <description>"Join the debate: Nigel Farage v Count Binface on the Blighty newsletter podcast, exploring UK politics, satire, and controversy with two polarizing figures. Listen now!"</description>
-        <pubDate>Sun, 16 Aug 2026 01:10:44 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v968/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v968_1786842644</guid>
+        <title>The Big Mac index turns 40</title>
+        <description>"Join us on 'The Big Mac Index Turns 40' podcast as we explore the fascinating history and surprising insights behind The Economist's iconic inflation gauge, and what it reveals about the global economy today."</description>
+        <pubDate>Sun, 16 Aug 2026 03:46:09 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v969/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v969_1786851969</guid>
     </item>
 </channel>
 </rss>
