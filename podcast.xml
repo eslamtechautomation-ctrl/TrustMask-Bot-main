@@ -4,11 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>From parking tickets to planning, the state is under siege by AI</title>
-        <description>"Explore the rapidly evolving intersection of AI and government in our podcast, 'From Parking Tickets to Planning'. Dive into the transformative impact of artificial intelligence on state operations, from mundane tasks to complex policy decisions, and discover what the future holds."</description>
-        <pubDate>Sat, 15 Aug 2026 21:19:00 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v967/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v967_1786828740</guid>
+        <title>Blighty newsletter: Nigel Farage v Count Binface</title>
+        <description>"Join the debate: Nigel Farage v Count Binface on the Blighty newsletter podcast, exploring UK politics, satire, and controversy with two polarizing figures. Listen now!"</description>
+        <pubDate>Sun, 16 Aug 2026 01:10:44 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v968/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v968_1786842644</guid>
     </item>
 </channel>
 </rss>
