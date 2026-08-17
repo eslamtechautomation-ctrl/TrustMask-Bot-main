@@ -4,14 +4,11 @@
     <title>The Economic Edge: Master Your Wealth</title>
     <itunes:image href="https://raw.githubusercontent.com/eslamtechautomation-ctrl/TrustMask-Bot-main/refs/heads/main/podcast_cover.jpg" />
     <item>
-        <title>A temple scandal rocks India’s ruling party</title>
-        <description>"Uncover the truth behind a shocking temple scandal that's sending shockwaves through India's ruling party. Listen to our latest podcast episode for in-depth analysis and expert insights." (155 characters, including spaces) 
-
-Alternatively, a shorter version: 
-"India's ruling party embroiled in temple scandal. Listen for expert analysis." (126 characters, including spaces)</description>
-        <pubDate>Mon, 17 Aug 2026 01:07:56 +0000</pubDate>
-        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v976/episode.mp3" length="1048576" type="audio/mpeg"/>
-        <guid>v976_1786928876</guid>
+        <title>Americans are losing their appetite for fast food</title>
+        <description>"Explore the declining demand for fast food in the US, as Americans increasingly prioritize health, sustainability, and quality over convenience. Tune in to our podcast for insightful discussions on the shifting culinary landscape."</description>
+        <pubDate>Mon, 17 Aug 2026 03:48:29 +0000</pubDate>
+        <enclosure url="https://github.com/eslamtechautomation-ctrl/TrustMask-Bot-main/releases/download/v977/episode.mp3" length="1048576" type="audio/mpeg"/>
+        <guid>v977_1786938509</guid>
     </item>
 </channel>
 </rss>
